@@ -1,3 +1,4 @@
+| [Sun Jan 20 06:00:01 UTC 2019](https://transfer.sh/Bns1S/dashninja-dbdump-20190120070001.tar.bz2) | 261443625 | 672f2d1efbb251fe4a984cace522acd643bebe93f3f33fa804cacc1be82e1e78 | 
 | [Sat Jan 19 06:00:01 UTC 2019](https://transfer.sh/h1iS0/dashninja-dbdump-20190119070001.tar.bz2) | 261285139 | f6196da6066f441b47d4b3d1f863ed5199761ad641282db06984caae9266669d | 
 | [Fri Jan 18 06:00:01 UTC 2019](https://transfer.sh/gdHS2/dashninja-dbdump-20190118070001.tar.bz2) | 261221540 | 0c05701f9a3a2b43ba3c34a14dc632009db615f30bf4a4ce2b45c3a73084a76f | 
 | [Thu Jan 17 06:00:01 UTC 2019](https://transfer.sh/aXav2/dashninja-dbdump-20190117070001.tar.bz2) | 261019370 | 9acdedc09f24f9421f44dd8d81732e390264d02f5a23cca35acb01f4e5a57397 | 
@@ -11,4 +12,3 @@
 | [Wed Jan  9 06:00:01 UTC 2019](https://transfer.sh/Gworc/dashninja-dbdump-20190109070001.tar.bz2) | 259624053 | 52d6a9d16b6bbefa97e9224f0653dfc91c4c54542ed9d532435369fb85d87efd | 
 | [Tue Jan  8 06:00:01 UTC 2019](https://transfer.sh/gJ65e/dashninja-dbdump-20190108070001.tar.bz2) | 259490377 | 329b4d6c642f33a1bfc3cf01165bdc4cf52e438050027cb80ba8478b261039a9 | 
 | [Mon Jan  7 06:00:02 UTC 2019](https://transfer.sh/13zxNF/dashninja-dbdump-20190107070002.tar.bz2) | 259358768 | 1969b79e3384591498ed39437d3e814bcbda1683b5e3bb250a9bdf98d514351c | 
-| [Sun Jan  6 06:00:02 UTC 2019](https://transfer.sh/X7R8t/dashninja-dbdump-20190106070002.tar.bz2) | 259311124 | 5ff0b98e843f27fa5a1f19ffdea438e39776b7d01d6d1bd07cd55844571c1f43 | 

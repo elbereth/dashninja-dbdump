@@ -12,6 +12,7 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 ## Automatic Dump Files
 | Date | Size | SHA256 |
 |--|--|--|
+| [Sat Mar  2 06:00:01 UTC 2019](https://transfer.sh/iHcS6/dashninja-dbdump-20190302070001.tar.bz2) | 265659706 | bee96702895e3f8e2703a292ef163d9f155a0a42cb97a12bd1021881c04505e8 | 
 | [Fri Mar  1 06:00:01 UTC 2019]() | 265609441 | 5e7ab044302c5d674f48538e75b010d5235b420a47360b34aa1f621f7aa8ee8a | 
 | [Thu Feb 28 06:00:01 UTC 2019](https://transfer.sh/fxWKS/dashninja-dbdump-20190228070001.tar.bz2) | 265431864 | 2aa43e36889f7728849249ac0ab6ec923b0eb15052ffd54d42d641bb483e9216 | 
 | [Wed Feb 27 06:00:01 UTC 2019](https://transfer.sh/f8sfW/dashninja-dbdump-20190227070001.tar.bz2) | 265329103 | 26e0c0908315cbe1eca1f5a4b74e5f4cdb34e196d6c217462c0ceceeb14e0111 | 
@@ -25,4 +26,3 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 | [Tue Feb 19 06:00:01 UTC 2019](https://transfer.sh/DFjlI/dashninja-dbdump-20190219070001.tar.bz2) | 264507673 | 89f8c88b6513011c7e4b520ee5a7fbdcd819af206b58c4ce8cf14c53f8308360 | 
 | [Mon Feb 18 06:00:01 UTC 2019](https://transfer.sh/H455i/dashninja-dbdump-20190218070001.tar.bz2) | 264419808 | 3cd29af32a8c9b3607b24575e98ca2228b3df6b8c96b8862db745163cc8d2e1e | 
 | [Sun Feb 17 06:00:02 UTC 2019](https://transfer.sh/lwwii/dashninja-dbdump-20190217070002.tar.bz2) | 264278618 | 4bdb41819a97e1329ba15d56edb8692b79f25c14dad4195e9dfe2a11824e2f44 | 
-| [Sat Feb 16 06:00:01 UTC 2019](https://transfer.sh/HDxV2/dashninja-dbdump-20190216070001.tar.bz2) | 264168840 | f0ff19466d331bb76d4961853b24ccd102a14eeab70365e0a66e469baf435a0c | 

@@ -1,3 +1,4 @@
+| [Wed Mar 20 06:00:01 UTC 2019](https://transfer.sh/PqOd1/dashninja-dbdump-20190320070001.tar.bz2) | 268821296 | 00efada700c3a2dade357b9b9e0f9a45e6d4585a19129a76c412a1c11d2f0b96 | 
 | [Tue Mar 19 06:00:01 UTC 2019](https://transfer.sh/xZSaL/dashninja-dbdump-20190319070001.tar.bz2) | 268619996 | 6382ef8df6dbd06d01c59fb74099b606de45ae0b07e5cc651b80db71ce2b44ab | 
 | [Mon Mar 18 06:00:01 UTC 2019](https://transfer.sh/pTLsF/dashninja-dbdump-20190318070001.tar.bz2) | 268498505 | 4cc2fe49fca7d22c1f0b9ae7dc0dd7dc1a19f25dd6baba0d0c274fc6fb7c6b4e | 
 | [Sun Mar 17 06:00:01 UTC 2019](https://transfer.sh/15GGqy/dashninja-dbdump-20190317070001.tar.bz2) | 268299595 | 1ebfcab26d57376c6104b57e702042ddb6c11235e8ce354da807e0c6ac25f00c | 
@@ -11,4 +12,3 @@
 | [Sat Mar  9 06:00:01 UTC 2019](Could not save file) | 267392468 | 1036aa15e99e258bf304e4b7d743c728359f6c72ca40372b2f087a59ff9d9612 | 
 | [Fri Mar  8 06:00:01 UTC 2019](https://transfer.sh/K339T/dashninja-dbdump-20190308070001.tar.bz2) | 267354048 | 2d46e3ed2ce3eb8235ebcc27246a18cb2570ef83042873de605cceb0d92c1cb6 | 
 | [Thu Mar  7 06:00:01 UTC 2019](Could not save file) | 267124989 | 5516f66e5625939b0fa2e135fa2320e601d2febf5f77b937315c610406f56a75 | 
-| [Wed Mar  6 06:00:02 UTC 2019](https://transfer.sh/hxSSu/dashninja-dbdump-20190306070002.tar.bz2) | 266941372 | bb36155f2d21595126ca4bac22ebd829d9c630e85f442ff29d518f648626c3c9 | 

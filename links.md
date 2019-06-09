@@ -1,3 +1,4 @@
+| [Sun Jun  9 05:00:02 UTC 2019](https://transfer.sh/5aoYG/dashninja-dbdump-20190609070002.tar.bz2) | 277129650 | d7f7844d2ec981479d7b768cd6f76cefb4c54b5f220ca585d6bdc97c0ac27a11 | 
 | [Sat Jun  8 05:00:01 UTC 2019](https://transfer.sh/JhpNd/dashninja-dbdump-20190608070001.tar.bz2) | 277084825 | e5a2a7cf619e75ac13be421d16d1f893db18f04b6850b7f89fb1f18a9b39babd | 
 | [Fri Jun  7 05:00:01 UTC 2019](https://transfer.sh/zqUBA/dashninja-dbdump-20190607070001.tar.bz2) | 276960835 | 4edd3c0d8c9ad696ba3966380101a7a0f6f8807147313136b8ec63a5c7ad58cb | 
 | [Thu Jun  6 05:00:01 UTC 2019](https://transfer.sh/91bGF/dashninja-dbdump-20190606070001.tar.bz2) | 276794846 | ce65b0e1fc79916eacd4badee35b923ef82301452482a62fd90cd45c604b901e | 
@@ -11,4 +12,3 @@
 | [Wed May 29 05:00:02 UTC 2019](https://transfer.sh/lFT3v/dashninja-dbdump-20190529070002.tar.bz2) | 276164794 | b4dc827da4527365db57389f080fa7c3339242679ab650746cdaa69bccda75fc | 
 | [Tue May 28 05:00:01 UTC 2019](https://transfer.sh/hhK3p/dashninja-dbdump-20190528070001.tar.bz2) | 275976696 | 99f24504164a36672286816f3a44f01583bd91fafb42ab5c76311422c83798fc | 
 | [Mon May 27 05:00:02 UTC 2019](https://transfer.sh/gAGZx/dashninja-dbdump-20190527070002.tar.bz2) | 275916050 | 0659abeef258608e28d7ac9c4e0196c632dd83cb9e70bdcf8fe7ac1035742dcd | 
-| [Sun May 26 05:00:01 UTC 2019](https://transfer.sh/zT6S1/dashninja-dbdump-20190526070001.tar.bz2) | 275821906 | 806c4bc548db07dcfbaea31c642f69151340e6a99858e585893727a16859e5db | 

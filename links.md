@@ -1,3 +1,4 @@
+| [Thu Sep 19 05:00:02 UTC 2019](https://transfer.sh/cmSJA/dashninja-dbdump-20190919070002.tar.bz2) | 286843176 | 761327c235f9a664bd88e4a0d658c815d2119337843c9404395ea33ed119eb5e | 
 | [Wed Sep 18 05:00:02 UTC 2019](https://transfer.sh/82ZMY/dashninja-dbdump-20190918070002.tar.bz2) | 286803735 | 859bd179049b4d97bd0d7c96df3d61a648cf003a56850e133f719c24297a1779 | 
 | [Tue Sep 17 05:00:01 UTC 2019](Could not save metadata) | 286737144 | 252bd6a17faede4e3194269fe8a617adbaea74a44145d87759a35d5c681228e8 | 
 | [Mon Sep 16 05:00:02 UTC 2019](Could not save metadata) | 286562791 | be9da4ab29bd87fa8ac3afa33c1613a4fff8d15c9070c455d5a380fc8bf82bd9 | 
@@ -11,4 +12,3 @@
 | [Sun Sep  8 05:00:01 UTC 2019](https://transfer.sh/hwYcJ/dashninja-dbdump-20190908070001.tar.bz2) | 285867078 | 3eb9d3dd7cb2bb6b7a1ca2cda8d675c31212a5046f61835286c0bf96e2ea5fb1 | 
 | [Sat Sep  7 05:00:02 UTC 2019](https://transfer.sh/14ICHm/dashninja-dbdump-20190907070002.tar.bz2) | 285723111 | 515d6a737d74d1c2889fc29cb780ef4534a2c946894b95223b408d3d58827836 | 
 | [Fri Sep  6 05:00:01 UTC 2019](https://transfer.sh/KQHfm/dashninja-dbdump-20190906070001.tar.bz2) | 285644173 | b0776b34a73b0fdc4db2813c098b9df1a8af6b11372ad779fee3753876263942 | 
-| [Thu Sep  5 05:00:01 UTC 2019](https://transfer.sh/12mX8i/dashninja-dbdump-20190905070001.tar.bz2) | 285584342 | ce667d461381f805e45b690264bf575f054874b3365f4bfc9c2b6d1d39c4a165 | 

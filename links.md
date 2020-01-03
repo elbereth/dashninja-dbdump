@@ -1,3 +1,4 @@
+| [Fri 03 Jan 2020 06:00:02 AM UTC](https://transfer.sh/15IlPV/dashninja-dbdump-20200103070002.tar.bz2) | 296793835 | a13acc499cc1b0284e8e59dbcd31e2d8964988f4a380df706e52662cdf877391 | 
 | [Thu 02 Jan 2020 06:00:01 AM UTC](Could not save metadata) | 296710172 | 237287da0e65e308024769fb6fd490c43a4f2a77ad4470da5c9b5d73bca4af48 | 
 | [Wed 01 Jan 2020 06:00:01 AM UTC](https://transfer.sh/vMJ7i/dashninja-dbdump-20200101070001.tar.bz2) | 296483471 | 070c6b42d2876bca10b1dd6ce198b968b263d59da657a6c6c35e5fbe5e05284f | 
 | [Tue 31 Dec 2019 06:00:01 AM UTC](https://transfer.sh/smekT/dashninja-dbdump-20191231070001.tar.bz2) | 296459914 | c10622c7676a904bf4c3e3ace7118b28aaa9fe19ca0ddb590348bd13b500ee9b | 
@@ -11,4 +12,3 @@
 | [Mon 23 Dec 2019 06:00:01 AM UTC](Could not save metadata) | 295699870 | 0969f9d668449015799ef9188c3aa1a07431406b5c92ceb0a214b42587353a89 | 
 | [Sun 22 Dec 2019 06:00:02 AM UTC](https://transfer.sh/ysnga/dashninja-dbdump-20191222070002.tar.bz2) | 295642655 | 9f43cc6c6d2601f3b7ad26c20e0aa50d2d870847440936835ad3ca17b95464b6 | 
 | [Sat 21 Dec 2019 06:00:01 AM UTC](https://transfer.sh/CwuoW/dashninja-dbdump-20191221070001.tar.bz2) | 295535827 | 96845080b86fd71c34bf0f7ba39502d14a6fba8dcf76b3777a8308362607cc7b | 
-| [Fri 20 Dec 2019 06:00:02 AM UTC](https://transfer.sh/15i2vY/dashninja-dbdump-20191220070002.tar.bz2) | 295391646 | 8b8f6fafae64280640e83e0a67e78f5e432c92a8fa011cbd86b25279c91bf304 | 

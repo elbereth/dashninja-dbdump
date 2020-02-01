@@ -12,6 +12,7 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 ## Automatic Dump Files
 | Date | Size | SHA256 |
 |--|--|--|
+| [Sat 01 Feb 2020 06:00:01 AM UTC](Could not save metadata) | 299781763 | fb2fac962617fa14564ef8cdc06451040e6b3aef516179d2c3de53c86fd343ea | 
 | [Fri 31 Jan 2020 06:00:01 AM UTC](Could not save metadata) | 299593687 | c9b40c1fde6a23b90e8c6c73eeb7f943944362ee7d43146cf8fae03d8a69f113 | 
 | [Thu 30 Jan 2020 06:00:02 AM UTC](https://transfer.sh/E5XUc/dashninja-dbdump-20200130070002.tar.bz2) | 299524878 | b03c428dbb742b6dad1bb7945aca6a9ef3b427984ae67dab07805bad216b1a28 | 
 | [Wed 29 Jan 2020 06:00:02 AM UTC](https://transfer.sh/IgErC/dashninja-dbdump-20200129070002.tar.bz2) | 299414881 | 55512e1c8dbabdeb410a5001c0bbfbf9cf40c5c97b03c4e880e6c99feb0493e7 | 
@@ -25,4 +26,3 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 | [Tue 21 Jan 2020 06:00:01 AM UTC](Could not save metadata) | 298685455 | 4174ebcd9ae90dfe4775c54681feec34adbf3ccbe89e16c503e4fec3fa91a942 | 
 | [Mon 20 Jan 2020 06:00:02 AM UTC](Could not save metadata) | 298584218 | 127e4c3c36dd0f5604873622ae787b56a189a8ede16fb563c43277b0b75eb7ad | 
 | [Sun 19 Jan 2020 06:00:02 AM UTC](https://transfer.sh/Ok6w2/dashninja-dbdump-20200119070002.tar.bz2) | 298398413 | 399688a307476eca7856f607ac6db226440923014eb33ff51dc90987c81436eb | 
-| [Sat 18 Jan 2020 06:00:02 AM UTC](https://transfer.sh/7c4Q4/dashninja-dbdump-20200118070002.tar.bz2) | 298288854 | a48d89563595c0b67021c1713cbb4c48719cf42cc4485343c2ac73d5c56ce234 | 

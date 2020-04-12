@@ -12,7 +12,7 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 ## Automatic Dump Files
 | Date | Size | SHA256 |
 |--|--|--|
-| [Sat 11 Apr 2020 05:00:01 AM UTC]() | 306169519 | 7c9088441006778771a52b8131d4f034e8291edbac5226f3be74120a471cf911 | 
+| [Fri 10 Apr 2020 05:00:02 AM UTC]() | 306106526 | db25a0baeb039178e117c53dc1e527f3acfce5ec11881413a2aa1d2bdaf14226 | 
 | [Thu 09 Apr 2020 05:00:01 AM UTC](Could not save file) | 305921996 | 37b2296e241c0106db1668f9010508035522c5c986f641a79127c47c4ad0b4f1 | 
 | [Wed 08 Apr 2020 05:00:01 AM UTC]() | 305880755 | 9c1199b45e4525698311dc385cf65b23f82ae57b6236c522991a04a614470094 | 
 | [Tue 07 Apr 2020 05:00:01 AM UTC](Could not save file) | 305796225 | 5121461c94286aa056416cc83847c4f28e27bcc7b43bc43067635732ff6ce856 | 

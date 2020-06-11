@@ -1,3 +1,4 @@
+| [Thu 11 Jun 2020 05:00:01 AM UTC](Could not save file) | 311869542 | 65e88c20f5188f01f1d5a6e80a8a06fe3d1f78e149ae640df9d0ac82674af846 | 
 | [Wed 10 Jun 2020 05:00:02 AM UTC](https://transfer.sh/iqAer/dashninja-dbdump-20200610070002.tar.bz2) | 311776811 | 6c40af2ea7bca28a1066cad36ae52de57406d6c43d0fad7bf89d29d650a5d6ed | 
 | [Tue 09 Jun 2020 05:00:01 AM UTC](https://transfer.sh/iBz74/dashninja-dbdump-20200609070001.tar.bz2) | 311623880 | bfe421667f0981f9d20196d8730f7b7194254dafd1d6b33b085e87e12a741182 | 
 | [Mon 08 Jun 2020 05:00:01 AM UTC](https://transfer.sh/16jz9n/dashninja-dbdump-20200608070001.tar.bz2) | 311597912 | e7753404a9fdaaec8a0cace6b172d375fa83309ce0174f70fafd2f981076262c | 
@@ -11,4 +12,3 @@
 | [Sun 31 May 2020 05:00:01 AM UTC](Could not save file) | 310746456 | 625dcd2e32a6c65290d32cbea18b9e4bade93a8a80b35210a30e2449424bf70c | 
 | [Sat 30 May 2020 05:00:02 AM UTC]() | 310732104 | c6b6c3a4a63dfc69ae1cfb0b7ee145e92051ef3e10da755d079b4cf84e1b1667 | 
 | [Fri 29 May 2020 05:00:01 AM UTC](https://transfer.sh/4OJaf/dashninja-dbdump-20200529070001.tar.bz2) | 310659032 | 37eaa48cded2be93be9bc72aa0c97ab06187e77201e76b0cd41719a36f1485c5 | 
-| [Thu 28 May 2020 05:00:01 AM UTC](https://transfer.sh/trYEO/dashninja-dbdump-20200528070001.tar.bz2) | 310519134 | b6b7542bbdde109ee2868823f2359d291ac6571355100700e1d9400905ccc753 | 

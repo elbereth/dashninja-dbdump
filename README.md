@@ -12,6 +12,7 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 ## Automatic Dump Files
 | Date | Size | SHA256 |
 |--|--|--|
+| [Sun 16 Aug 2020 05:00:01 AM UTC](Could not save metadata) | 317546314 | c4f240dab508b5c650deb90598319a4a69c7a0929a50fafea6eb0f062da98500 | 
 | [Sat 15 Aug 2020 05:00:02 AM UTC](https://transfer.sh/Oxdcm/dashninja-dbdump-20200815070002.tar.bz2) | 317576360 | be92ff17632a451e8f9abfeeaa9905f1d2219deba275087c2b13f011a0b9029d | 
 | [Fri 14 Aug 2020 05:00:01 AM UTC]() | 317534539 | 576b1ea6851fe4b6b30449c3d220a3d6fdac44d41ad7a53b109d7198182c4427 | 
 | [Thu 13 Aug 2020 05:00:01 AM UTC]() | 317387319 | e91c25983790bfe9d247e610aee81a183f9723f1f873e6d13626604e4c73bb3f | 
@@ -25,4 +26,3 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 | [Wed 05 Aug 2020 05:00:01 AM UTC]() | 316679868 | 1fca4190d9f040b9aae1f2ae4915f7d283cebd9ad1de8c837f462ff8eb80d680 | 
 | [Tue 04 Aug 2020 05:00:01 AM UTC]() | 316568933 | 47932ae573deb6ca836b72fc20a2f2f6f39ec77b8f51635d2ad95794ea3226fe | 
 | [Mon 03 Aug 2020 05:00:01 AM UTC]() | 316478760 | a3015da86c2d2520f2d3d9e97d5cd74c1baad51d2c9c1532727c67e45586db68 | 
-| [Sun 02 Aug 2020 05:00:02 AM UTC]() | 316455239 | 4a38d6d24eb8fec7ef276642f2dc2a77a9f08fa6c334c175a5ef57d799500547 | 

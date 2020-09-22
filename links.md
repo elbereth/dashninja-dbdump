@@ -1,3 +1,4 @@
+| [Tue 22 Sep 2020 05:00:01 AM UTC]() | 320779422 | 90bc33031880f704a42ff6fb20bb144be742b0938d8d5ee42f5dad9af60fff86 | 
 | [Mon 21 Sep 2020 05:00:01 AM UTC](https://transfer.sh/14TQvD/dashninja-dbdump-20200921070001.tar.bz2) | 320662769 | a99a4a0429285ab6fafd643cc4ec8b930b0cb5bde3afe7ca3dfbef25289b44c6 | 
 | [Sun 20 Sep 2020 05:00:01 AM UTC]() | 320565742 | 23ef19950493df298e8a8ea85e7eeffe4cfcba0c3f6a95249c319bec28da082b | 
 | [Sat 19 Sep 2020 05:00:01 AM UTC]() | 320528723 | 598b97edbbfddece4069bcc2ee99b528a1bed0d82848fc053eef4d6d2b6ebc21 | 
@@ -11,4 +12,3 @@
 | [Fri 11 Sep 2020 05:00:01 AM UTC]() | 319722706 | 653cfef1e083af44617e7c9d24ff994a4d786f69de7a4dee9a3dd42c49797e1e | 
 | [Thu 10 Sep 2020 05:00:01 AM UTC](https://transfer.sh/qxpaw/dashninja-dbdump-20200910070001.tar.bz2) | 319760889 | 1b6bc3f71859c9fa7ff58bd3c7801a5d2663bf8a02259459533981ebe5671689 | 
 | [Wed 09 Sep 2020 05:00:02 AM UTC]() | 319749335 | 4a597a09ff27da1442fed333a38dc9d7a83fa961df8ad91c570cebc6652f4f33 | 
-| [Tue 08 Sep 2020 05:00:01 AM UTC]() | 319570271 | 5df055f158ce587b743ce681c92637eda1b4e75f1717845dc910b2ad365b8356 | 

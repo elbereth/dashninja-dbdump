@@ -12,6 +12,7 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 ## Automatic Dump Files
 | Date | Size | SHA256 |
 |--|--|--|
+| [Wed 14 Oct 2020 05:00:01 AM UTC](Could not save metadata) | 322645113 | e05dbb196348c7c7dd987ee0a467662eaff94e6e8ef5703a7eef9475f259d13f | 
 | [Tue 13 Oct 2020 05:00:01 AM UTC]() | 322505204 | 796faae8257cc6f033058e9cd19c0d5bfee3a241a8034f0ce0ded55f1ad3f42c | 
 | [Mon 12 Oct 2020 05:00:01 AM UTC]() | 322440299 | 0d0e918e40219dc693806e94a6f9beadacda3125871885bf9b972ba28b84ba5e | 
 | [Sun 11 Oct 2020 05:00:01 AM UTC]() | 322395228 | 6e45c9f6bab8eb5e32eddecda20db44be6564083a8a9778f8a40ecfc647ed270 | 
@@ -25,4 +26,3 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 | [Sat 03 Oct 2020 05:00:01 AM UTC]() | 321644829 | afd5876eb297938ff05041a136174d22c40f63056c12a9c1b0d65cef8e8f651a | 
 | [Fri 02 Oct 2020 05:00:01 AM UTC]() | 321615748 | 8bd5ac4dbd4df2255673c0b1aff6ce085a2f2b6799f1a1c96f329f2cff727b49 | 
 | [Thu 01 Oct 2020 05:00:02 AM UTC](https://transfer.sh/wtR9t/dashninja-dbdump-20201001070002.tar.bz2) | 321527328 | 37c14001901f31993c39b3135383601d7c5b53a5a3eaef4de1af8330dd0ffc3e | 
-| [Wed 30 Sep 2020 05:00:02 AM UTC]() | 321363030 | c4139ca3b715328e5f99bf38271aba209ec2fafbb39d657d98a060b628be8937 | 

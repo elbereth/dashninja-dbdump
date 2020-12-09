@@ -12,6 +12,7 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 ## Automatic Dump Files
 | Date | Size | SHA256 |
 |--|--|--|
+| [Wed 09 Dec 2020 06:00:01 AM UTC]() | 3107561 | 834be7aef381aecb377eb514b5e7cbd41c90ddaef140632cbf8bd93096dd2ffa | 
 | [Tue 08 Dec 2020 06:00:01 AM UTC]() | 326810810 | e5ce3009e4c6ae579571a1ad586f47afbeb9370962e716b5b710be3aecf9baa3 | 
 | [Mon 07 Dec 2020 06:00:01 AM UTC]() | 326769337 | 7e224f5b5d330b6a6c0f8ea737f1b575d48cb7b8a455e0a46d40bcc3af6a42a7 | 
 | [Sun 06 Dec 2020 06:00:01 AM UTC]() | 140 | 1fa5b37b5136dd50a0423fee619f0dd73acac29b7199cf7480b48e3f03e930ba | 
@@ -25,4 +26,3 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 | [Sat 28 Nov 2020 06:00:02 AM UTC]() | 56865075 | d065a4dc6800ad2b1792f03c469ae922938e7daaedf365051ea21ac3c86ccce5 | 
 | [Fri 27 Nov 2020 06:00:02 AM UTC]() | 326145598 | e85f2d210667e15accaa221384fbab7ad4cf38f1fa0fbe793738e33e7f7b35fb | 
 | [Thu 26 Nov 2020 06:00:02 AM UTC]() | 326097438 | e55bc4c18f85ce8a201840380ee5fcbdce22222483d13ce83928aae255ccfdae | 
-| [Wed 25 Nov 2020 06:00:02 AM UTC]() | 325965588 | 8b2798237cd631bd9cc822c37a1068d4172e6362d0c6a0279a4956afb31970d4 | 

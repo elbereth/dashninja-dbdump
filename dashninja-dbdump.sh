@@ -42,7 +42,7 @@ SHA256=$(sha256sum $FULLDUMPNAM | cut -f1 -d' ')
 
 echo "Sending $DIRFIN/$DUMPNAM to transfer.sh"
 
-URL=$(curl --progress-bar --upload-file $FULLDUMPNAM https://transfer.sh/$DUMPNAM)
+URL=$(curl --progress-bar -T $FULLDUMPNAM https://oshi.at/$DUMPNAM/21600)
 
 echo "Cleaning up"
 rm $FULLDUMPNAM

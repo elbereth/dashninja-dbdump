@@ -10,12 +10,7 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 
 
 ## Automatic Dump Files
-| Date | Size | SHA256 |
-|--|--|--|
-| [Wed 23 Dec 2020 04:32:58 AM UTC](
+| Date | Links | Size | SHA256 |
+|--|--|--|--|
+| Wed 23 Dec 2020 05:07:30 AM UTC | [Direct](https://oshi.at/xrsdDE) [Onion](http://oshiatwowvdbshka.onion/xrsdDE) | 183333384 | 58f9d81d4776bbb4388206b09f6daec1ff815e219dbd0c3955cb14bf85d0e0cc | 
 
-download]
-IP
-download]
-) | 183476248 | 407d4ad23efb42229677f71dfab68c6bae3bd747a558b49ccdb94bbec72a8d69 | 
-| [Wed 23 Dec 2020 04:19:51 AM UTC](https://oshi.at/rHQojf) | 327813377 | 918d9a74ee7882b6518b4e6bf3f86072866dd455fcf4eb47ff07ee3f035fa999 | 

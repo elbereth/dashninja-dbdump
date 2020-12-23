@@ -5,7 +5,7 @@ DB=dash_mnninja
 MAINDIR=./dump
 DIR=dashninja-dbdump-$(date +%Y%m%d%H%M%S)
 DUMPDIR=$MAINDIR/$DIR
-DUMPNAM=$DIR.tar.bz2
+DUMPNAM=$DIR.txz
 FULLDUMPNAM=$MAINDIR/$DUMPNAM
 TIMESTAMP=$(date +%s)
 DATE=$(date -u)
@@ -31,7 +31,7 @@ echo "$tbl_count tables dumped from database '$DB' into dir=$DUMPDIR"
 echo "Compressing archive $DUMPNAM into $DUMPDIR"
 
 cd $MAINDIR
-tar cvjf $DUMPNAM $DIR
+tar cvJf $DUMPNAM $DIR
 cd ..
 
 echo "Calculating checksum of $DIRFIN/$DUMPNAM"
@@ -40,9 +40,11 @@ SIZE=$(stat -c%s $FULLDUMPNAM)
 #SHA1=$(sha1sum $FULLDUMPNAM | cut -f1 -d' ')
 SHA256=$(sha256sum $FULLDUMPNAM | cut -f1 -d' ')
 
-echo "Sending $DIRFIN/$DUMPNAM to transfer.sh"
+echo "Sending $DIRFIN/$DUMPNAM to oshi.at"
 
-URL=$(curl --progress-bar -T $FULLDUMPNAM https://oshi.at/$DUMPNAM/21600)
+URLS=$(curl --progress-bar -T $FULLDUMPNAM https://oshi.at/$DUMPNAM/21600)
+URL=$(echo "$URLS" | head -3 | tail -1 | cut -d" " -f1)
+ONIONURL=$(echo "$URLS" | head -5 | tail -1 | cut -d" " -f1)
 
 echo "Cleaning up"
 rm $FULLDUMPNAM
@@ -51,7 +53,7 @@ rm -rf $DIR
 cd ..
 
 echo "Generating new links.md file and README.md"
-echo -e "| [$DATE]($URL) | $SIZE | $SHA256 | \n$LINKSFILE" > links.md
+echo -e "| $DATE | [Direct]($URL) [Onion]($ONIONURL) | $SIZE | $SHA256 | \n$LINKSFILE" > links.md
 cat header.md links.md > README.md
 
 echo "Auto commit and push"

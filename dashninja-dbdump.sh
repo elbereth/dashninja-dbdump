@@ -1,7 +1,7 @@
 #!/bin/bash
 
 DB_user=dmndbdump
-DB=dash_mnninja
+DB=dashninja_prod
 MAINDIR=./dump
 DIR=dashninja-dbdump-$(date +%Y%m%d%H%M%S)
 DUMPDIR=$MAINDIR/$DIR

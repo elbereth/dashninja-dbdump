@@ -12,6 +12,7 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 ## Automatic Dump Files
 | Date | Links | Size | SHA256 |
 |--|--|--|--|
+| Thu 11 Feb 2021 07:00:01 AM UTC | [Direct](https://oshi.at/ycPRgF) [Onion](http://oshiatwowvdbshka.onion/ycPRgF) | 187730352 | 67cfd3d034abd2bf4a8938fc4d6f2f9f3b76da7f999301dad8dfabbfebf79370 | 
 | Wed 10 Feb 2021 07:00:01 AM UTC | [Direct](https://oshi.at/iUVGGR) [Onion](http://oshiatwowvdbshka.onion/iUVGGR) | 187485864 | 818406b568b2b258c7267edeead8923b3550895ac5fc89f4edb61ae87755ca24 | 
 | Tue 09 Feb 2021 07:00:01 AM UTC | [Direct](https://oshi.at/wZLumd) [Onion](http://oshiatwowvdbshka.onion/wZLumd) | 187493864 | dafc119d019a77f4e67532ba8e4f72ff6f2c7a651f7127a714e02e9f5d8b3ef4 | 
 | Mon 08 Feb 2021 07:00:01 AM UTC | [Direct](https://oshi.at/nwsbQB) [Onion](http://oshiatwowvdbshka.onion/nwsbQB) | 187271412 | d063bc0f8cf4bbbce42a4f3a2773c2c6b2833b3bac40b789cd098e319e0dc361 | 
@@ -25,4 +26,3 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 | Sun 31 Jan 2021 07:00:01 AM UTC | [Direct](https://oshi.at/KMdoFp) [Onion](http://oshiatwowvdbshka.onion/KMdoFp) | 187058188 | 8423570f8abd74ae2f5b2e2e37cca93372af5978d3355a71512af2ee5f65a8a6 | 
 | Sat 30 Jan 2021 07:00:01 AM UTC | [Direct](https://oshi.at/JJaDKi) [Onion](http://oshiatwowvdbshka.onion/JJaDKi) | 187153820 | f660422726c6d5679e80a3f91db3e0a075d83b6c6027672cb7a9bcf4dc2a1ce8 | 
 | Fri 29 Jan 2021 07:00:01 AM UTC | [Direct](https://oshi.at/teMxXm) [Onion](http://oshiatwowvdbshka.onion/teMxXm) | 186882156 | 01a95850402cd9fde7cab672a7c4403a9fe4cfb0b27113c54ce27ee04ce9e1d0 | 
-| Thu 28 Jan 2021 07:00:01 AM UTC | [Direct](https://oshi.at/KbrfbR) [Onion](http://oshiatwowvdbshka.onion/KbrfbR) | 186858852 | 3e884a18aadabc021bc82f43377008636c78b6f21ad837515e3230d6b42cca76 | 

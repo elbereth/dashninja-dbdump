@@ -12,6 +12,7 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 ## Automatic Dump Files
 | Date | Links | Size | SHA256 |
 |--|--|--|--|
+| Wed 21 Jul 2021 07:00:01 AM UTC | [Direct](https://oshi.at/hiDXHU) [Onion](http://oshiatwowvdbshka.onion/hiDXHU) | 196794768 | 4a565e1b50e70b1091e97e8284fbca0ab2e75d922f1e17d81a2a627c74471506 | 
 | Tue 20 Jul 2021 07:00:01 AM UTC | [Direct](https://oshi.at/hAWkab) [Onion](http://oshiatwowvdbshka.onion/hAWkab) | 196888244 | 294e376c13883725152a287d428b7c7c611f2f76083e84baad2c35657604a6e9 | 
 | Mon 19 Jul 2021 07:00:01 AM UTC | [Direct](https://oshi.at/thqcuJ) [Onion](http://oshiatwowvdbshka.onion/thqcuJ) | 196621776 | 83513735d76e21342e7494bb1a0631db533f56221e1930a3c5712e44bcbc6309 | 
 | Sun 18 Jul 2021 07:00:01 AM UTC | [Direct](https://oshi.at/nSeALJ) [Onion](http://oshiatwowvdbshka.onion/nSeALJ) | 196487068 | 0cbd460f32bf4ed87129020f05d286da21eb0bc887598c044dde81695f5e44b6 | 
@@ -25,4 +26,3 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 | Sat 10 Jul 2021 07:00:01 AM UTC | [Direct](https://oshi.at/nyFHAW) [Onion](http://oshiatwowvdbshka.onion/nyFHAW) | 196278000 | 2092298194a1141247103f41477d9e9e9ff4398df0c3928b867fe5d5b2d71390 | 
 | Fri 09 Jul 2021 07:00:01 AM UTC | [Direct](https://oshi.at/jGScbX) [Onion](http://oshiatwowvdbshka.onion/jGScbX) | 196060264 | f42c63e92083301e0b6c80c5aa57a670b288a3568c08c694d71640c33efe90aa | 
 | Thu 08 Jul 2021 07:00:01 AM UTC | [Direct](https://oshi.at/NnTkxf) [Onion](http://oshiatwowvdbshka.onion/NnTkxf) | 195931656 | 64c3eed9d08ae45b409c3013da650a34487ca92ddf3cc63cead4b0e0eda78991 | 
-| Wed 07 Jul 2021 07:00:01 AM UTC | [Direct](https://oshi.at/tzykUC) [Onion](http://oshiatwowvdbshka.onion/tzykUC) | 196207524 | 4d488647fff52626b8c0cd218f0efd8f4c190bde70e95a2dacedb015ea7d4cf1 | 

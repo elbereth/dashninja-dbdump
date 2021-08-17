@@ -12,6 +12,7 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 ## Automatic Dump Files
 | Date | Links | Size | SHA256 |
 |--|--|--|--|
+| Tue 17 Aug 2021 07:00:01 AM UTC | [Direct](https://oshi.at/tAeroF) [Onion](http://oshiatwowvdbshka.onion/tAeroF) | 198408168 | 7b5c8b3e7d8ebc7197e1756afa1544c8a1474e13237eea36e10159e0036ca222 | 
 | Mon 16 Aug 2021 07:00:01 AM UTC | [Direct](https://oshi.at/hBrbEj) [Onion](http://oshiatwowvdbshka.onion/hBrbEj) | 198300572 | bf5896d590ebc19fa3d67be62d8b97ebcd2d731bb721c7f272fe286f9203f4d5 | 
 | Sun 15 Aug 2021 07:00:01 AM UTC | [Direct](https://oshi.at/xcALwp) [Onion](http://oshiatwowvdbshka.onion/xcALwp) | 198547528 | 7fce52de6c2df0eb01da2319e78a1d0f5586dfa31300681b1c5f1a3a972f5c91 | 
 | Sat 14 Aug 2021 07:00:01 AM UTC | [Direct](https://oshi.at/HHVCRD) [Onion](http://oshiatwowvdbshka.onion/HHVCRD) | 198300092 | 29f67c373b7ee81d703dd37f5f13c46956a739604cd8d12fc350a396d1cb04e9 | 
@@ -25,4 +26,3 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 | Fri 06 Aug 2021 07:00:01 AM UTC | [Direct](https://oshi.at/KPTERG) [Onion](http://oshiatwowvdbshka.onion/KPTERG) | 197909080 | e942a0437486062e6ccd1b515656c2c4e6f48f6ff6730e02afec53d9a8640364 | 
 | Thu 05 Aug 2021 07:00:01 AM UTC | [Direct](https://oshi.at/sQkBRE) [Onion](http://oshiatwowvdbshka.onion/sQkBRE) | 197648172 | 5a37ff4c3500da2ea0fbae7b63f5569c0487f06c940bfdb51f65123a5b5541ee | 
 | Wed 04 Aug 2021 07:00:01 AM UTC | [Direct](https://oshi.at/uCWMvf) [Onion](http://oshiatwowvdbshka.onion/uCWMvf) | 197445120 | 4ba6ea3be415398cdb51af885a17122e3ba74b6ce27f6f404f4cad0475ee4145 | 
-| Tue 03 Aug 2021 07:00:01 AM UTC | [Direct](https://oshi.at/CKUJFw) [Onion](http://oshiatwowvdbshka.onion/CKUJFw) | 197493260 | 0a083898c5355f9bbf0e7c5de79d659ea963489cc2be89948cd9a15f9274ad4e | 

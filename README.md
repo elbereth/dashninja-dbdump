@@ -12,6 +12,7 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 ## Automatic Dump Files
 | Date | Links | Size | SHA256 |
 |--|--|--|--|
+| Thu 28 Oct 2021 07:00:01 AM UTC | [Direct](https://oshi.at/KXFXys) [Onion](http://oshiatwowvdbshka.onion/KXFXys) | 203533248 | 9e6cf244520d5622d5b30d4a544ef6399a28ea71453ee8d4b493dc7a0ad0f046 | 
 | Wed 27 Oct 2021 07:00:01 AM UTC | [Direct](https://oshi.at/LfPGTn) [Onion](http://oshiatwowvdbshka.onion/LfPGTn) | 203401912 | e65849092cdaae3733d16c5d5063a6d14ec807e0ab9b7fcb9ef8ec0a0013bae0 | 
 | Tue 26 Oct 2021 07:00:01 AM UTC | [Direct](https://oshi.at/zQjzsh) [Onion](http://oshiatwowvdbshka.onion/zQjzsh) | 203160980 | a120e649dc7f679be37f8123769b60351933d5b4d9d9f19286b6f5b2d5aebb74 | 
 | Mon 25 Oct 2021 07:00:01 AM UTC | [Direct](https://oshi.at/UqgznQ) [Onion](http://oshiatwowvdbshka.onion/UqgznQ) | 202918016 | 744b362e69046b30a02ad84a487b940004ed05f12b81fc57f9d474bafaba57f8 | 
@@ -25,4 +26,3 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 | Sun 17 Oct 2021 07:00:01 AM UTC | [Direct](https://oshi.at/NjQHxQ) [Onion](http://oshiatwowvdbshka.onion/NjQHxQ) | 201978312 | 7d446d05880cc614d16998d729573bfab402a4d5542ca26261caca395b7c1ab6 | 
 | Sat 16 Oct 2021 07:00:01 AM UTC | [Direct](https://oshi.at/LWUwqL) [Onion](http://oshiatwowvdbshka.onion/LWUwqL) | 201961264 | 12231059833276bfec493cba9f208c91e81bf0818aaa1d55f36639fc64a6ebb4 | 
 | Fri 15 Oct 2021 07:00:01 AM UTC | [Direct](</body></html>) [Onion](</body></html>) | 201847380 | cfffb6ac7d63314a6c3843e4f39d14c90cff6b55c994793af6717aa883683673 | 
-| Thu 14 Oct 2021 07:00:01 AM UTC | [Direct](https://oshi.at/GeQGgT) [Onion](http://oshiatwowvdbshka.onion/GeQGgT) | 201780588 | 513d5eb10a7f28c1b240ebd226e93a26b57d2b20cf5a6e9b3965bde9ee676202 | 

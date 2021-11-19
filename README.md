@@ -12,6 +12,7 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 ## Automatic Dump Files
 | Date | Links | Size | SHA256 |
 |--|--|--|--|
+| Fri 19 Nov 2021 07:00:01 AM UTC | [Direct](https://oshi.at/PGUsrv) [Onion](http://didllblj4qsn5oeaejoayl2orvdalsdyr4ppjvstsjfyorffdv6zrlid.onion/PGUsrv) | 204258120 | dda1f9c516d9073144802e824855233c2c5ee3dfe461dd820ee2a82bebd25de8 | 
 | Thu 18 Nov 2021 07:00:01 AM UTC | [Direct](https://oshi.at/AQfbPn) [Onion](http://didllblj4qsn5oeaejoayl2orvdalsdyr4ppjvstsjfyorffdv6zrlid.onion/AQfbPn) | 204262208 | b2815ab82249c09de285a2652bc57aa89caef37324c8bd3b9884017d9a7ac198 | 
 | Wed 17 Nov 2021 07:00:01 AM UTC | [Direct](https://oshi.at/RcWkya) [Onion](http://didllblj4qsn5oeaejoayl2orvdalsdyr4ppjvstsjfyorffdv6zrlid.onion/RcWkya) | 203997076 | d5628ced006abd94d6f5639ce4a1acd8f3baec30e9e2c68e01ae34cee9ed1edc | 
 | Tue 16 Nov 2021 07:00:01 AM UTC | [Direct](https://oshi.at/BbuUzh) [Onion](http://didllblj4qsn5oeaejoayl2orvdalsdyr4ppjvstsjfyorffdv6zrlid.onion/BbuUzh) | 204073124 | 615e0b07fe3c98a9206e65c47b1fdf234c9018874b7c4bfa2cc76df0e9537f5c | 
@@ -25,4 +26,3 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 | Mon 08 Nov 2021 07:00:01 AM UTC | [Direct](https://oshi.at/mftzNr) [Onion](http://didllblj4qsn5oeaejoayl2orvdalsdyr4ppjvstsjfyorffdv6zrlid.onion/mftzNr) | 203822228 | 628efc0c093ecc13c5a021f2261feef262946cccfa590654b490f818912c8b5e | 
 | Sun 07 Nov 2021 07:00:01 AM UTC | [Direct](https://oshi.at/UVycWg) [Onion](http://didllblj4qsn5oeaejoayl2orvdalsdyr4ppjvstsjfyorffdv6zrlid.onion/UVycWg) | 203593960 | 47ac79ab3f6422c8ad3be07af1a2d6834b9d387eff2406877227ce74d0adb184 | 
 | Sat 06 Nov 2021 07:00:01 AM UTC | [Direct](https://oshi.at/wGPBaZ) [Onion](http://didllblj4qsn5oeaejoayl2orvdalsdyr4ppjvstsjfyorffdv6zrlid.onion/wGPBaZ) | 203669996 | 35c73a7270ae705274eb0558ca463a2c146b94a5ab93cddbf162b9dcdb83d24d | 
-| Fri 05 Nov 2021 07:00:01 AM UTC | [Direct](https://oshi.at/CnaxQY) [Onion](http://didllblj4qsn5oeaejoayl2orvdalsdyr4ppjvstsjfyorffdv6zrlid.onion/CnaxQY) | 203603680 | 44f3abbaff7674e8da8d97f3a0ac1bc00033d20249d3e8b90882fee7ce8f20c3 | 

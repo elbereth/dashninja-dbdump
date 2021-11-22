@@ -12,6 +12,7 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 ## Automatic Dump Files
 | Date | Links | Size | SHA256 |
 |--|--|--|--|
+| Mon 22 Nov 2021 07:00:01 AM UTC | [Direct](https://oshi.at/opiiUK) [Onion](http://didllblj4qsn5oeaejoayl2orvdalsdyr4ppjvstsjfyorffdv6zrlid.onion/opiiUK) | 204373384 | e2d4b77bb243e4390feed9916e56a62e28f2c1ef7af2fd3876d7c0883e380ba7 | 
 | Sun 21 Nov 2021 07:00:01 AM UTC | [Direct](https://oshi.at/vVdnMM) [Onion](http://didllblj4qsn5oeaejoayl2orvdalsdyr4ppjvstsjfyorffdv6zrlid.onion/vVdnMM) | 204421092 | 6648a8b3da41e01adc13061b6cfb148cd6c8463cea6c803c05f685638264f9f6 | 
 | Sat 20 Nov 2021 07:00:01 AM UTC | [Direct](https://oshi.at/HvBfvq) [Onion](http://didllblj4qsn5oeaejoayl2orvdalsdyr4ppjvstsjfyorffdv6zrlid.onion/HvBfvq) | 204302804 | cb445421f229b63f56a071a151692b6fabd6e310ede59c5c9c8960dad38bcc59 | 
 | Fri 19 Nov 2021 07:00:01 AM UTC | [Direct](https://oshi.at/PGUsrv) [Onion](http://didllblj4qsn5oeaejoayl2orvdalsdyr4ppjvstsjfyorffdv6zrlid.onion/PGUsrv) | 204258120 | dda1f9c516d9073144802e824855233c2c5ee3dfe461dd820ee2a82bebd25de8 | 
@@ -25,4 +26,3 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 | Thu 11 Nov 2021 07:00:01 AM UTC | [Direct](https://oshi.at/gupwgA) [Onion](http://didllblj4qsn5oeaejoayl2orvdalsdyr4ppjvstsjfyorffdv6zrlid.onion/gupwgA) | 203908740 | 56a0350f2bd13f7a19ed89ea6dd9f1d82a5b422352ea287e971a08e9ee84486b | 
 | Wed 10 Nov 2021 07:00:01 AM UTC | [Direct](https://oshi.at/ykRJXZ) [Onion](http://didllblj4qsn5oeaejoayl2orvdalsdyr4ppjvstsjfyorffdv6zrlid.onion/ykRJXZ) | 203883400 | 1c33faa848f6a46f35ad83844110b298e2e661d87e21f7986f7dd3e22b17663c | 
 | Tue 09 Nov 2021 07:00:01 AM UTC | [Direct](https://oshi.at/VemMKk) [Onion](http://didllblj4qsn5oeaejoayl2orvdalsdyr4ppjvstsjfyorffdv6zrlid.onion/VemMKk) | 203928732 | 001a39eb8f7496eedbaa90b7e897f24201c2b141d133e134835a7ad264b0ccc5 | 
-| Mon 08 Nov 2021 07:00:01 AM UTC | [Direct](https://oshi.at/mftzNr) [Onion](http://didllblj4qsn5oeaejoayl2orvdalsdyr4ppjvstsjfyorffdv6zrlid.onion/mftzNr) | 203822228 | 628efc0c093ecc13c5a021f2261feef262946cccfa590654b490f818912c8b5e | 

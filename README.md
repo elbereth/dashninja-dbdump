@@ -12,6 +12,7 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 ## Automatic Dump Files
 | Date | Links | Size | SHA256 |
 |--|--|--|--|
+| Fri 14 Jan 2022 07:00:01 AM UTC | [Direct](https://oshi.at/auiY) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/auiY) | 207192228 | d8c7f017ff50fc196152efbd2c429338c7a5b8c46deb48835c6cbb319e6a8b1c | 
 | Thu 13 Jan 2022 07:00:01 AM UTC | [Direct](https://oshi.at/MLAu) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/MLAu) | 207129996 | d6417aa15f8e73e75325645fc185afa37360efa7a03bf56d863e65fe054ec85c | 
 | Wed 12 Jan 2022 07:00:01 AM UTC | [Direct](https://oshi.at/QMcG) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/QMcG) | 207120908 | 9de2ba46c8c34bf0f6cbc074985e38e55428c5ac2f4f0d0a7dfa7e4f18d78f66 | 
 | Tue 11 Jan 2022 07:00:01 AM UTC | [Direct](https://oshi.at/fNQk) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/fNQk) | 207078500 | 4b07d794a5bc9fe1e1a72bb8c7501c5e2e263dedfa2c96b99db527178d0698a9 | 
@@ -25,4 +26,3 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 | Mon 03 Jan 2022 07:00:01 AM UTC | [Direct](https://oshi.at/mqAT) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/mqAT) | 207143824 | a668df90d0f169d5a9aff56b00a81b0c87fc908d040a1a09e8e19ccc8c7ea297 | 
 | Sun 02 Jan 2022 07:00:01 AM UTC | [Direct](https://oshi.at/gdsW) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/gdsW) | 206827388 | d2a3e1f93fbdafdc8135c5d988ffd330f5ab04ab38b454f3f9677387c3fd16a9 | 
 | Sat 01 Jan 2022 07:00:02 AM UTC | [Direct](https://oshi.at/ykZW) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/ykZW) | 206658072 | ed31ad03d9d1b5c3b869a77239c40a4fc1057ed1c884f72c6b64e4798a70d481 | 
-| Fri 31 Dec 2021 07:00:01 AM UTC | [Direct](https://oshi.at/CHpp) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/CHpp) | 206834776 | a90611aaa955c47e7334c51906517a2704144391b3408a9d605aa9f32ac58402 | 

@@ -12,6 +12,7 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 ## Automatic Dump Files
 | Date | Links | Size | SHA256 |
 |--|--|--|--|
+| Sat 22 Jan 2022 07:00:01 AM UTC | [Direct](https://oshi.at/tHJc) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/tHJc) | 207933440 | 5821c220b4099f93df5cf565e03cc7e58ff86fab515b7888f2c9168c0ab1087f | 
 | Fri 21 Jan 2022 07:00:01 AM UTC | [Direct](https://oshi.at/PJvD) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/PJvD) | 207800700 | 8b4b62059d2c0d69d0db3d6d2017c95ecfb3590dc652bc46512cf9c6cdd38772 | 
 | Thu 20 Jan 2022 07:00:01 AM UTC | [Direct](https://oshi.at/Sxvj) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/Sxvj) | 207537760 | f08ac472c5e8cdee8139c81b3f28c09b2a343ad3cdba18350ff48071c7214e50 | 
 | Wed 19 Jan 2022 07:00:01 AM UTC | [Direct](https://oshi.at/oLMb) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/oLMb) | 207352284 | 76e301c2ff42f921e48ea3b0c82dc3b956e88e346fb36b5ce2b5b523ad43bd20 | 
@@ -25,4 +26,3 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 | Tue 11 Jan 2022 07:00:01 AM UTC | [Direct](https://oshi.at/fNQk) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/fNQk) | 207078500 | 4b07d794a5bc9fe1e1a72bb8c7501c5e2e263dedfa2c96b99db527178d0698a9 | 
 | Mon 10 Jan 2022 07:00:01 AM UTC | [Direct](https://oshi.at/JKWt) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/JKWt) | 206990568 | e40b3b54ab045a99a224f6f2cb60255f87bf965c3ebf2c2bd7f10ce8c83bb45a | 
 | Sun 09 Jan 2022 07:00:01 AM UTC | [Direct](https://oshi.at/HRHu) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/HRHu) | 206897600 | 31a15884e325782ea79722b6f52d00b193b1618c2cf0b317ca82bedf9aa61292 | 
-| Sat 08 Jan 2022 07:00:01 AM UTC | [Direct](https://oshi.at/yVaH) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/yVaH) | 206917824 | 5f5ac593183220de803ac543714d0d992b0f56e1d6666de9fe872081b375784c | 

@@ -12,6 +12,7 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 ## Automatic Dump Files
 | Date | Links | Size | SHA256 |
 |--|--|--|--|
+| Sun 23 Jan 2022 07:00:01 AM UTC | [Direct](https://oshi.at/FSqT) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/FSqT) | 207763592 | 51449a5d4b1609e6f6b30b3d437e46f0007f80085fdbe842af4b96f30fa2f2e3 | 
 | Sat 22 Jan 2022 07:00:01 AM UTC | [Direct](https://oshi.at/tHJc) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/tHJc) | 207933440 | 5821c220b4099f93df5cf565e03cc7e58ff86fab515b7888f2c9168c0ab1087f | 
 | Fri 21 Jan 2022 07:00:01 AM UTC | [Direct](https://oshi.at/PJvD) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/PJvD) | 207800700 | 8b4b62059d2c0d69d0db3d6d2017c95ecfb3590dc652bc46512cf9c6cdd38772 | 
 | Thu 20 Jan 2022 07:00:01 AM UTC | [Direct](https://oshi.at/Sxvj) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/Sxvj) | 207537760 | f08ac472c5e8cdee8139c81b3f28c09b2a343ad3cdba18350ff48071c7214e50 | 
@@ -25,4 +26,3 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 | Wed 12 Jan 2022 07:00:01 AM UTC | [Direct](https://oshi.at/QMcG) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/QMcG) | 207120908 | 9de2ba46c8c34bf0f6cbc074985e38e55428c5ac2f4f0d0a7dfa7e4f18d78f66 | 
 | Tue 11 Jan 2022 07:00:01 AM UTC | [Direct](https://oshi.at/fNQk) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/fNQk) | 207078500 | 4b07d794a5bc9fe1e1a72bb8c7501c5e2e263dedfa2c96b99db527178d0698a9 | 
 | Mon 10 Jan 2022 07:00:01 AM UTC | [Direct](https://oshi.at/JKWt) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/JKWt) | 206990568 | e40b3b54ab045a99a224f6f2cb60255f87bf965c3ebf2c2bd7f10ce8c83bb45a | 
-| Sun 09 Jan 2022 07:00:01 AM UTC | [Direct](https://oshi.at/HRHu) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/HRHu) | 206897600 | 31a15884e325782ea79722b6f52d00b193b1618c2cf0b317ca82bedf9aa61292 | 

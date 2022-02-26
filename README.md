@@ -12,6 +12,7 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 ## Automatic Dump Files
 | Date | Links | Size | SHA256 |
 |--|--|--|--|
+| Sat 26 Feb 2022 07:00:01 AM UTC | [Direct](https://oshi.at/zoZN) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/zoZN) | 210060472 | 866f149d2dd0224ab47bf10524daea22f8c790b4871797b39dc4b76be9583d05 | 
 | Fri 25 Feb 2022 07:00:01 AM UTC | [Direct](https://oshi.at/GmGf) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/GmGf) | 209866692 | e5bbf7d3471e147a66cddceb3c91e4d094b39644efa1848bbc4a33af5a442257 | 
 | Thu 24 Feb 2022 07:00:01 AM UTC | [Direct](https://oshi.at/sVMB) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/sVMB) | 210035448 | fdfaf55054af29a4a34e2b6f115820ea7e861e37cbdf7dffc1b72cf01ef5c14f | 
 | Wed 23 Feb 2022 07:00:01 AM UTC | [Direct](https://oshi.at/hvZp) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/hvZp) | 209962416 | 7925c9b10d68960e174344c7142c7fc6420742f9116d7ea3ad7e589f5d9c36ac | 
@@ -25,4 +26,3 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 | Tue 15 Feb 2022 07:00:01 AM UTC | [Direct](https://oshi.at/ZmGW) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/ZmGW) | 209152016 | 729b8acd560926d6064a2cab93cca0c46f311b131ef36b2ef0d85c1f36aa52e7 | 
 | Mon 14 Feb 2022 07:00:01 AM UTC | [Direct](https://oshi.at/zQaJ) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/zQaJ) | 209184748 | e151033efe1e571ef86ff8f3df4230d08a3a0ed0c25b69f9998a379ae0125e0e | 
 | Sun 13 Feb 2022 07:00:01 AM UTC | [Direct](https://oshi.at/oZFE) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/oZFE) | 209158692 | 2b17c21aa00f439136608ca9a7522178f0cbfc5cc9aa77fdb0c2be2108f6df87 | 
-| Sat 12 Feb 2022 07:00:01 AM UTC | [Direct](https://oshi.at/FSad) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/FSad) | 209048724 | bf2bcd7739ce40706c37ab93b208466abdc9b410f6ca026c355c3378fa2fd8e5 | 

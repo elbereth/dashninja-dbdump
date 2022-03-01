@@ -12,6 +12,7 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 ## Automatic Dump Files
 | Date | Links | Size | SHA256 |
 |--|--|--|--|
+| Tue 01 Mar 2022 07:00:01 AM UTC | [Direct](https://oshi.at/zgex) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/zgex) | 210216672 | 24de8c9b82c6070c10f5f332069af31cf235e727e4f4d4092eadb6b901575be4 | 
 | Mon 28 Feb 2022 07:00:01 AM UTC | [Direct](https://oshi.at/Uugy) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/Uugy) | 209981716 | f00d15d4fde2605067265ad5dab8390739ddc9297fd4924fdcaf3c7895b4a048 | 
 | Sun 27 Feb 2022 07:00:01 AM UTC | [Direct](https://oshi.at/FppG) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/FppG) | 209986112 | 6673e7208fe5dde715657f1cada6787d6b5d5ee6b91a06b64f86622093d46e03 | 
 | Sat 26 Feb 2022 07:00:01 AM UTC | [Direct](https://oshi.at/zoZN) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/zoZN) | 210060472 | 866f149d2dd0224ab47bf10524daea22f8c790b4871797b39dc4b76be9583d05 | 
@@ -25,4 +26,3 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 | Fri 18 Feb 2022 07:00:01 AM UTC | [Direct](https://oshi.at/EFaR) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/EFaR) | 209371380 | 85b06d4328383d377f49666816338457fc7de1787edfb64e17dfcb3c985b8754 | 
 | Thu 17 Feb 2022 07:00:01 AM UTC | [Direct](https://oshi.at/yFXg) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/yFXg) | 209382356 | edaeb29d628530092bed346611d9394a318ec8982e1611e9df57ac6061f18024 | 
 | Wed 16 Feb 2022 07:00:01 AM UTC | [Direct](https://oshi.at/iMwb) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/iMwb) | 209348132 | 4bf2111f5919c3da83e5bfcfb7d98a8c8d90db3837a8edd99ebef93c1f2f2cad | 
-| Tue 15 Feb 2022 07:00:01 AM UTC | [Direct](https://oshi.at/ZmGW) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/ZmGW) | 209152016 | 729b8acd560926d6064a2cab93cca0c46f311b131ef36b2ef0d85c1f36aa52e7 | 

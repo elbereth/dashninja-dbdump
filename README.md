@@ -12,6 +12,7 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 ## Automatic Dump Files
 | Date | Links | Size | SHA256 |
 |--|--|--|--|
+| Fri 04 Mar 2022 07:00:01 AM UTC | [Direct](https://oshi.at/zCup) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/zCup) | 210393880 | b0bf686d0205fb58af0ab2499de0ac284f33cfdb490f994b8145cc05dc487359 | 
 | Thu 03 Mar 2022 07:00:01 AM UTC | [Direct](https://oshi.at/zumr) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/zumr) | 210226688 | 7ea984a85b7bb3dd3c0fcaa86b0f94f6f53ef68e5439de81839ff36a3ebe18be | 
 | Wed 02 Mar 2022 07:00:01 AM UTC | [Direct](https://oshi.at/gnzn) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/gnzn) | 210344428 | 23adaa377c8171dea204297cfea1dbe3bd16e524fb1306e79e27d9f1a05b8422 | 
 | Tue 01 Mar 2022 07:00:01 AM UTC | [Direct](https://oshi.at/zgex) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/zgex) | 210216672 | 24de8c9b82c6070c10f5f332069af31cf235e727e4f4d4092eadb6b901575be4 | 
@@ -25,4 +26,3 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 | Mon 21 Feb 2022 07:00:01 AM UTC | [Direct](https://oshi.at/Sgsb) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/Sgsb) | 209631632 | b5b4a6acd02a64c2fe429053809935193fc2e843a10632148c779c9235083b91 | 
 | Sun 20 Feb 2022 07:00:01 AM UTC | [Direct](https://oshi.at/Dgdj) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/Dgdj) | 209457324 | 8be61256df81ae9c96f4df05f4027aa5982e192bcc04538d84b58fd2fc4840c3 | 
 | Sat 19 Feb 2022 07:00:01 AM UTC | [Direct](https://oshi.at/fKHW) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/fKHW) | 209386404 | b8814f11c22d1fedfade77ea837e426ef151db1afd2159dbdeddbea4d3ed2887 | 
-| Fri 18 Feb 2022 07:00:01 AM UTC | [Direct](https://oshi.at/EFaR) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/EFaR) | 209371380 | 85b06d4328383d377f49666816338457fc7de1787edfb64e17dfcb3c985b8754 | 

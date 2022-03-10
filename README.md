@@ -12,6 +12,7 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 ## Automatic Dump Files
 | Date | Links | Size | SHA256 |
 |--|--|--|--|
+| Thu 10 Mar 2022 07:00:01 AM UTC | [Direct](https://oshi.at/yshs) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/yshs) | 210538836 | 8a0b8a59f3e35696d651aaacc004196f5623acfaeab80f8bdfdbabb2bc5b7ab5 | 
 | Wed 09 Mar 2022 07:00:01 AM UTC | [Direct](https://oshi.at/MsRj) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/MsRj) | 210346124 | c899802d083bf8e123b0df05391e2ae900cc97ac3241e8ecdadb44fb7fba3ca3 | 
 | Tue 08 Mar 2022 07:00:01 AM UTC | [Direct](https://oshi.at/QuUP) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/QuUP) | 210216924 | f39d2ff3c54457e5392142ef62195a44f72771badc8dff1f9cf01e41cc68249f | 
 | Mon 07 Mar 2022 07:00:01 AM UTC | [Direct](https://oshi.at/jLZW) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/jLZW) | 210515724 | 8041ea60c169038dfb33777ab87dc1403c5c0df0750ff0ea22badfeb5efa148c | 
@@ -25,4 +26,3 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 | Sun 27 Feb 2022 07:00:01 AM UTC | [Direct](https://oshi.at/FppG) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/FppG) | 209986112 | 6673e7208fe5dde715657f1cada6787d6b5d5ee6b91a06b64f86622093d46e03 | 
 | Sat 26 Feb 2022 07:00:01 AM UTC | [Direct](https://oshi.at/zoZN) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/zoZN) | 210060472 | 866f149d2dd0224ab47bf10524daea22f8c790b4871797b39dc4b76be9583d05 | 
 | Fri 25 Feb 2022 07:00:01 AM UTC | [Direct](https://oshi.at/GmGf) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/GmGf) | 209866692 | e5bbf7d3471e147a66cddceb3c91e4d094b39644efa1848bbc4a33af5a442257 | 
-| Thu 24 Feb 2022 07:00:01 AM UTC | [Direct](https://oshi.at/sVMB) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/sVMB) | 210035448 | fdfaf55054af29a4a34e2b6f115820ea7e861e37cbdf7dffc1b72cf01ef5c14f | 

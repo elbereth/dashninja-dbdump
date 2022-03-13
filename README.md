@@ -12,6 +12,7 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 ## Automatic Dump Files
 | Date | Links | Size | SHA256 |
 |--|--|--|--|
+| Sun 13 Mar 2022 07:00:01 AM UTC | [Direct](https://oshi.at/VySt) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/VySt) | 210697720 | f35607601f41b93fa6e472a5f32c7b2705610d892d30cfb3e5183d05939c2374 | 
 | Sat 12 Mar 2022 07:00:01 AM UTC | [Direct](https://oshi.at/pwav) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/pwav) | 210451524 | 5ffc1f548c3e861603157aabd5a57ac076f219b3dfa9b2eb3fe1760d5c6fc7d0 | 
 | Fri 11 Mar 2022 07:00:01 AM UTC | [Direct](https://oshi.at/yjgC) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/yjgC) | 210431492 | 55a22a1bdff5cb10a47f82b858975d552e06bc2b6ad79620dcf865207af5a55b | 
 | Thu 10 Mar 2022 07:00:01 AM UTC | [Direct](https://oshi.at/yshs) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/yshs) | 210538836 | 8a0b8a59f3e35696d651aaacc004196f5623acfaeab80f8bdfdbabb2bc5b7ab5 | 
@@ -25,4 +26,3 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 | Wed 02 Mar 2022 07:00:01 AM UTC | [Direct](https://oshi.at/gnzn) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/gnzn) | 210344428 | 23adaa377c8171dea204297cfea1dbe3bd16e524fb1306e79e27d9f1a05b8422 | 
 | Tue 01 Mar 2022 07:00:01 AM UTC | [Direct](https://oshi.at/zgex) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/zgex) | 210216672 | 24de8c9b82c6070c10f5f332069af31cf235e727e4f4d4092eadb6b901575be4 | 
 | Mon 28 Feb 2022 07:00:01 AM UTC | [Direct](https://oshi.at/Uugy) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/Uugy) | 209981716 | f00d15d4fde2605067265ad5dab8390739ddc9297fd4924fdcaf3c7895b4a048 | 
-| Sun 27 Feb 2022 07:00:01 AM UTC | [Direct](https://oshi.at/FppG) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/FppG) | 209986112 | 6673e7208fe5dde715657f1cada6787d6b5d5ee6b91a06b64f86622093d46e03 | 

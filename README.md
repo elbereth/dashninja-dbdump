@@ -12,6 +12,7 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 ## Automatic Dump Files
 | Date | Links | Size | SHA256 |
 |--|--|--|--|
+| Tue 15 Mar 2022 07:00:01 AM UTC | [Direct](https://oshi.at/sFnF) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/sFnF) | 210713372 | c043e2a14aa808951cf6c31fa76753171fde3b9b5933146b100ec164d5530723 | 
 | Mon 14 Mar 2022 07:00:01 AM UTC | [Direct](https://oshi.at/YCyv) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/YCyv) | 210682884 | b7b29fc42c3539e990c6f0da2441b2d2afe958c251c056b3cd4fb001c31a935b | 
 | Sun 13 Mar 2022 07:00:01 AM UTC | [Direct](https://oshi.at/VySt) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/VySt) | 210697720 | f35607601f41b93fa6e472a5f32c7b2705610d892d30cfb3e5183d05939c2374 | 
 | Sat 12 Mar 2022 07:00:01 AM UTC | [Direct](https://oshi.at/pwav) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/pwav) | 210451524 | 5ffc1f548c3e861603157aabd5a57ac076f219b3dfa9b2eb3fe1760d5c6fc7d0 | 
@@ -25,4 +26,3 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 | Fri 04 Mar 2022 07:00:01 AM UTC | [Direct](https://oshi.at/zCup) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/zCup) | 210393880 | b0bf686d0205fb58af0ab2499de0ac284f33cfdb490f994b8145cc05dc487359 | 
 | Thu 03 Mar 2022 07:00:01 AM UTC | [Direct](https://oshi.at/zumr) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/zumr) | 210226688 | 7ea984a85b7bb3dd3c0fcaa86b0f94f6f53ef68e5439de81839ff36a3ebe18be | 
 | Wed 02 Mar 2022 07:00:01 AM UTC | [Direct](https://oshi.at/gnzn) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/gnzn) | 210344428 | 23adaa377c8171dea204297cfea1dbe3bd16e524fb1306e79e27d9f1a05b8422 | 
-| Tue 01 Mar 2022 07:00:01 AM UTC | [Direct](https://oshi.at/zgex) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/zgex) | 210216672 | 24de8c9b82c6070c10f5f332069af31cf235e727e4f4d4092eadb6b901575be4 | 

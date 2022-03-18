@@ -12,6 +12,7 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 ## Automatic Dump Files
 | Date | Links | Size | SHA256 |
 |--|--|--|--|
+| Fri 18 Mar 2022 07:00:01 AM UTC | [Direct](https://oshi.at/iazb) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/iazb) | 210854664 | abc26499ebe1e77d118fa2a06bab73380be04aac4ab3260775d02a4d45006379 | 
 | Thu 17 Mar 2022 07:00:01 AM UTC | [Direct](https://oshi.at/YKRN) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/YKRN) | 210624836 | 418a51588ac6caa7796a0b89acaa238459e89aca6997e3b1cfdc7c8d2aa291cd | 
 | Wed 16 Mar 2022 07:00:01 AM UTC | [Direct](https://oshi.at/XDcu) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/XDcu) | 210770592 | 82306738acec8cda2f8ea572492b5fd61d02c13df38397d0dcadc14b03936def | 
 | Tue 15 Mar 2022 07:00:01 AM UTC | [Direct](https://oshi.at/sFnF) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/sFnF) | 210713372 | c043e2a14aa808951cf6c31fa76753171fde3b9b5933146b100ec164d5530723 | 
@@ -25,4 +26,3 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 | Mon 07 Mar 2022 07:00:01 AM UTC | [Direct](https://oshi.at/jLZW) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/jLZW) | 210515724 | 8041ea60c169038dfb33777ab87dc1403c5c0df0750ff0ea22badfeb5efa148c | 
 | Sun 06 Mar 2022 07:00:01 AM UTC | [Direct](https://oshi.at/ovpr) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/ovpr) | 210573336 | 5684082b3e8c8bab38b2db25de96b0b2b5565537666627f4a59ec832d08af003 | 
 | Sat 05 Mar 2022 07:00:01 AM UTC | [Direct](https://oshi.at/mKKC) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/mKKC) | 210248364 | 230be175678697f4fd180d047691ab0c05758a3142ecdc55f2d8ad66cf1a8796 | 
-| Fri 04 Mar 2022 07:00:01 AM UTC | [Direct](https://oshi.at/zCup) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/zCup) | 210393880 | b0bf686d0205fb58af0ab2499de0ac284f33cfdb490f994b8145cc05dc487359 | 

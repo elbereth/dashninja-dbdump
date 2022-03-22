@@ -12,6 +12,7 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 ## Automatic Dump Files
 | Date | Links | Size | SHA256 |
 |--|--|--|--|
+| Tue 22 Mar 2022 07:00:01 AM UTC | [Direct](https://oshi.at/MiCp) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/MiCp) | 211432312 | 949214640f52dea86fd574b6337d5d22e961d25f5a42bd69aa6ce817ea98f7e1 | 
 | Mon 21 Mar 2022 07:00:01 AM UTC | [Direct](https://oshi.at/yhXx) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/yhXx) | 210929392 | 865a5ea968d8518d9a92b1efdd32e97d39ce7593af01d5d5d46f092cbf1d28ac | 
 | Sun 20 Mar 2022 07:00:01 AM UTC | [Direct](<html>) [Onion]() | 210843472 | 9ee5a11bcaca182a127f8e4b5cf06a6649f0d075ec8b3fc6c40b079725dc797f | 
 | Sat 19 Mar 2022 07:00:01 AM UTC | [Direct](https://oshi.at/WqEY) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/WqEY) | 210903104 | 5814ba3dd5b7ee87bafcd5dc76a735830028fca67ea7037db05889113ae83a6a | 
@@ -25,4 +26,3 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 | Fri 11 Mar 2022 07:00:01 AM UTC | [Direct](https://oshi.at/yjgC) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/yjgC) | 210431492 | 55a22a1bdff5cb10a47f82b858975d552e06bc2b6ad79620dcf865207af5a55b | 
 | Thu 10 Mar 2022 07:00:01 AM UTC | [Direct](https://oshi.at/yshs) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/yshs) | 210538836 | 8a0b8a59f3e35696d651aaacc004196f5623acfaeab80f8bdfdbabb2bc5b7ab5 | 
 | Wed 09 Mar 2022 07:00:01 AM UTC | [Direct](https://oshi.at/MsRj) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/MsRj) | 210346124 | c899802d083bf8e123b0df05391e2ae900cc97ac3241e8ecdadb44fb7fba3ca3 | 
-| Tue 08 Mar 2022 07:00:01 AM UTC | [Direct](https://oshi.at/QuUP) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/QuUP) | 210216924 | f39d2ff3c54457e5392142ef62195a44f72771badc8dff1f9cf01e41cc68249f | 

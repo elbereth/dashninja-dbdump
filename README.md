@@ -12,6 +12,7 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 ## Automatic Dump Files
 | Date | Links | Size | SHA256 |
 |--|--|--|--|
+| Sun 27 Mar 2022 07:00:01 AM UTC | [Direct](https://oshi.at/QvcZ) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/QvcZ) | 211484296 | af7955064378251a46892d85dcab7b5709ceafa3f17291f2aa65a85b8001529e | 
 | Sat 26 Mar 2022 07:00:01 AM UTC | [Direct](https://oshi.at/qznx) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/qznx) | 211223996 | 84c27a989247ab1ef7f81f36504b46524eb318266ad6e50a7a0e010ebea16135 | 
 | Fri 25 Mar 2022 07:00:01 AM UTC | [Direct](https://oshi.at/DysU) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/DysU) | 211460352 | 0b83f29507a75d8b014ae5845ecddcc07047fb51a7d1141179128c15ebd72cf3 | 
 | Thu 24 Mar 2022 07:00:01 AM UTC | [Direct](https://oshi.at/LHBF) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/LHBF) | 211147680 | 10bf7ce5d40b3d5760cdcc83c94b6be4baa2bd372570b1ad7e20c49e76aac8c6 | 
@@ -25,4 +26,3 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 | Wed 16 Mar 2022 07:00:01 AM UTC | [Direct](https://oshi.at/XDcu) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/XDcu) | 210770592 | 82306738acec8cda2f8ea572492b5fd61d02c13df38397d0dcadc14b03936def | 
 | Tue 15 Mar 2022 07:00:01 AM UTC | [Direct](https://oshi.at/sFnF) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/sFnF) | 210713372 | c043e2a14aa808951cf6c31fa76753171fde3b9b5933146b100ec164d5530723 | 
 | Mon 14 Mar 2022 07:00:01 AM UTC | [Direct](https://oshi.at/YCyv) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/YCyv) | 210682884 | b7b29fc42c3539e990c6f0da2441b2d2afe958c251c056b3cd4fb001c31a935b | 
-| Sun 13 Mar 2022 07:00:01 AM UTC | [Direct](https://oshi.at/VySt) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/VySt) | 210697720 | f35607601f41b93fa6e472a5f32c7b2705610d892d30cfb3e5183d05939c2374 | 

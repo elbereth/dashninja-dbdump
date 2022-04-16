@@ -12,6 +12,7 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 ## Automatic Dump Files
 | Date | Links | Size | SHA256 |
 |--|--|--|--|
+| Sat 16 Apr 2022 07:00:01 AM UTC | [Direct](https://oshi.at/RnGt) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/RnGt) | 212347576 | ea043f36fe08d52d6ecd7ac2673a87bf3c560b8ca2e3e9cfb861b9413d25b604 | 
 | Fri 15 Apr 2022 07:00:01 AM UTC | [Direct](https://oshi.at/deGZ) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/deGZ) | 212344796 | c2d494d287dec7221a3c45af0ae571bd6afb90cf95b64901393681d65e73095c | 
 | Thu 14 Apr 2022 07:00:01 AM UTC | [Direct](https://oshi.at/wDkV) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/wDkV) | 212238924 | 45cd5bc0e8d86981677ebb9d8fc84f383e90e6b3d8366c4453a183cf70c50d03 | 
 | Wed 13 Apr 2022 07:00:01 AM UTC | [Direct](https://oshi.at/tihf) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/tihf) | 212212644 | 894997c23c0f7ba7773fa1b23d205fcdd71d5a73fd0f04a3bbb5f443b51799ba | 
@@ -25,4 +26,3 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 | Tue 05 Apr 2022 07:00:01 AM UTC | [Direct](https://oshi.at/pTQQ) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/pTQQ) | 211797104 | dd645352c628bb380966468cd8022c28fa856086dfcc597647ff2bf0511ca6c0 | 
 | Mon 04 Apr 2022 07:00:01 AM UTC | [Direct](https://oshi.at/AXhW) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/AXhW) | 212047488 | 7aa4a5e8e9d5cd98be1a5aa62ec4b90388d60755196fd79c9dd831317cd857b7 | 
 | Sun 03 Apr 2022 07:00:01 AM UTC | [Direct](https://oshi.at/KeZM) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/KeZM) | 212295572 | 72fa62462826d9e10bb37f1429498406d9fd5e043f3eb09125b0552444d414aa | 
-| Sat 02 Apr 2022 07:00:02 AM UTC | [Direct](https://oshi.at/auwC) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/auwC) | 211802012 | 05e99e3064ae46b7c8d6b78ee7693883de53dc7bf3b269e24c06045978b1d8ea | 

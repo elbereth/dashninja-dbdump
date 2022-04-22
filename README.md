@@ -12,6 +12,7 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 ## Automatic Dump Files
 | Date | Links | Size | SHA256 |
 |--|--|--|--|
+| Fri 22 Apr 2022 07:00:01 AM UTC | [Direct](https://oshi.at/qRpe) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/qRpe) | 212495348 | b24d1b86f8d9a2da6b9b2adef76684aa7f42ff8e07cd0ecadc31cdf32ffebf8f | 
 | Thu 21 Apr 2022 07:00:01 AM UTC | [Direct](https://oshi.at/DtLS) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/DtLS) | 212546284 | 5a9ebe20f62072f19f5da0a0178e65ece92e7498910ec08b57375266fe3fb0db | 
 | Wed 20 Apr 2022 07:00:01 AM UTC | [Direct](https://oshi.at/iVqk) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/iVqk) | 212703188 | 77261e26328594ec5c5d2539a17b1b4a25e79850deddb73930e50edc0456af1a | 
 | Tue 19 Apr 2022 07:00:01 AM UTC | [Direct](https://oshi.at/kLPa) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/kLPa) | 212431400 | 6d07c166dc5f0c3e65d08347ce24d95f80f0df2a1cb876389df23c5fd6b2e0b0 | 
@@ -25,4 +26,3 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 | Mon 11 Apr 2022 07:00:01 AM UTC | [Direct](https://oshi.at/sJeq) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/sJeq) | 212016436 | 4ecd10fecaf5c07feb2e02399f654e5c5f10f57f510438fff9118daa1b8cf6db | 
 | Sun 10 Apr 2022 07:00:01 AM UTC | [Direct](https://oshi.at/knNr) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/knNr) | 212055500 | 185b9a7f2da3aecb686ac9db442a53772be24b782aa18f9064ff1f69151fe1bd | 
 | Sat 09 Apr 2022 07:00:01 AM UTC | [Direct]() [Onion]() | 211907144 | 3ee0109d210d206ca9fa731b6ca7e23cbf1587805c39b807ef33661ca149e7b6 | 
-| Fri 08 Apr 2022 07:00:01 AM UTC | [Direct](https://oshi.at/dTNW) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/dTNW) | 211811180 | af3b392ed01e8607759c508e333da139c32079d8919834e21672033692065382 | 

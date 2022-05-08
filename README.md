@@ -12,6 +12,7 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 ## Automatic Dump Files
 | Date | Links | Size | SHA256 |
 |--|--|--|--|
+| Sun 08 May 2022 07:00:01 AM UTC | [Direct](https://oshi.at/gjwR) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/gjwR) | 213261876 | 3105d26dd20c47c4f984fcfa7182303bd5464ac8696eb81ca0694b84b05babe9 | 
 | Sat 07 May 2022 07:00:01 AM UTC | [Direct](https://oshi.at/Tuih) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/Tuih) | 213228640 | 72c52da97321c72bf185f60bd2e02d0d0e869d37e1427945663916790f7a9db3 | 
 | Fri 06 May 2022 07:00:01 AM UTC | [Direct](https://oshi.at/HJQU) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/HJQU) | 213332044 | 525852d94ef6491c5dff945efe77107f14873678366d56659c96673d679ecc5a | 
 | Thu 05 May 2022 07:00:01 AM UTC | [Direct](https://oshi.at/SUQm) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/SUQm) | 213464348 | af33eaa9b06e1d1d2194eec98fc96abdb4f46de6134e4e402b5dc48cb4fc0b56 | 
@@ -25,4 +26,3 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 | Wed 27 Apr 2022 07:00:01 AM UTC | [Direct](https://oshi.at/SJTz) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/SJTz) | 212920768 | c77586594dd41782517ca1a23e4251f319169699a7a261854031eb3525732b98 | 
 | Tue 26 Apr 2022 07:00:01 AM UTC | [Direct](https://oshi.at/jpDs) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/jpDs) | 212824220 | 3a1dec21b8b35de6adc81c786dc037534b0e82e13c576e81fc42d6792893429d | 
 | Mon 25 Apr 2022 07:00:01 AM UTC | [Direct](https://oshi.at/TPHU) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/TPHU) | 212832520 | db8dd0d8d1d0c46f4affbdcd6bcf5abc13bef1f158f60adbd6d84d9358ee9085 | 
-| Sun 24 Apr 2022 07:00:01 AM UTC | [Direct](https://oshi.at/XSEL) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/XSEL) | 212658412 | 9eafbece250796775772a1bbb20beb66fe76e328836e84e91441c092a478d3b4 | 

@@ -12,6 +12,7 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 ## Automatic Dump Files
 | Date | Links | Size | SHA256 |
 |--|--|--|--|
+| Tue 24 May 2022 07:00:01 AM UTC | [Direct](https://oshi.at/XJoU) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/XJoU) | 214254376 | 9c2756cc8214c9c94ebeeaebd77986105f9f92215817b5f1928f2d4131d67c54 | 
 | Mon 23 May 2022 07:00:01 AM UTC | [Direct](https://oshi.at/BVEB) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/BVEB) | 213928056 | cbc78a2c606f83bfd5468e741b4a5194dd8b0ea30cc927111a12a0cf3b689167 | 
 | Sun 22 May 2022 07:00:01 AM UTC | [Direct](https://oshi.at/aWtq) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/aWtq) | 214035620 | f02e7ec0ead3675e39393c1d2e1ec0e7f8ea78d979c8bbaa8f6f6fb77e2b4b3f | 
 | Sat 21 May 2022 07:00:01 AM UTC | [Direct](https://oshi.at/CbjU) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/CbjU) | 213991864 | ff7e491c91b70f2f2e98b0bc699896dd2196f71fde1659a990ad09b23f45e6be | 
@@ -25,4 +26,3 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 | Fri 13 May 2022 07:00:01 AM UTC | [Direct](https://oshi.at/TzZe) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/TzZe) | 213588368 | 68f0230a6307eb751cb6d9a274852a9dd0620ff1ded420244a5a333df4b3a1c8 | 
 | Thu 12 May 2022 07:00:01 AM UTC | [Direct](https://oshi.at/UBKS) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/UBKS) | 213469308 | 2a13679da0d51b1d1123c7aaf3d7a92d3edcea02d0ae7067b5802362e522fc49 | 
 | Wed 11 May 2022 07:00:01 AM UTC | [Direct](https://oshi.at/gush) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/gush) | 213505704 | a8e537685dbca30ec985644dec5e76a9ce613b5c9a5dffeee610af45d3e193e6 | 
-| Tue 10 May 2022 07:00:01 AM UTC | [Direct](https://oshi.at/CGHg) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/CGHg) | 213403940 | abe2dffc82431fd893a480dd1e2ef79eb03ba4860d7e21c15d425206a555111e | 

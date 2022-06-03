@@ -12,6 +12,7 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 ## Automatic Dump Files
 | Date | Links | Size | SHA256 |
 |--|--|--|--|
+| Fri 03 Jun 2022 07:00:01 AM UTC | [Direct](https://oshi.at/EQcr) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/EQcr) | 214607344 | ae0f1a0b50af3c9d8bc38f9de83c69456726cb4a2010567cc9bce5af63bc7767 | 
 | Thu 02 Jun 2022 07:00:01 AM UTC | [Direct](https://oshi.at/TDRs) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/TDRs) | 214482340 | f568edc9cd0f76c2a7a6f3ef6a47da97c113296be64b128c72f3cf704575300f | 
 | Wed 01 Jun 2022 07:00:01 AM UTC | [Direct](https://oshi.at/paah) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/paah) | 214673476 | c3d8332e539996417134c952df50f7fce79a0b50039cbc18e327fcda52b13963 | 
 | Tue 31 May 2022 07:00:01 AM UTC | [Direct](https://oshi.at/iCws) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/iCws) | 214410388 | 841292257b707745e9c3cea32140ff4e0b63de935baafef385b389466c606f07 | 
@@ -25,4 +26,3 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 | Mon 23 May 2022 07:00:01 AM UTC | [Direct](https://oshi.at/BVEB) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/BVEB) | 213928056 | cbc78a2c606f83bfd5468e741b4a5194dd8b0ea30cc927111a12a0cf3b689167 | 
 | Sun 22 May 2022 07:00:01 AM UTC | [Direct](https://oshi.at/aWtq) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/aWtq) | 214035620 | f02e7ec0ead3675e39393c1d2e1ec0e7f8ea78d979c8bbaa8f6f6fb77e2b4b3f | 
 | Sat 21 May 2022 07:00:01 AM UTC | [Direct](https://oshi.at/CbjU) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/CbjU) | 213991864 | ff7e491c91b70f2f2e98b0bc699896dd2196f71fde1659a990ad09b23f45e6be | 
-| Fri 20 May 2022 07:00:01 AM UTC | [Direct](https://oshi.at/TpwS) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/TpwS) | 214226044 | b48ce1037d0d87a9bfa9d1c0c9f17f78b8d8cecbb8848c9cd8d6b00445d2d556 | 

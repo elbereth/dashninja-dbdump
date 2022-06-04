@@ -12,6 +12,7 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 ## Automatic Dump Files
 | Date | Links | Size | SHA256 |
 |--|--|--|--|
+| Sat 04 Jun 2022 07:00:01 AM UTC | [Direct](https://oshi.at/RcZr) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/RcZr) | 214448840 | b862092052f9511fc24c05118a0d3b65327795025362d008e6d84393bbabb319 | 
 | Fri 03 Jun 2022 07:00:01 AM UTC | [Direct](https://oshi.at/EQcr) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/EQcr) | 214607344 | ae0f1a0b50af3c9d8bc38f9de83c69456726cb4a2010567cc9bce5af63bc7767 | 
 | Thu 02 Jun 2022 07:00:01 AM UTC | [Direct](https://oshi.at/TDRs) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/TDRs) | 214482340 | f568edc9cd0f76c2a7a6f3ef6a47da97c113296be64b128c72f3cf704575300f | 
 | Wed 01 Jun 2022 07:00:01 AM UTC | [Direct](https://oshi.at/paah) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/paah) | 214673476 | c3d8332e539996417134c952df50f7fce79a0b50039cbc18e327fcda52b13963 | 
@@ -25,4 +26,3 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 | Tue 24 May 2022 07:00:01 AM UTC | [Direct](https://oshi.at/XJoU) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/XJoU) | 214254376 | 9c2756cc8214c9c94ebeeaebd77986105f9f92215817b5f1928f2d4131d67c54 | 
 | Mon 23 May 2022 07:00:01 AM UTC | [Direct](https://oshi.at/BVEB) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/BVEB) | 213928056 | cbc78a2c606f83bfd5468e741b4a5194dd8b0ea30cc927111a12a0cf3b689167 | 
 | Sun 22 May 2022 07:00:01 AM UTC | [Direct](https://oshi.at/aWtq) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/aWtq) | 214035620 | f02e7ec0ead3675e39393c1d2e1ec0e7f8ea78d979c8bbaa8f6f6fb77e2b4b3f | 
-| Sat 21 May 2022 07:00:01 AM UTC | [Direct](https://oshi.at/CbjU) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/CbjU) | 213991864 | ff7e491c91b70f2f2e98b0bc699896dd2196f71fde1659a990ad09b23f45e6be | 

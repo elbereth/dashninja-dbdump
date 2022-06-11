@@ -12,6 +12,7 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 ## Automatic Dump Files
 | Date | Links | Size | SHA256 |
 |--|--|--|--|
+| Sat 11 Jun 2022 07:00:01 AM UTC | [Direct](https://oshi.at/NXdk) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/NXdk) | 214828756 | 854f00ce9815059abf75c823dcbdcde3f8e977ff0e9571750cc20dfd96454958 | 
 | Fri 10 Jun 2022 07:00:01 AM UTC | [Direct](https://oshi.at/rGdy) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/rGdy) | 214619448 | bf979b29e5acdcb26d2ba44ef40a13bc8debd3d656dacf5744bddd11a78eb3f9 | 
 | Thu 09 Jun 2022 07:00:01 AM UTC | [Direct](https://oshi.at/scTt) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/scTt) | 215035768 | e95aeec94a4d210fc78822260356d398a657a96e8c3a15409667f087eddedd63 | 
 | Wed 08 Jun 2022 07:00:01 AM UTC | [Direct](https://oshi.at/Rmwn) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/Rmwn) | 214930084 | 02e0f1103700b0e0ca036cc1f50db8d7276789f307df8db6c9f45b2edf51288e | 
@@ -25,4 +26,3 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 | Tue 31 May 2022 07:00:01 AM UTC | [Direct](https://oshi.at/iCws) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/iCws) | 214410388 | 841292257b707745e9c3cea32140ff4e0b63de935baafef385b389466c606f07 | 
 | Mon 30 May 2022 07:00:01 AM UTC | [Direct](https://oshi.at/myHv) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/myHv) | 214409188 | 51f6fb61618b0fe6557016122217cdad4966ab586ef3ffe8f2e847181d3d4d45 | 
 | Sun 29 May 2022 07:00:01 AM UTC | [Direct](https://oshi.at/KoxT) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/KoxT) | 214533672 | dec30cb87c2a6cad023fda106c7c8c71c08454184c08dff3bfc5803782e17825 | 
-| Sat 28 May 2022 07:00:01 AM UTC | [Direct](https://oshi.at/tTBU) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/tTBU) | 214252056 | ac61430fc72e2088db9d2dd90170bf6d066d85f06e744671879276e86bef8b44 | 

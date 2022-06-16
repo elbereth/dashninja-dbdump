@@ -12,6 +12,7 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 ## Automatic Dump Files
 | Date | Links | Size | SHA256 |
 |--|--|--|--|
+| Thu 16 Jun 2022 07:00:01 AM UTC | [Direct](https://oshi.at/izPA) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/izPA) | 214977000 | 0b639bf3193b9dd164366f00f4f2ce6ddcf613dc2b9821961e2ee69de0940b66 | 
 | Wed 15 Jun 2022 07:00:01 AM UTC | [Direct](https://oshi.at/NDay) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/NDay) | 214910140 | 8fc549aced0376b4afe203c0a4c1a9252982c36719dd6395df363a205009385c | 
 | Tue 14 Jun 2022 07:00:01 AM UTC | [Direct](https://oshi.at/sZWp) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/sZWp) | 215270668 | 8fa5ce07db7f046442b1b3394736cb9eb42b3d6ae6332ee5c0e2b6a8aab0e908 | 
 | Mon 13 Jun 2022 07:00:01 AM UTC | [Direct](https://oshi.at/WoWW) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/WoWW) | 215090400 | e55fc2a5b03e514b9d977165f7911abba3dd54282014f60b7eb06de576ec4334 | 
@@ -25,4 +26,3 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 | Sun 05 Jun 2022 07:00:01 AM UTC | [Direct](https://oshi.at/SKBB) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/SKBB) | 214877712 | 9f0d825bc0a159aab642dc8fc039c3e7831992a468dbbb7384502914640272c4 | 
 | Sat 04 Jun 2022 07:00:01 AM UTC | [Direct](https://oshi.at/RcZr) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/RcZr) | 214448840 | b862092052f9511fc24c05118a0d3b65327795025362d008e6d84393bbabb319 | 
 | Fri 03 Jun 2022 07:00:01 AM UTC | [Direct](https://oshi.at/EQcr) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/EQcr) | 214607344 | ae0f1a0b50af3c9d8bc38f9de83c69456726cb4a2010567cc9bce5af63bc7767 | 
-| Thu 02 Jun 2022 07:00:01 AM UTC | [Direct](https://oshi.at/TDRs) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/TDRs) | 214482340 | f568edc9cd0f76c2a7a6f3ef6a47da97c113296be64b128c72f3cf704575300f | 

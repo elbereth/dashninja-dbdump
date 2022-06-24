@@ -12,6 +12,7 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 ## Automatic Dump Files
 | Date | Links | Size | SHA256 |
 |--|--|--|--|
+| Fri 24 Jun 2022 07:00:02 AM UTC | [Direct](https://oshi.at/rdCN) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/rdCN) | 215408520 | 32cc39ac7515b51f97c065059d32ec4321c76dc75b6646bd7bd883d8b02ab5d7 | 
 | Thu 23 Jun 2022 07:00:01 AM UTC | [Direct](https://oshi.at/uEzW) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/uEzW) | 215462852 | db397c8c788f664ebeb7328d84682cb32850b3873ceb7178827eb4564846ab0c | 
 | Wed 22 Jun 2022 07:00:02 AM UTC | [Direct](https://oshi.at/UBpY) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/UBpY) | 215493140 | ad85e6f84403284899010fd9195e917f58a97bb10c4a959f72f3ffd030aff415 | 
 | Tue 21 Jun 2022 07:00:01 AM UTC | [Direct](https://oshi.at/oeAi) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/oeAi) | 215503096 | ce4b66bdf83df9fa291f331ef5a21aa12c01d55cb869b3a82dc86d8d56067ebb | 
@@ -25,4 +26,3 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 | Mon 13 Jun 2022 07:00:01 AM UTC | [Direct](https://oshi.at/WoWW) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/WoWW) | 215090400 | e55fc2a5b03e514b9d977165f7911abba3dd54282014f60b7eb06de576ec4334 | 
 | Sun 12 Jun 2022 07:00:01 AM UTC | [Direct](https://oshi.at/qhjN) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/qhjN) | 214978392 | 54977685616ef744997a93a32f3b7cd26a2567bfcada4ba346f54c6780a6dcf8 | 
 | Sat 11 Jun 2022 07:00:01 AM UTC | [Direct](https://oshi.at/NXdk) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/NXdk) | 214828756 | 854f00ce9815059abf75c823dcbdcde3f8e977ff0e9571750cc20dfd96454958 | 
-| Fri 10 Jun 2022 07:00:01 AM UTC | [Direct](https://oshi.at/rGdy) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/rGdy) | 214619448 | bf979b29e5acdcb26d2ba44ef40a13bc8debd3d656dacf5744bddd11a78eb3f9 | 

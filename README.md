@@ -12,6 +12,7 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 ## Automatic Dump Files
 | Date | Links | Size | SHA256 |
 |--|--|--|--|
+| Tue 28 Jun 2022 07:00:01 AM UTC | [Direct](https://oshi.at/ytsb) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/ytsb) | 215532788 | b5dfa178dcf213a88799be347b4443130ead3d537ca599f6279507b937c4703d | 
 | Mon 27 Jun 2022 07:00:01 AM UTC | [Direct](https://oshi.at/CSzN) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/CSzN) | 215560308 | 104f752bbb4776d094ee370c694910188583f427130ae069b67cd924075704bd | 
 | Sun 26 Jun 2022 07:00:01 AM UTC | [Direct](https://oshi.at/KQjv) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/KQjv) | 215457376 | 399044c900f4b0076353f94b0f9dfcf75c5de0cba63b91729070c07161eb7033 | 
 | Sat 25 Jun 2022 07:00:01 AM UTC | [Direct](https://oshi.at/zLZp) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/zLZp) | 215518504 | aadb92e2030a5fd8545bd1fc2787363243bd7b39f908b0352f5bf02cea595001 | 
@@ -25,4 +26,3 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 | Fri 17 Jun 2022 07:00:01 AM UTC | [Direct](https://oshi.at/EFGV) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/EFGV) | 215051164 | fe83704bb89281cacd3522e585520d02ead6cd4e47ae0b04e83aef71138874cc | 
 | Thu 16 Jun 2022 07:00:01 AM UTC | [Direct](https://oshi.at/izPA) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/izPA) | 214977000 | 0b639bf3193b9dd164366f00f4f2ce6ddcf613dc2b9821961e2ee69de0940b66 | 
 | Wed 15 Jun 2022 07:00:01 AM UTC | [Direct](https://oshi.at/NDay) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/NDay) | 214910140 | 8fc549aced0376b4afe203c0a4c1a9252982c36719dd6395df363a205009385c | 
-| Tue 14 Jun 2022 07:00:01 AM UTC | [Direct](https://oshi.at/sZWp) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/sZWp) | 215270668 | 8fa5ce07db7f046442b1b3394736cb9eb42b3d6ae6332ee5c0e2b6a8aab0e908 | 

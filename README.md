@@ -12,6 +12,7 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 ## Automatic Dump Files
 | Date | Links | Size | SHA256 |
 |--|--|--|--|
+| Fri 08 Jul 2022 07:00:01 AM UTC | [Direct](https://oshi.at/UvZD) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/UvZD) | 216004232 | 4478ad7f772afee294a07fd8fb83928e6d95ef120623ddea75b7a920b7ab3183 | 
 | Thu 07 Jul 2022 07:00:01 AM UTC | [Direct](https://oshi.at/iQYN) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/iQYN) | 216114820 | a380f8a918e7de90d891c99e131fef255f4e81b2030763d6e1eeff7c47991132 | 
 | Wed 06 Jul 2022 07:00:01 AM UTC | [Direct](https://oshi.at/SsVR) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/SsVR) | 215909300 | e0dbe02438814d9165f99f9993306e8830b703afa9cda3e94c94290494c16318 | 
 | Tue 05 Jul 2022 07:00:01 AM UTC | [Direct](https://oshi.at/bLfi) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/bLfi) | 215860168 | 16239575dd89189ab43f516829d7d63edb108d5ff1986bfa4c468a826d582ee5 | 
@@ -25,4 +26,3 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 | Mon 27 Jun 2022 07:00:01 AM UTC | [Direct](https://oshi.at/CSzN) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/CSzN) | 215560308 | 104f752bbb4776d094ee370c694910188583f427130ae069b67cd924075704bd | 
 | Sun 26 Jun 2022 07:00:01 AM UTC | [Direct](https://oshi.at/KQjv) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/KQjv) | 215457376 | 399044c900f4b0076353f94b0f9dfcf75c5de0cba63b91729070c07161eb7033 | 
 | Sat 25 Jun 2022 07:00:01 AM UTC | [Direct](https://oshi.at/zLZp) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/zLZp) | 215518504 | aadb92e2030a5fd8545bd1fc2787363243bd7b39f908b0352f5bf02cea595001 | 
-| Fri 24 Jun 2022 07:00:02 AM UTC | [Direct](https://oshi.at/rdCN) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/rdCN) | 215408520 | 32cc39ac7515b51f97c065059d32ec4321c76dc75b6646bd7bd883d8b02ab5d7 | 

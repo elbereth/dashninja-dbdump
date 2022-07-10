@@ -12,6 +12,7 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 ## Automatic Dump Files
 | Date | Links | Size | SHA256 |
 |--|--|--|--|
+| Sun 10 Jul 2022 07:00:01 AM UTC | [Direct](https://oshi.at/uvGg) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/uvGg) | 216006524 | ddeaef648257446c1fb0598ee5cba1ec3f872e875cbf89e5fb192d76223f4e90 | 
 | Sat 09 Jul 2022 07:00:01 AM UTC | [Direct](https://oshi.at/dufg) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/dufg) | 216210760 | ab6d798844e441396c5c4726dec9e684591d21816902f2e2ad9966b31b8b5ef0 | 
 | Fri 08 Jul 2022 07:00:01 AM UTC | [Direct](https://oshi.at/UvZD) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/UvZD) | 216004232 | 4478ad7f772afee294a07fd8fb83928e6d95ef120623ddea75b7a920b7ab3183 | 
 | Thu 07 Jul 2022 07:00:01 AM UTC | [Direct](https://oshi.at/iQYN) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/iQYN) | 216114820 | a380f8a918e7de90d891c99e131fef255f4e81b2030763d6e1eeff7c47991132 | 
@@ -25,4 +26,3 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 | Wed 29 Jun 2022 07:00:01 AM UTC | [Direct](https://oshi.at/jeWL) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/jeWL) | 215552880 | 66111f60469111e187b8918ea4510f7854cec14c14741fef2fce29c10560ddd2 | 
 | Tue 28 Jun 2022 07:00:01 AM UTC | [Direct](https://oshi.at/ytsb) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/ytsb) | 215532788 | b5dfa178dcf213a88799be347b4443130ead3d537ca599f6279507b937c4703d | 
 | Mon 27 Jun 2022 07:00:01 AM UTC | [Direct](https://oshi.at/CSzN) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/CSzN) | 215560308 | 104f752bbb4776d094ee370c694910188583f427130ae069b67cd924075704bd | 
-| Sun 26 Jun 2022 07:00:01 AM UTC | [Direct](https://oshi.at/KQjv) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/KQjv) | 215457376 | 399044c900f4b0076353f94b0f9dfcf75c5de0cba63b91729070c07161eb7033 | 

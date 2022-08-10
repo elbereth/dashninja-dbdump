@@ -12,6 +12,7 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 ## Automatic Dump Files
 | Date | Links | Size | SHA256 |
 |--|--|--|--|
+| Wed 10 Aug 2022 07:00:01 AM UTC | [Direct](https://oshi.at/ABZY) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/ABZY) | 216683896 | b56453ad1a3f42d5ef900ce645d625a732fd6a3365a3b0bd179be218967533f1 | 
 | Tue 09 Aug 2022 07:00:01 AM UTC | [Direct](https://oshi.at/tGZv) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/tGZv) | 216578948 | e946ce8d5398fa99e07faf82426c9079e5f063cefbbea3f5138d6f6d55cb19f1 | 
 | Mon 08 Aug 2022 07:00:01 AM UTC | [Direct](https://oshi.at/iHdk) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/iHdk) | 216546460 | 32ac853438a9e48d8f6ad639a0ed705a019fcd9c0c1973481fe8a5741017f05d | 
 | Sun 07 Aug 2022 07:00:01 AM UTC | [Direct](https://oshi.at/owRC) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/owRC) | 216576140 | 3081411eeccfef2927e6fe28ebd6362bd0a216faa3cbb271b58f78ec9312c496 | 
@@ -25,4 +26,3 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 | Sat 30 Jul 2022 07:00:01 AM UTC | [Direct](https://oshi.at/eMcn) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/eMcn) | 216304904 | ef5d896322461da7d1ac3ed260511ca2a26d9069679511635281d0d5e2a2c6b9 | 
 | Fri 29 Jul 2022 07:00:01 AM UTC | [Direct](https://oshi.at/AiHU) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/AiHU) | 216185408 | 663221ada21744336588931ce3bb057d792a98bb49a9088c22d03983307160c0 | 
 | Thu 28 Jul 2022 07:00:01 AM UTC | [Direct](https://oshi.at/MRyD) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/MRyD) | 216164032 | 88c260e4c8839f196e156eed664598d4451a6b6a95d7239b56f24fdb9e43bdf3 | 
-| Wed 27 Jul 2022 07:00:01 AM UTC | [Direct](https://oshi.at/ySmS) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/ySmS) | 216248592 | 0030bbdf379912e6e6ac1bd3959f264ee84fcbbd082f6291bf795350ae0974e4 | 

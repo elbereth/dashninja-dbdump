@@ -12,6 +12,7 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 ## Automatic Dump Files
 | Date | Links | Size | SHA256 |
 |--|--|--|--|
+| Wed 24 Aug 2022 07:00:01 AM UTC | [Direct](https://oshi.at/xtvT) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/xtvT) | 218135328 | 1a4e120a205806c1a0ced21c182e9fc2d14323bbb83d86c1224791bc85519f2e | 
 | Tue 23 Aug 2022 07:00:01 AM UTC | [Direct](https://oshi.at/KwHp) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/KwHp) | 217991964 | c9491d8d4227dad395b9043718ba9743afdcf84124d1fddd02242678026dafbc | 
 | Mon 22 Aug 2022 07:00:01 AM UTC | [Direct](https://oshi.at/nxVb) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/nxVb) | 217747720 | 02ecb192d2cd5f1ff3434f16b7e23ade44f777dd25bca0a0936135ae61c6f28a | 
 | Sun 21 Aug 2022 07:00:01 AM UTC | [Direct](https://oshi.at/DwGN) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/DwGN) | 217823868 | ba6fceb4e06af8b77cf803fe2c554592243d4b61c7d46a0bb2ce2a829f0d6f96 | 
@@ -25,4 +26,3 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 | Sat 13 Aug 2022 07:00:01 AM UTC | [Direct](https://oshi.at/NASM) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/NASM) | 216754528 | 75ac9676d81c1476b9ed3ad6dd7926db441409946aa37fc18c6fe0dad896d9bb | 
 | Fri 12 Aug 2022 07:00:01 AM UTC | [Direct](https://oshi.at/qTKE) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/qTKE) | 216974168 | 031533953f873c5bcd68ad521cdf564f8905d6100a3b0382da45c7aad37f05fd | 
 | Thu 11 Aug 2022 07:00:01 AM UTC | [Direct](https://oshi.at/DrHM) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/DrHM) | 216623904 | ae3d54f3d88a4a9c6c861e0243db2956771a17537ccb7be9281d66d149b97a54 | 
-| Wed 10 Aug 2022 07:00:01 AM UTC | [Direct](https://oshi.at/ABZY) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/ABZY) | 216683896 | b56453ad1a3f42d5ef900ce645d625a732fd6a3365a3b0bd179be218967533f1 | 

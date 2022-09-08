@@ -12,6 +12,7 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 ## Automatic Dump Files
 | Date | Links | Size | SHA256 |
 |--|--|--|--|
+| Thu 08 Sep 2022 07:00:01 AM UTC | [Direct](</body></html>) [Onion](</body></html>) | 218781868 | 659468fe04e11e0a9ca20f185edf9598f6a925ed6073bd340515cb4676d8ec07 | 
 | Wed 07 Sep 2022 07:00:01 AM UTC | [Direct](</body></html>) [Onion](</body></html>) | 218889400 | 4b3cc750abb88d75cb271638222852118524e2ecbf0263b1ba309be91f647399 | 
 | Tue 06 Sep 2022 07:00:01 AM UTC | [Direct](</body></html>) [Onion](</body></html>) | 218666964 | 21d09b965b33c86b526ab94a616c595a662206689cb4d1db45005c11e8c6a5f2 | 
 | Mon 05 Sep 2022 07:00:01 AM UTC | [Direct](</body></html>) [Onion](</body></html>) | 218561600 | 83f2a0068e0de961231e606bc56ffc79c6363347f4dc972d612b59ed7daa27fd | 
@@ -25,4 +26,3 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 | Sun 28 Aug 2022 07:00:01 AM UTC | [Direct](</body></html>) [Onion](</body></html>) | 218460808 | e830e012100156686bb17b4db77f702be0eaada266e5bbac85846fc9d16039d9 | 
 | Sat 27 Aug 2022 07:00:01 AM UTC | [Direct](https://oshi.at/oFsy) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/oFsy) | 218231996 | 87e0359e00be9af2b4cc6a845212d531395ac330e8e32d730b6a0c829eb3b53c | 
 | Fri 26 Aug 2022 07:00:01 AM UTC | [Direct](https://oshi.at/raEu) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/raEu) | 218426372 | f87a5afe1f7cc8557c5c895526c7ab8c397ce36559b1d8c51705b12ef3a4b832 | 
-| Thu 25 Aug 2022 07:00:01 AM UTC | [Direct](https://oshi.at/aYcC) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/aYcC) | 218110024 | b8a9f7ef319ae8f40d4655047f62cc9cb11ab4983088ae3a6bb4794163e0ba0b | 

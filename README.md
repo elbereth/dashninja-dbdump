@@ -12,6 +12,7 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 ## Automatic Dump Files
 | Date | Links | Size | SHA256 |
 |--|--|--|--|
+| Thu 22 Sep 2022 07:00:01 AM UTC | [Direct](</body></html>) [Onion](</body></html>) | 219637632 | 6280de8c37fa95a7fae21a0037c8d20aa19d5e9cd617f434e4eab05f6346afea | 
 | Wed 21 Sep 2022 07:00:01 AM UTC | [Direct](</body></html>) [Onion](</body></html>) | 219237676 | 976c3c36ab90cf4682b5426cd1ceffc15d566705fbd6f740c6a2c508f09386a6 | 
 | Tue 20 Sep 2022 07:00:01 AM UTC | [Direct](</body></html>) [Onion](</body></html>) | 219389844 | f99ed231d62425c6f5daf590790e2917009d529618b51ded97aceb2df4acfa3f | 
 | Mon 19 Sep 2022 07:00:01 AM UTC | [Direct]() [Onion]() | 219068084 | 4ed9b2ba0a023af773d17111c802dd781a5287fb2db4df945debac67b0ecd9d5 | 
@@ -25,4 +26,3 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 | Sun 11 Sep 2022 07:00:01 AM UTC | [Direct](</body></html>) [Onion](</body></html>) | 218843588 | 38fb638f9bd74f3b0dc484ec231cb791b6369ae596b4b4436fa815f8981e8b59 | 
 | Sat 10 Sep 2022 07:00:01 AM UTC | [Direct](</body></html>) [Onion](</body></html>) | 218748500 | 95bc0e51bd47ae38670dfeb734eef1a81a563e72972694e509ec4065321ea8c8 | 
 | Fri 09 Sep 2022 07:00:01 AM UTC | [Direct](</body></html>) [Onion](</body></html>) | 218829476 | 8125bf1dd3f99631692005311e203f21442d7b757814a391eb13fe4d6cd63f8b | 
-| Thu 08 Sep 2022 07:00:01 AM UTC | [Direct](</body></html>) [Onion](</body></html>) | 218781868 | 659468fe04e11e0a9ca20f185edf9598f6a925ed6073bd340515cb4676d8ec07 | 

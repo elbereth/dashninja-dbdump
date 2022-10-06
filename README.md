@@ -12,6 +12,7 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 ## Automatic Dump Files
 | Date | Links | Size | SHA256 |
 |--|--|--|--|
+| Thu 06 Oct 2022 07:00:01 AM UTC | [Direct](https://oshi.at/cNNv) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/cNNv) | 220252540 | ff96444eb8ea1d1155766bf44b3381a54675fe48c1bddd3cfb11d161f414383d | 
 | Wed 05 Oct 2022 07:00:01 AM UTC | [Direct](https://oshi.at/zqTU) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/zqTU) | 220193916 | f6aeff0233de46b915fd8b26fe7f93f9be6d8ca9b84e2eb988ec914187595628 | 
 | Tue 04 Oct 2022 07:00:01 AM UTC | [Direct](https://oshi.at/cArF) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/cArF) | 220009564 | eaf5d4cc832ea80f9b8424e32f9688b067a20c795b959b8b2ee9c213938f1d7d | 
 | Mon 03 Oct 2022 07:00:01 AM UTC | [Direct](https://oshi.at/VPGm) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/VPGm) | 219902876 | 6a0baf6730d20514fa64fb6c93a5111f7d553a8fc4ae78740b54d75cb8b4eb14 | 
@@ -25,4 +26,3 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 | Sun 25 Sep 2022 07:00:01 AM UTC | [Direct](</body></html>) [Onion](</body></html>) | 219743992 | d6d3368e97a241928a621844d6c7cf41c439286629973ef28ce75858b6982dc6 | 
 | Sat 24 Sep 2022 07:00:01 AM UTC | [Direct](</body></html>) [Onion](</body></html>) | 219415248 | 34e437608cdb00aaed5032748a496aa5a1734ca730226001d1d610b32455f67b | 
 | Fri 23 Sep 2022 07:00:01 AM UTC | [Direct](</body></html>) [Onion](</body></html>) | 219262404 | fa7166cebaa74d65b4fb6daf4ee0da54d0d1410d949eb5f38d1009b313e68134 | 
-| Thu 22 Sep 2022 07:00:01 AM UTC | [Direct](</body></html>) [Onion](</body></html>) | 219637632 | 6280de8c37fa95a7fae21a0037c8d20aa19d5e9cd617f434e4eab05f6346afea | 

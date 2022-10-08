@@ -12,6 +12,7 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 ## Automatic Dump Files
 | Date | Links | Size | SHA256 |
 |--|--|--|--|
+| Sat 08 Oct 2022 07:00:01 AM UTC | [Direct](https://oshi.at/awci) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/awci) | 220002964 | e8ebbe2a05b8d23d2bed8e3721050adb62496f9f7858f3c3149c543412a51ae8 | 
 | Fri 07 Oct 2022 07:00:01 AM UTC | [Direct](https://oshi.at/tWCJ) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/tWCJ) | 219932404 | bb5f4024b108b1375624af27ba9d98185ad786bc57bdc318a24efe0d6c44ac3e | 
 | Thu 06 Oct 2022 07:00:01 AM UTC | [Direct](https://oshi.at/cNNv) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/cNNv) | 220252540 | ff96444eb8ea1d1155766bf44b3381a54675fe48c1bddd3cfb11d161f414383d | 
 | Wed 05 Oct 2022 07:00:01 AM UTC | [Direct](https://oshi.at/zqTU) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/zqTU) | 220193916 | f6aeff0233de46b915fd8b26fe7f93f9be6d8ca9b84e2eb988ec914187595628 | 
@@ -25,4 +26,3 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 | Tue 27 Sep 2022 07:00:01 AM UTC | [Direct](</body></html>) [Onion](</body></html>) | 219534000 | 742927bdcc744194c05074db681d52c4699a9a65d45e29b119fd330c3774cd6c | 
 | Mon 26 Sep 2022 07:00:01 AM UTC | [Direct](</body></html>) [Onion](</body></html>) | 219594384 | 60b337243c19948e8464c44a8c8fe3e107d7304842544b16efbc9ef68d5661da | 
 | Sun 25 Sep 2022 07:00:01 AM UTC | [Direct](</body></html>) [Onion](</body></html>) | 219743992 | d6d3368e97a241928a621844d6c7cf41c439286629973ef28ce75858b6982dc6 | 
-| Sat 24 Sep 2022 07:00:01 AM UTC | [Direct](</body></html>) [Onion](</body></html>) | 219415248 | 34e437608cdb00aaed5032748a496aa5a1734ca730226001d1d610b32455f67b | 

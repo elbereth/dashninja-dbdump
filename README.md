@@ -12,6 +12,7 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 ## Automatic Dump Files
 | Date | Links | Size | SHA256 |
 |--|--|--|--|
+| Sat 22 Oct 2022 07:00:01 AM UTC | [Direct](https://oshi.at/mznv) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/mznv) | 220652160 | 6fe226c4a5a75df840168183be465f5db20fff50f75ab9d81fa77fec8383725e | 
 | Fri 21 Oct 2022 07:00:01 AM UTC | [Direct](https://oshi.at/widu) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/widu) | 220531784 | e8586d64cf211b5437575396b55ad3cf0f150dd6cb898d3febd14e8a1488855e | 
 | Thu 20 Oct 2022 07:00:01 AM UTC | [Direct](https://oshi.at/GmYE) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/GmYE) | 220493704 | ea07b671215a5ff5028d25ef571f20cf480ce2c497c94892ba5eb3a926ff6695 | 
 | Wed 19 Oct 2022 07:00:01 AM UTC | [Direct](https://oshi.at/dnCf) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/dnCf) | 220444228 | 9531339c3141fdc29f5078250aee16eff04fd6aa572df3702a2986cd2600e65a | 
@@ -25,4 +26,3 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 | Tue 11 Oct 2022 07:00:01 AM UTC | [Direct](https://oshi.at/eJqf) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/eJqf) | 220236372 | ad9ac0b5408903a15374cd15e5c54fed2d69314541a99f2b3738e5bad137d325 | 
 | Mon 10 Oct 2022 07:00:01 AM UTC | [Direct](https://oshi.at/zeTt) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/zeTt) | 220331596 | 07ad1709d69ae7c1ff4991aedc720f811cd734390e8dcbbc6e07333b4d6d8b90 | 
 | Sun 09 Oct 2022 07:00:01 AM UTC | [Direct](https://oshi.at/fpPS) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/fpPS) | 220148520 | 7f8a594c1093b790844fd65719311350b2593c2d1dc66ff5bc00ea2dda3a5b0d | 
-| Sat 08 Oct 2022 07:00:01 AM UTC | [Direct](https://oshi.at/awci) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/awci) | 220002964 | e8ebbe2a05b8d23d2bed8e3721050adb62496f9f7858f3c3149c543412a51ae8 | 

@@ -12,6 +12,7 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 ## Automatic Dump Files
 | Date | Links | Size | SHA256 |
 |--|--|--|--|
+| Sun 04 Dec 2022 07:00:02 AM UTC | [Direct](https://oshi.at/KbkB) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/KbkB) | 223515732 | 7109ef4784d54f7c135908a8050ad402397fcb65cbaaed9a8ff6d4163ed15823 | 
 | Sat 03 Dec 2022 07:00:01 AM UTC | [Direct](https://oshi.at/mghu) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/mghu) | 223611388 | 8cda262832ed0c5c910143efbadc44d5590d68d2645f46ec795b1530f347b59f | 
 | Fri 02 Dec 2022 07:00:01 AM UTC | [Direct](https://oshi.at/RtzL) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/RtzL) | 223350136 | cb8ec86140e08deaa356f97aa5ce5714a26c4014930cdaf8fbc4bccb9676da93 | 
 | Thu 01 Dec 2022 07:00:01 AM UTC | [Direct](https://oshi.at/JMry) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/JMry) | 223151672 | 0744facbe46ec5d0fc1e60fb3961483e2061da7b3111e9a13232a1ff131f2630 | 
@@ -25,4 +26,3 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 | Wed 23 Nov 2022 07:00:01 AM UTC | [Direct](https://oshi.at/iMpj) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/iMpj) | 222554896 | 68697d1eface054169ba3ae15226624ccf6b241b0b20f2bf93e9049bf724d0e9 | 
 | Tue 22 Nov 2022 07:00:01 AM UTC | [Direct](https://oshi.at/pLeK) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/pLeK) | 222461284 | d6acde1cff28811e7486ddb81a44c35cae29a4bf8346c8af4e02b4a07d2c1649 | 
 | Mon 21 Nov 2022 07:00:01 AM UTC | [Direct](https://oshi.at/XpEf) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/XpEf) | 222449400 | b63a37b6937f215af0132f1570b899a71d96d7d5e2bf2a31634bd063292c643e | 
-| Sun 20 Nov 2022 07:00:01 AM UTC | [Direct](https://oshi.at/HSJw) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/HSJw) | 222308732 | 6b1eef320c90514897eae37299528104af67bbb710f34417ef6bdb6b2381657d | 

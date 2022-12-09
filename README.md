@@ -12,6 +12,7 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 ## Automatic Dump Files
 | Date | Links | Size | SHA256 |
 |--|--|--|--|
+| Fri 09 Dec 2022 07:00:01 AM UTC | [Direct](https://oshi.at/zCTP) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/zCTP) | 223927464 | 1126e72a2dc9676de2f6b67853ca6f1e5a96344e7671f6e02dbd8706774039b3 | 
 | Thu 08 Dec 2022 07:00:01 AM UTC | [Direct](https://oshi.at/gPpg) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/gPpg) | 223817864 | d92ea6c6ee01d90c45b2ebb56fa8a6f493a164ac114ab63a9001b90fd002a9ec | 
 | Wed 07 Dec 2022 07:00:01 AM UTC | [Direct](https://oshi.at/QJQK) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/QJQK) | 223634504 | cda2410e5c81b4e9f2749d24fe3bbccea09ba1f02a0239c6d03a02d6504b488b | 
 | Tue 06 Dec 2022 07:00:01 AM UTC | [Direct](https://oshi.at/FMaP) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/FMaP) | 223881288 | f6c21ea29ff673576e035653871ecb0d8cf4dde089611e83a808b64c51e5e007 | 
@@ -25,4 +26,3 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 | Mon 28 Nov 2022 07:00:01 AM UTC | [Direct](https://oshi.at/aSkY) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/aSkY) | 223158120 | bb074e24d8377845985241dbdd35c691d0f4a5d631562574a469f0c666b4011e | 
 | Sun 27 Nov 2022 07:00:01 AM UTC | [Direct](https://oshi.at/nKde) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/nKde) | 222890384 | 6a15ab8591ec987df880539582e198103b49f51ca327cfe1d878c212067dfde7 | 
 | Sat 26 Nov 2022 07:00:00 AM UTC | [Direct](https://oshi.at/DDEp) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/DDEp) | 222899152 | 72976411fd996596a345f8c8c80c62dd21a43e9712f1ab3dd6306863287e78c9 | 
-| Fri 25 Nov 2022 07:00:01 AM UTC | [Direct](https://oshi.at/AuxN) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/AuxN) | 222835300 | 9a3bb26ce26dae2e67b6ec0c0a95543d3d6f6552a973e26b954d2a8b0fa33cae | 

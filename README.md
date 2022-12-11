@@ -12,6 +12,7 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 ## Automatic Dump Files
 | Date | Links | Size | SHA256 |
 |--|--|--|--|
+| Sun 11 Dec 2022 07:00:00 AM UTC | [Direct](https://oshi.at/bMDj) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/bMDj) | 224452068 | 192bd83dc00a85a1611c5a175d7833d9c489da1dfc47bbb154cd90f1e640911c | 
 | Sat 10 Dec 2022 07:00:01 AM UTC | [Direct](https://oshi.at/KjFM) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/KjFM) | 224013984 | 92be023291dc899db4a11f81d5f1da8f1c9bb282b78f15ed4c8a62b83e4631a8 | 
 | Fri 09 Dec 2022 07:00:01 AM UTC | [Direct](https://oshi.at/zCTP) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/zCTP) | 223927464 | 1126e72a2dc9676de2f6b67853ca6f1e5a96344e7671f6e02dbd8706774039b3 | 
 | Thu 08 Dec 2022 07:00:01 AM UTC | [Direct](https://oshi.at/gPpg) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/gPpg) | 223817864 | d92ea6c6ee01d90c45b2ebb56fa8a6f493a164ac114ab63a9001b90fd002a9ec | 
@@ -25,4 +26,3 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 | Wed 30 Nov 2022 07:00:01 AM UTC | [Direct](https://oshi.at/RMFM) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/RMFM) | 223230216 | 048c57d05cb447e3d2582a3259a0cc9bedb261238baa484ba7ee3fa435a0c1d8 | 
 | Tue 29 Nov 2022 07:00:02 AM UTC | [Direct](https://oshi.at/DySR) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/DySR) | 222982728 | 2ee1ac1694b9deaa0c2323817c7cdee5f305314670c4a822d46513d333eae05d | 
 | Mon 28 Nov 2022 07:00:01 AM UTC | [Direct](https://oshi.at/aSkY) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/aSkY) | 223158120 | bb074e24d8377845985241dbdd35c691d0f4a5d631562574a469f0c666b4011e | 
-| Sun 27 Nov 2022 07:00:01 AM UTC | [Direct](https://oshi.at/nKde) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/nKde) | 222890384 | 6a15ab8591ec987df880539582e198103b49f51ca327cfe1d878c212067dfde7 | 

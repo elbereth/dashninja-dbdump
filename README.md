@@ -12,6 +12,7 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 ## Automatic Dump Files
 | Date | Links | Size | SHA256 |
 |--|--|--|--|
+| Wed 14 Dec 2022 07:00:00 AM UTC | [Direct](https://oshi.at/CLqV) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/CLqV) | 224111760 | 3213d2a40e129d2690cb663312f9014da3c55db0cd5e43d1a7d75b02008782e2 | 
 | Tue 13 Dec 2022 07:00:01 AM UTC | [Direct](https://oshi.at/DLQR) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/DLQR) | 224154864 | 1799ca8035db4b69d462c9ef9cbc302533496a748ede35742db67508528218f1 | 
 | Mon 12 Dec 2022 07:00:01 AM UTC | [Direct](https://oshi.at/HXpw) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/HXpw) | 224242312 | 553a9d54935b364e6a8aff19ae35331e8cfa074815c8d4e9aac0f31cd8525c39 | 
 | Sun 11 Dec 2022 07:00:00 AM UTC | [Direct](https://oshi.at/bMDj) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/bMDj) | 224452068 | 192bd83dc00a85a1611c5a175d7833d9c489da1dfc47bbb154cd90f1e640911c | 
@@ -25,4 +26,3 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 | Sat 03 Dec 2022 07:00:01 AM UTC | [Direct](https://oshi.at/mghu) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/mghu) | 223611388 | 8cda262832ed0c5c910143efbadc44d5590d68d2645f46ec795b1530f347b59f | 
 | Fri 02 Dec 2022 07:00:01 AM UTC | [Direct](https://oshi.at/RtzL) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/RtzL) | 223350136 | cb8ec86140e08deaa356f97aa5ce5714a26c4014930cdaf8fbc4bccb9676da93 | 
 | Thu 01 Dec 2022 07:00:01 AM UTC | [Direct](https://oshi.at/JMry) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/JMry) | 223151672 | 0744facbe46ec5d0fc1e60fb3961483e2061da7b3111e9a13232a1ff131f2630 | 
-| Wed 30 Nov 2022 07:00:01 AM UTC | [Direct](https://oshi.at/RMFM) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/RMFM) | 223230216 | 048c57d05cb447e3d2582a3259a0cc9bedb261238baa484ba7ee3fa435a0c1d8 | 

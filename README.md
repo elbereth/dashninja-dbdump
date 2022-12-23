@@ -12,6 +12,7 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 ## Automatic Dump Files
 | Date | Links | Size | SHA256 |
 |--|--|--|--|
+| Fri 23 Dec 2022 07:00:02 AM UTC | [Direct](https://oshi.at/JTgn) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/JTgn) | 224606560 | 373c94ab659b25a369ddc8c0efecba2c2ba7898daf8a836f5e0410848ea9dd32 | 
 | Thu 22 Dec 2022 07:00:01 AM UTC | [Direct](https://oshi.at/WBnH) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/WBnH) | 224578452 | 8ae2fdaa12bfd447c17c98d1ddf05eca2d4f872eb9f60c08702b9540979d46f9 | 
 | Wed 21 Dec 2022 07:00:01 AM UTC | [Direct](https://oshi.at/yvtm) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/yvtm) | 224545564 | ad6484faab962b282874bf0a93e9654ba748358362c8f0b5984d444ff25c3f20 | 
 | Tue 20 Dec 2022 07:00:01 AM UTC | [Direct](https://oshi.at/Tmvu) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/Tmvu) | 224608476 | 1d8e44ec61f33b2121b0eaf093f5fffa54a599df120e1d181addeb163c390512 | 
@@ -25,4 +26,3 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 | Mon 12 Dec 2022 07:00:01 AM UTC | [Direct](https://oshi.at/HXpw) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/HXpw) | 224242312 | 553a9d54935b364e6a8aff19ae35331e8cfa074815c8d4e9aac0f31cd8525c39 | 
 | Sun 11 Dec 2022 07:00:00 AM UTC | [Direct](https://oshi.at/bMDj) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/bMDj) | 224452068 | 192bd83dc00a85a1611c5a175d7833d9c489da1dfc47bbb154cd90f1e640911c | 
 | Sat 10 Dec 2022 07:00:01 AM UTC | [Direct](https://oshi.at/KjFM) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/KjFM) | 224013984 | 92be023291dc899db4a11f81d5f1da8f1c9bb282b78f15ed4c8a62b83e4631a8 | 
-| Fri 09 Dec 2022 07:00:01 AM UTC | [Direct](https://oshi.at/zCTP) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/zCTP) | 223927464 | 1126e72a2dc9676de2f6b67853ca6f1e5a96344e7671f6e02dbd8706774039b3 | 

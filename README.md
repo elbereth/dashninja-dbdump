@@ -12,6 +12,7 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 ## Automatic Dump Files
 | Date | Links | Size | SHA256 |
 |--|--|--|--|
+| Thu 29 Dec 2022 07:00:00 AM UTC | [Direct](</body></html>) [Onion](</body></html>) | 225204236 | aa37ded9d34331bc432b1bdd64c2d6421b006f44165e2886b86a54c2fb9639c2 | 
 | Wed 28 Dec 2022 07:00:01 AM UTC | [Direct]() [Onion]() | 225225368 | 92c590f7b26268e041a523b1dce1be39ffb7fe514827734c4740975d58ce0763 | 
 | Tue 27 Dec 2022 07:00:01 AM UTC | [Direct]() [Onion]() | 225084228 | c8da48af4d90fa4ef6da8cea7735f1d3141026445cce545b98786fe6f80c18ad | 
 | Mon 26 Dec 2022 07:00:01 AM UTC | [Direct]() [Onion]() | 225001748 | ae74d556572f28629dfce1d656d903f5113f2fcdd34e3339160fdbd77ea5852a | 
@@ -25,4 +26,3 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 | Sun 18 Dec 2022 07:00:01 AM UTC | [Direct](https://oshi.at/FjQc) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/FjQc) | 224238824 | cf8907864d0d75e1edc2c1f504a9bd343cbb9a5a1ec3f48980a963a7c47692d6 | 
 | Sat 17 Dec 2022 07:00:02 AM UTC | [Direct](https://oshi.at/qaZK) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/qaZK) | 224662952 | c46d8c7c9c77c4f435e8a33d5cd03a8f7cdf414e9779df7d0d2a8090768b6cbd | 
 | Fri 16 Dec 2022 07:00:00 AM UTC | [Direct](https://oshi.at/KTnt) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/KTnt) | 224559384 | 9d1221b13e3c1e97a4732f254b2502ecf0005393c5e3e752fffd611052ed4925 | 
-| Thu 15 Dec 2022 07:00:01 AM UTC | [Direct](https://oshi.at/TUVx) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/TUVx) | 224193656 | 61f9a2bdf6f8dae210ec7a15ee3d6568d878dbefeb02086f62c1923c1bcc457d | 

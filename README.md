@@ -12,6 +12,7 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 ## Automatic Dump Files
 | Date | Links | Size | SHA256 |
 |--|--|--|--|
+| Fri 20 Jan 2023 07:00:01 AM UTC | [Direct](https://oshi.at/qgXF) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/qgXF) | 226094996 | 4a94ab1b745a5b2c54a282c1c4315b53d326275032795acd398f611f4eb50720 | 
 | Thu 19 Jan 2023 07:00:01 AM UTC | [Direct](https://oshi.at/rAvk) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/rAvk) | 226159244 | 9b95694b7b900b245f90ede3c516072c401eb6df42d7af39fc6304906d6bb096 | 
 | Wed 18 Jan 2023 07:00:01 AM UTC | [Direct](https://oshi.at/DtvF) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/DtvF) | 226245020 | 2636993404cf0761afc509781f6bef0fc968485befdb199eb0fd9fea600fc86a | 
 | Tue 17 Jan 2023 07:00:01 AM UTC | [Direct](https://oshi.at/hJxe) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/hJxe) | 225901060 | 4c1bd40e781e10d33508058a4f1babf5f6b44715608ba806b1b73f20732a72b8 | 
@@ -25,4 +26,3 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 | Mon 09 Jan 2023 07:00:00 AM UTC | [Direct](https://oshi.at/BxKE) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/BxKE) | 225583612 | fc278408e4f9076925fb2dfba135f344640cf58e69b0ab47d7edc131835174b6 | 
 | Sun 08 Jan 2023 07:00:01 AM UTC | [Direct](https://oshi.at/qctU) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/qctU) | 225865952 | e0a3950c09c7e1140c6635e60b1e9186d718825b93b5e360a893ddbe07abd92f | 
 | Sat 07 Jan 2023 07:00:00 AM UTC | [Direct](https://oshi.at/hjuF) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/hjuF) | 225657864 | cb43008e773e6e5053341a81a89091f7738b5ba2b0f0ed7056230d5f7535e7dc | 
-| Fri 06 Jan 2023 07:00:02 AM UTC | [Direct](https://oshi.at/hZRS) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/hZRS) | 225597296 | 5ac164fe0e753a9ef2fd20d70e6cb649b0bb56c1585bb2bf015825114c725c02 | 

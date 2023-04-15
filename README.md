@@ -12,6 +12,7 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 ## Automatic Dump Files
 | Date | Links | Size | SHA256 |
 |--|--|--|--|
+| Sat 15 Apr 2023 07:00:01 AM UTC | [Direct](</body></html>) [Onion](</body></html>) | 231061224 | d18309db9ad196f2864ede3bc094d800e8118002b2947c69d592255eb71b75dc | 
 | Fri 14 Apr 2023 07:00:01 AM UTC | [Direct](</body></html>) [Onion](</body></html>) | 231177424 | bd4e4246d72601784ff18d15dd90d4461cb0b84f649b15ac62f5683f11792b89 | 
 | Thu 13 Apr 2023 07:00:01 AM UTC | [Direct]() [Onion]() | 231157248 | 62dad17335f3e24ffd66ae481a2601d5e214a556f1a6700cd38a36927acaa0ae | 
 | Wed 12 Apr 2023 07:00:01 AM UTC | [Direct]() [Onion]() | 231087360 | 53e67995cbe27839439a3aea5ea075e64ae323f2b99c49138cd9ab7287016c26 | 
@@ -25,4 +26,3 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 | Tue 04 Apr 2023 07:00:01 AM UTC | [Direct](</body></html>) [Onion](</body></html>) | 230816740 | faf930d1c3d638c383c564eb2226d9bcdc916fbd72bf4c5c6f8c10d8f3106ae3 | 
 | Mon 03 Apr 2023 07:00:01 AM UTC | [Direct](https://oshi.at/LqWU) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/LqWU) | 230563372 | 86c2abad09ebea4191919af57eed934432b88ad77d95dbe1aa545b52b55bc3e7 | 
 | Sun 02 Apr 2023 07:00:01 AM UTC | [Direct](<html>) [Onion]() | 230472724 | 08bbbd21225bd699a07f1ae76f6e5a7a6d5b998724895e4fa0bf91fcdf232027 | 
-| Sat 01 Apr 2023 07:00:01 AM UTC | [Direct](https://oshi.at/zdKp) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/zdKp) | 230384496 | 305bd3c971bf36c547ef3ea5d169a7e2dfcde72fade040598c3a26def97ba41c | 

@@ -12,6 +12,7 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 ## Automatic Dump Files
 | Date | Links | Size | SHA256 |
 |--|--|--|--|
+| Fri 19 May 2023 07:00:01 AM UTC | [Direct](https://oshi.at/aSNV) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/aSNV) | 233044600 | c5f83ecc44dade847ec1b2fde6d497b21a169348f18cf7010cbe329053e4f5ec | 
 | Thu 18 May 2023 07:00:01 AM UTC | [Direct](https://oshi.at/Rocz) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/Rocz) | 232923852 | 7d6af82cd6c5885757cb8a0751cb0078a123b437a5422e35820e2d9e1e2a7d2e | 
 | Wed 17 May 2023 07:00:01 AM UTC | [Direct](https://oshi.at/fWgd) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/fWgd) | 232877776 | b8901aef08a034d2cd09cf3871a8d8299de154e8fdd33935693a33da3aa52c2c | 
 | Tue 16 May 2023 07:00:01 AM UTC | [Direct](https://oshi.at/LPLT) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/LPLT) | 233353340 | 78602a14c96f3d49f9e85a6b101a29e9f46a87e2961053e7e4c0205d03b1dc5f | 
@@ -25,4 +26,3 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 | Mon 08 May 2023 07:00:01 AM UTC | [Direct](https://oshi.at/cWAi) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/cWAi) | 232547672 | 83ec8d50b118f69252b4b44f57112df50377e4a60ba8e540df7d835c9dfe0d56 | 
 | Sun 07 May 2023 07:00:01 AM UTC | [Direct](<html>) [Onion]() | 232409684 | 124e07eb36da7a3bc40802e9d4795eedadff4784cb6eb40c4b520e42f17ed19b | 
 | Sat 06 May 2023 07:00:01 AM UTC | [Direct](https://oshi.at/jWSk) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/jWSk) | 232368592 | 1ac44ccbc58f37e936d87e1e1d363a6bdb6950d094e4657a62325c4fb603dec7 | 
-| Fri 05 May 2023 07:00:01 AM UTC | [Direct](https://oshi.at/fHhh) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/fHhh) | 232321904 | 66836554a779be8eb45373d58edb1d3896a9751686c7053413105176a6adaf4f | 

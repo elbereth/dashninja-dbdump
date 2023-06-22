@@ -12,6 +12,7 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 ## Automatic Dump Files
 | Date | Links | Size | SHA256 |
 |--|--|--|--|
+| Thu 22 Jun 2023 07:00:01 AM UTC | [Direct](https://oshi.at/GaPh) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/GaPh) | 234783536 | 3ad754247ffb136d9056e5ac2f7ed93907e3607f69021ffa614b420628093ded | 
 | Wed 21 Jun 2023 07:00:01 AM UTC | [Direct](https://oshi.at/aSco) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/aSco) | 234810784 | 95333aff813cd76e1e872d8488cc844aec73970b21f7109c290ce45f820f3a3e | 
 | Tue 20 Jun 2023 07:00:01 AM UTC | [Direct](https://oshi.at/HMDX) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/HMDX) | 234643244 | dd4c5758590dfb3e53169e69eb44156f2d862be13f63f1aac66496ec847bc05b | 
 | Mon 19 Jun 2023 07:00:01 AM UTC | [Direct](https://oshi.at/qhnz) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/qhnz) | 234588396 | 5b5c8e037d1e77608296eb782fdb8acf3daec50bbaf7dd3eba94d5256dce6ac1 | 
@@ -25,4 +26,3 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 | Sun 11 Jun 2023 07:00:01 AM UTC | [Direct](https://oshi.at/Wpmq) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/Wpmq) | 234095744 | a5bb5eb120f93ae384b4901bffa7558a949127b054defe3581a31a9db8446331 | 
 | Sat 10 Jun 2023 07:00:01 AM UTC | [Direct](https://oshi.at/mfff) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/mfff) | 234156104 | 1e9729522be423f2fe413e62ecd4570331c08f4d3b696da378a380ab16f069f1 | 
 | Fri 09 Jun 2023 07:00:01 AM UTC | [Direct](https://oshi.at/uukm) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/uukm) | 234286944 | 249dd119275a5e2b537fa5c5bec3f6dec2a57f905d3a22d857fa2935d8637221 | 
-| Thu 08 Jun 2023 07:00:01 AM UTC | [Direct](https://oshi.at/HUdn) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/HUdn) | 234075436 | b34916d7ba328c9017cea4c4fcaa534ebd99481165b062c9d93cea4fffcc0d15 | 

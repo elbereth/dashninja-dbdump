@@ -12,6 +12,7 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 ## Automatic Dump Files
 | Date | Links | Size | SHA256 |
 |--|--|--|--|
+| Sat 08 Jul 2023 07:00:01 AM UTC | [Direct](https://oshi.at/ntCK) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/ntCK) | 235712824 | 91511eb89d64a88a7d6e9099f98af3679ffdb83bd4abc66181b33b318fb18ad1 | 
 | Fri 07 Jul 2023 07:00:01 AM UTC | [Direct](https://oshi.at/iybQ) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/iybQ) | 235930224 | 332839d00fd2ee11605918c19232f8312f1fe58eea4cf713ef61689dc16462f2 | 
 | Thu 06 Jul 2023 07:00:01 AM UTC | [Direct](https://oshi.at/rsmb) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/rsmb) | 235579620 | 4c1e5ee8cbf699d47fdcf46dad6e2b12a6a06b7238ab08c5d3350f0bbafe566c | 
 | Wed 05 Jul 2023 07:00:01 AM UTC | [Direct](https://oshi.at/wbNb) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/wbNb) | 235516232 | 5c37f237e14c07b6a801417367a2a2411337009415b2119876d83023a5998da4 | 
@@ -25,4 +26,3 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 | Tue 27 Jun 2023 07:00:01 AM UTC | [Direct](https://oshi.at/WPfs) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/WPfs) | 235284104 | 4504544efb8436f7a27d53ee7a449a6b28ed1b92aa2222620d90baa19640dc93 | 
 | Mon 26 Jun 2023 07:00:01 AM UTC | [Direct](https://oshi.at/sdQF) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/sdQF) | 235144820 | 072fdcfc87789ac363ce0fdf8a7683a845fb3db56e371e2f7d60f03f8d2b90ee | 
 | Sun 25 Jun 2023 07:00:01 AM UTC | [Direct](https://oshi.at/jJsv) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/jJsv) | 235137156 | eb38564ad4b73e28d788e13f3f85693fc144048419565544f9b52297282790d1 | 
-| Sat 24 Jun 2023 07:00:01 AM UTC | [Direct](https://oshi.at/FKrJ) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/FKrJ) | 234999368 | 5aea7fcf5ee988111ee861572f78d93c93ec556501f232c0813201215647d35a | 

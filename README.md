@@ -12,6 +12,7 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 ## Automatic Dump Files
 | Date | Links | Size | SHA256 |
 |--|--|--|--|
+| Tue 11 Jul 2023 07:00:01 AM UTC | [Direct](https://oshi.at/dAvh) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/dAvh) | 235850588 | 90d3121370a60634fac9e552d535295b7747ca2d492baa62cac3c5399a1d8acd | 
 | Mon 10 Jul 2023 07:00:01 AM UTC | [Direct](https://oshi.at/QPUq) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/QPUq) | 236018528 | ffe9973e183f66e1f9c9c2902eb2b4e7bc4f9556cd19b23e7908a69c1fbcce8e | 
 | Sun 09 Jul 2023 07:00:01 AM UTC | [Direct](https://oshi.at/NeLt) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/NeLt) | 235744760 | 90c1d75615e0a69f33af4c31cb3e17c13bb82a9f62ac9a5b402e4dc848c6433f | 
 | Sat 08 Jul 2023 07:00:01 AM UTC | [Direct](https://oshi.at/ntCK) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/ntCK) | 235712824 | 91511eb89d64a88a7d6e9099f98af3679ffdb83bd4abc66181b33b318fb18ad1 | 
@@ -25,4 +26,3 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 | Fri 30 Jun 2023 07:00:01 AM UTC | [Direct](https://oshi.at/ErpB) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/ErpB) | 235756428 | 43c8f676b5d5b2856c791791fc933233882c5e533b033a9e60bcf454dc4c65a3 | 
 | Thu 29 Jun 2023 07:00:01 AM UTC | [Direct](https://oshi.at/dKvj) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/dKvj) | 235217876 | 42d7453025a43242c604f8900f065432f08fd9186f325c032c940b4c418c33f0 | 
 | Wed 28 Jun 2023 07:00:01 AM UTC | [Direct](https://oshi.at/TAcJ) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/TAcJ) | 235283528 | ef6519de87408149412160fe15bf70b069434af1870c04d7be881d5e86759b2a | 
-| Tue 27 Jun 2023 07:00:01 AM UTC | [Direct](https://oshi.at/WPfs) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/WPfs) | 235284104 | 4504544efb8436f7a27d53ee7a449a6b28ed1b92aa2222620d90baa19640dc93 | 

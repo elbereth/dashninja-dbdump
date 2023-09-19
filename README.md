@@ -12,6 +12,7 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 ## Automatic Dump Files
 | Date | Links | Size | SHA256 |
 |--|--|--|--|
+| Tue 19 Sep 2023 07:00:01 AM UTC | [Direct](https://oshi.at/USdK) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/USdK) | 239912164 | 5fb7774169cdf0560c762a4402ccb9940599ff2632162ced244128184e80cab7 | 
 | Mon 18 Sep 2023 07:00:01 AM UTC | [Direct](https://oshi.at/soRg) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/soRg) | 239652568 | 6f9b586a95a551a46cedfe9358b9a31c453585ad57069d68fae273171173f33f | 
 | Sun 17 Sep 2023 07:00:01 AM UTC | [Direct](https://oshi.at/jnvR) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/jnvR) | 239545076 | 0948b3666865a20b4f440a36b894e4672acc0893c6424c7a2b6bc695bdb29403 | 
 | Sat 16 Sep 2023 07:00:01 AM UTC | [Direct](https://oshi.at/nAjV) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/nAjV) | 239589744 | f08074342be6437d479d6e92a5afdf752ec89934fb9025d060b8b2f2bd54023d | 
@@ -25,4 +26,3 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 | Fri 08 Sep 2023 07:00:01 AM UTC | [Direct](https://oshi.at/mqva) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/mqva) | 239490512 | 57597f455159a0ff44141e668a9a986649b59a84188fd41b19c452e919bb5c68 | 
 | Thu 07 Sep 2023 07:00:01 AM UTC | [Direct](https://oshi.at/kyEHG) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/kyEHG) | 238996524 | 283df732b2babfceca5c930f12f1f3a5cceb7bda51abfad2383a60468b1728f9 | 
 | Wed 06 Sep 2023 07:00:01 AM UTC | [Direct](https://oshi.at/jkrH) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/jkrH) | 239062744 | 060740690e00c8712cb85c8d7ef8073289811a75df5108256df847f85484a103 | 
-| Tue 05 Sep 2023 07:00:01 AM UTC | [Direct](https://oshi.at/LYCC) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/LYCC) | 238912184 | f919c2f5eaf3a725cbabab02b2be0c4296dce1f62f43ac9f3c2f79adf1f39060 | 

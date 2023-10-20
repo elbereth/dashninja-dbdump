@@ -12,6 +12,7 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 ## Automatic Dump Files
 | Date | Links | Size | SHA256 |
 |--|--|--|--|
+| Fri 20 Oct 2023 07:00:01 AM UTC | [Direct](</body></html>) [Onion](</body></html>) | 241469812 | 439c020ee9938e5b4fa031c5f703fe97e3bd800fa142d44b54ed353f367f0d3a | 
 | Thu 19 Oct 2023 07:00:01 AM UTC | [Direct](<body) [Onion](<hr><center>nginx</center>) | 241467904 | ff9a8ae1fdc617e1f8a52320e651877102809ba8d0d57dbe7a5e044ead5d9604 | 
 | Wed 18 Oct 2023 07:00:01 AM UTC | [Direct](https://oshi.at/qeHy) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/qeHy) | 241187628 | 0c6aaf9a58dbb5e55e93e246b3eed4c2b33bb5e90dc30c99f83ce5faf96a94ce | 
 | Tue 17 Oct 2023 07:00:01 AM UTC | [Direct](https://oshi.at/kMCn) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/kMCn) | 241147648 | c5c8b3ef1d75c90b00463b0f79143bff50524d783aead535e10a24aecb711a0f | 
@@ -25,4 +26,3 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 | Mon 09 Oct 2023 07:00:01 AM UTC | [Direct](https://oshi.at/Uoiv) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/Uoiv) | 240658352 | d46c3a80aab25dfa289ce5b44ea4dc792bd46462a69c3732aec82fa3139c6cf5 | 
 | Sun 08 Oct 2023 07:00:01 AM UTC | [Direct](https://oshi.at/Ybhea) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/Ybhea) | 241103900 | 487efe0bf6f277cebe7c5d2da942a95585e39f610e5cc32f16e331394cd7d5a6 | 
 | Sat 07 Oct 2023 07:00:01 AM UTC | [Direct](https://oshi.at/SWWa) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/SWWa) | 240599580 | 4461f16b82c7b8b4e299899728ba65dd72211445f03bd7933094cf425588c479 | 
-| Fri 06 Oct 2023 07:00:01 AM UTC | [Direct](https://oshi.at/EaHw) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/EaHw) | 240595052 | 260be4a8f97bb8230ee3d79dc739b1930788037e9384141f2f46c0289de4f7a5 | 

@@ -12,6 +12,7 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 ## Automatic Dump Files
 | Date | Links | Size | SHA256 |
 |--|--|--|--|
+| Fri 17 Nov 2023 07:00:01 AM UTC | [Direct](https://oshi.at/HwXK) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/HwXK) | 242596280 | 3c1552ee36aa5ee2050e531dd2eb450e7133215b4011c469f076e6f90cc73445 | 
 | Thu 16 Nov 2023 07:00:01 AM UTC | [Direct](<body) [Onion](<hr><center>nginx</center>) | 242553920 | c91cb611e9397b7bbcf8d69bdd8c42ec71c2a34218d9931689075ee4b774184c | 
 | Wed 15 Nov 2023 07:00:01 AM UTC | [Direct](https://oshi.at/WPma) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/WPma) | 242838692 | 09b71dfcfaf48bfa0b84e92256f61ac8a1fa12020ad99961c6dec6f8f638baa2 | 
 | Tue 14 Nov 2023 07:00:01 AM UTC | [Direct](</body></html>) [Onion](</body></html>) | 242490160 | 3a998646a64bf3dae3c1abeb54c9e13bf238f0be0bd5377098d09b6bae70c3ad | 
@@ -25,4 +26,3 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 | Mon 06 Nov 2023 07:00:01 AM UTC | [Direct](https://oshi.at/yror) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/yror) | 242300960 | 6c251397e936c80640a5c19a678ea25406d3290c57adffdd3a2d4d30d883e5bf | 
 | Sun 05 Nov 2023 07:00:01 AM UTC | [Direct](https://oshi.at/aqew) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/aqew) | 242106500 | 8d1d7816d79d0492a90967223f8ad638c0d666a886342c502c32c204551c8034 | 
 | Sat 04 Nov 2023 07:00:01 AM UTC | [Direct](https://oshi.at/qWow) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/qWow) | 242020004 | 762286ef22350a55af4a27239a2153784144048a577c49f9af79b0ae78fc23a0 | 
-| Fri 03 Nov 2023 07:00:01 AM UTC | [Direct](</body></html>) [Onion](</body></html>) | 242049856 | c4bb496d0f6c45b3c957bf71860bff882cbea77f4dbfaaebb420429603828dc9 | 

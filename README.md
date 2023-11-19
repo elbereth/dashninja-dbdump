@@ -12,6 +12,7 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 ## Automatic Dump Files
 | Date | Links | Size | SHA256 |
 |--|--|--|--|
+| Sun 19 Nov 2023 07:00:01 AM UTC | [Direct](https://oshi.at/iAiL) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/iAiL) | 242658776 | 4055d39050654063683ab50705b63cd86cfed023f28423eafeb2e599a5a9a77d | 
 | Sat 18 Nov 2023 07:00:01 AM UTC | [Direct](https://oshi.at/vBHq) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/vBHq) | 242745408 | f892eae86a0f5fefb6700d942aa603285415fed2c325023d06a8a5e2ce0d3b72 | 
 | Fri 17 Nov 2023 07:00:01 AM UTC | [Direct](https://oshi.at/HwXK) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/HwXK) | 242596280 | 3c1552ee36aa5ee2050e531dd2eb450e7133215b4011c469f076e6f90cc73445 | 
 | Thu 16 Nov 2023 07:00:01 AM UTC | [Direct](<body) [Onion](<hr><center>nginx</center>) | 242553920 | c91cb611e9397b7bbcf8d69bdd8c42ec71c2a34218d9931689075ee4b774184c | 
@@ -25,4 +26,3 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 | Wed 08 Nov 2023 07:00:01 AM UTC | [Direct](https://oshi.at/rigL) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/rigL) | 242102376 | 4b56745e7f3aa9767a5bd64c9a8ec723675777545ebb8a0772fea620e956912e | 
 | Tue 07 Nov 2023 07:00:01 AM UTC | [Direct](https://oshi.at/ftZx) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/ftZx) | 242265612 | e73786897c5b4ab35eb6c437b0386ff797390a35015ad585974acafd6c379cac | 
 | Mon 06 Nov 2023 07:00:01 AM UTC | [Direct](https://oshi.at/yror) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/yror) | 242300960 | 6c251397e936c80640a5c19a678ea25406d3290c57adffdd3a2d4d30d883e5bf | 
-| Sun 05 Nov 2023 07:00:01 AM UTC | [Direct](https://oshi.at/aqew) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/aqew) | 242106500 | 8d1d7816d79d0492a90967223f8ad638c0d666a886342c502c32c204551c8034 | 

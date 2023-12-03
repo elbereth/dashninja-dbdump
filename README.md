@@ -12,6 +12,7 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 ## Automatic Dump Files
 | Date | Links | Size | SHA256 |
 |--|--|--|--|
+| Sun 03 Dec 2023 07:00:01 AM UTC | [Direct](https://oshi.at/rymy) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/rymy) | 243761592 | 41e687dcc01db7f5b5e6499120ce6dc591b084f2c68c5b67c4d2939553c45bba | 
 | Sat 02 Dec 2023 07:00:01 AM UTC | [Direct](https://oshi.at/aeVT) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/aeVT) | 243637248 | 096f4eee1b06fcc0deb7541a5ead720e627894a005d899b75fe256553d7e48f2 | 
 | Fri 01 Dec 2023 07:00:01 AM UTC | [Direct](https://oshi.at/tVbVY) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/tVbVY) | 243599200 | eb25ceb12e183ee3f78ee0b4a70c53970d180cd950433301d020be8f8ca35083 | 
 | Thu 30 Nov 2023 07:00:01 AM UTC | [Direct](<body) [Onion](<hr><center>nginx</center>) | 243504888 | d1a3f2b15e0778f64d92b2fda9917719a06737f893ee66d8d99c7725a45960a5 | 
@@ -25,4 +26,3 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 | Wed 22 Nov 2023 07:00:01 AM UTC | [Direct](https://oshi.at/iDgr) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/iDgr) | 242918144 | e09eb5ca78d1d795d66c29fbf8432f0826371fc119c2f4fb207a2d4016c8af62 | 
 | Tue 21 Nov 2023 07:00:01 AM UTC | [Direct](https://oshi.at/DSKg) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/DSKg) | 242723628 | a73eabe615f7e5806ac3ff081914b7d6faca290fb127d07cd7e6c1a2ee5887be | 
 | Mon 20 Nov 2023 07:00:01 AM UTC | [Direct](https://oshi.at/FnnM) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/FnnM) | 242776872 | 61b5fbcc5f416e7368c0a30eec057fa6961f5c055512e02d1c682788924180db | 
-| Sun 19 Nov 2023 07:00:01 AM UTC | [Direct](https://oshi.at/iAiL) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/iAiL) | 242658776 | 4055d39050654063683ab50705b63cd86cfed023f28423eafeb2e599a5a9a77d | 

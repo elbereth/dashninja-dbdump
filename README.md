@@ -12,6 +12,7 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 ## Automatic Dump Files
 | Date | Links | Size | SHA256 |
 |--|--|--|--|
+| Thu 21 Dec 2023 07:00:01 AM UTC | [Direct](https://oshi.at/MUmy) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/MUmy) | 244505584 | 99c0b077b627af4fdafb290c735f436d33b551398a8771b5248266c60efff895 | 
 | Wed 20 Dec 2023 07:00:01 AM UTC | [Direct](https://oshi.at/dtWF) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/dtWF) | 245166080 | 7c4d4c0c7fdba860f3558bf0642af99a406b3655799d64418df78597a1299abe | 
 | Tue 19 Dec 2023 07:00:01 AM UTC | [Direct](https://oshi.at/SGALV) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/SGALV) | 244840428 | f3eeea5c47973c0a05a9d4bfe136a8902051bb7078513aa89fd53d68e6f81de5 | 
 | Mon 18 Dec 2023 07:00:01 AM UTC | [Direct](https://oshi.at/TXeg) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/TXeg) | 244381716 | 4598657123c549583502186b8517f6ab686817f5e8367b8ff509f09f07a3217d | 
@@ -25,4 +26,3 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 | Sun 10 Dec 2023 07:00:01 AM UTC | [Direct](https://oshi.at/xWwXJ) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/xWwXJ) | 244098412 | 1a16f83b55c50a8326414dd9dc075552b7e7890f7d5a17d8caf5543f54759d72 | 
 | Sat 09 Dec 2023 07:00:01 AM UTC | [Direct](https://oshi.at/gGZt) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/gGZt) | 244135084 | 3beb6f2d5ca0dae1f2dad91cd6a7c8e2631249c00aac45924ffe3bdbcb1ed414 | 
 | Fri 08 Dec 2023 07:00:01 AM UTC | [Direct](https://oshi.at/cuHhg) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/cuHhg) | 244022596 | f59a64280dd84fa984c91b4299e3d92e8909fa2b5c1ecbd9f25ad4acc6bf093d | 
-| Thu 07 Dec 2023 07:00:01 AM UTC | [Direct](https://oshi.at/zDWi) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/zDWi) | 243901400 | d9fd060d2ed5aa58963fc10878219d849f2d3dd7fa3aff2589f0bc166b636605 | 

@@ -12,6 +12,7 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 ## Automatic Dump Files
 | Date | Links | Size | SHA256 |
 |--|--|--|--|
+| Fri 02 Feb 2024 07:00:01 AM UTC | [Direct](<html>) [Onion]() | 247255400 | 17f5f912ce91aa63ed69d75ac3aa395953096ab8f44740680e026022e11bd154 | 
 | Thu 01 Feb 2024 07:00:01 AM UTC | [Direct](https://oshi.at/BHVY) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/BHVY) | 247239132 | b2eb77de86827cbd4c2df13613691823a8d5eab7e1184e2731063b9610e0d4e0 | 
 | Wed 31 Jan 2024 07:00:01 AM UTC | [Direct](<html>) [Onion]() | 247173856 | d1885a17cc0398e11447d97fc288e1ca8cdcc95cb3776e0c998e81c030db9847 | 
 | Tue 30 Jan 2024 07:00:01 AM UTC | [Direct](https://oshi.at/aeYdU) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/aeYdU) | 247134980 | c5df5e0c314e0857816a93d7263ed842515ac17ed81209c4789670a88c4f13a8 | 
@@ -25,4 +26,3 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 | Mon 22 Jan 2024 07:00:01 AM UTC | [Direct](https://oshi.at/BrpN) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/BrpN) | 246647952 | 7af2f2d742131a6b8609cd4c729131bc75872aa5d469f7ba9fbf4ffd6569ea4b | 
 | Sun 21 Jan 2024 07:00:01 AM UTC | [Direct]() [Onion]() | 246235228 | b990ae44fb20f7a1c0ee0b311c5460dede5db75573f649709af7a9e20267e75a | 
 | Sat 20 Jan 2024 07:00:01 AM UTC | [Direct]() [Onion]() | 246376664 | e457b04dfb3c1e84753b7604e25158b582b94ed79f8fa508932dfe48380c0ef2 | 
-| Fri 19 Jan 2024 07:00:01 AM UTC | [Direct]() [Onion]() | 246310780 | c729e6bb5cf59fa5f381f48499951d297dd049c7b664ddd88e3c330242db43b6 | 

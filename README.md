@@ -12,6 +12,7 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 ## Automatic Dump Files
 | Date | Links | Size | SHA256 |
 |--|--|--|--|
+| Fri 09 Feb 2024 07:00:01 AM UTC | [Direct](https://oshi.at/BGxy) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/BGxy) | 247660064 | 89a4c67087d66c889f8f94ba6e9b1cb4b9b1cfbe577d007ff8916e4579c3f3a6 | 
 | Thu 08 Feb 2024 07:00:01 AM UTC | [Direct](https://oshi.at/gMAx) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/gMAx) | 247613404 | fe77f952d4ddec21476a707614f658d947c7294accb9cbc7ea8fd41322d7df22 | 
 | Wed 07 Feb 2024 07:00:01 AM UTC | [Direct](https://oshi.at/pGBU) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/pGBU) | 247765176 | 9e3544b62543619bc2db9265be17f2fbc0e5b5818f2c52890d147954f9d44c57 | 
 | Tue 06 Feb 2024 07:00:02 AM UTC | [Direct](<html>) [Onion]() | 247537116 | e77c748af4a485881c557c0c0729aa7846ea2e3245798b6938dc47c36b7de0a7 | 
@@ -25,4 +26,3 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 | Mon 29 Jan 2024 07:00:01 AM UTC | [Direct](https://oshi.at/LGTA) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/LGTA) | 247241912 | f7f5bc0b2a0b64b9f4f8a76c35ca8fe60057251fe27518fc33563f7e4c3d9f58 | 
 | Sun 28 Jan 2024 07:00:01 AM UTC | [Direct](https://oshi.at/JfVo) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/JfVo) | 247109680 | dfb49754e7acfbe7647de614b52d903d128f335283c668e3010f33a81806bf8a | 
 | Sat 27 Jan 2024 07:00:01 AM UTC | [Direct](https://oshi.at/vXKP) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/vXKP) | 246991008 | 1585ec0dcf0be2c5c43f4ed093312caff620dd76318195298029572e5075041a | 
-| Fri 26 Jan 2024 07:00:01 AM UTC | [Direct](https://oshi.at/oPic) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/oPic) | 247017476 | 2ad1d93751b8cdc09debf04e8e8344cc13521a456a2fcc587969094ae09ee844 | 

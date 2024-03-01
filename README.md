@@ -12,6 +12,7 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 ## Automatic Dump Files
 | Date | Links | Size | SHA256 |
 |--|--|--|--|
+| Fri 01 Mar 2024 07:00:01 AM UTC | [Direct](https://oshi.at/JoHB) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/JoHB) | 248649600 | 363aaea9f8d3c0968d66bcbb65396ab557970b191997de9dbf1de111ebeab45c | 
 | Thu 29 Feb 2024 07:00:01 AM UTC | [Direct](https://oshi.at/fjnr) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/fjnr) | 248591616 | dd1ac075c34e167e701ecd60d6894e05f3203d95ec58b927a34f16ecc2335731 | 
 | Wed 28 Feb 2024 07:00:01 AM UTC | [Direct](https://oshi.at/HUsV) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/HUsV) | 248452988 | e1951b8e8de57ee76b8b802af4771d51cb7be8ef9f6bbbba622f15ef2b2f3de0 | 
 | Tue 27 Feb 2024 07:00:01 AM UTC | [Direct](https://oshi.at/iJCE) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/iJCE) | 248808592 | 0eba6c72b4263c95e499cea1ce9d581abace2c122bcc194adb35ba7b8376b198 | 
@@ -25,4 +26,3 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 | Mon 19 Feb 2024 07:00:01 AM UTC | [Direct](https://oshi.at/Guiry) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/Guiry) | 247988828 | c14079b0f0f7d5a94de1663eaae73f77a69471513be10547365f9e3e42bb9e5a | 
 | Sun 18 Feb 2024 07:00:01 AM UTC | [Direct](https://oshi.at/fyDp) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/fyDp) | 248001568 | 2f89b011c165b71c00278508bcb2d4797b907cd08d80006e8db46609f18a89ac | 
 | Sat 17 Feb 2024 07:00:01 AM UTC | [Direct](https://oshi.at/bKvW) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/bKvW) | 248261840 | 85948a71c8ffca368c5da32dc9f5afcf86157b61282d516fd391a3123bb35035 | 
-| Fri 16 Feb 2024 07:00:01 AM UTC | [Direct](https://oshi.at/hahQL) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/hahQL) | 247942200 | cf006b20838fee020262a9673e8b8f264e4f260eefefbc5845846d64c326ca3e | 

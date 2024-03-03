@@ -12,6 +12,7 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 ## Automatic Dump Files
 | Date | Links | Size | SHA256 |
 |--|--|--|--|
+| Sun 03 Mar 2024 07:00:01 AM UTC | [Direct](https://oshi.at/oASS) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/oASS) | 248888896 | 9b18456614cddb581b34c0803eca562bb92d22066187b7046ae372b265ff95cd | 
 | Sat 02 Mar 2024 07:00:01 AM UTC | [Direct](https://oshi.at/oNKF) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/oNKF) | 248844352 | 9ad8693af605ca07ed09fbcda17e5c510391d332ff1acfc7d04d4da0e1c2a14e | 
 | Fri 01 Mar 2024 07:00:01 AM UTC | [Direct](https://oshi.at/JoHB) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/JoHB) | 248649600 | 363aaea9f8d3c0968d66bcbb65396ab557970b191997de9dbf1de111ebeab45c | 
 | Thu 29 Feb 2024 07:00:01 AM UTC | [Direct](https://oshi.at/fjnr) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/fjnr) | 248591616 | dd1ac075c34e167e701ecd60d6894e05f3203d95ec58b927a34f16ecc2335731 | 
@@ -25,4 +26,3 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 | Wed 21 Feb 2024 07:00:01 AM UTC | [Direct](https://oshi.at/SFtw) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/SFtw) | 248260904 | 0efaba8a35a892fc5aff4bdcb7b058b439dbb159c2e571bd54e7d40a9eabc80b | 
 | Tue 20 Feb 2024 07:00:01 AM UTC | [Direct](https://oshi.at/hrmb) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/hrmb) | 248066420 | 656cd17594b2c0d4acc3e0d1714b7a91d5d265cc124ee545847fb33d601666e4 | 
 | Mon 19 Feb 2024 07:00:01 AM UTC | [Direct](https://oshi.at/Guiry) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/Guiry) | 247988828 | c14079b0f0f7d5a94de1663eaae73f77a69471513be10547365f9e3e42bb9e5a | 
-| Sun 18 Feb 2024 07:00:01 AM UTC | [Direct](https://oshi.at/fyDp) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/fyDp) | 248001568 | 2f89b011c165b71c00278508bcb2d4797b907cd08d80006e8db46609f18a89ac | 

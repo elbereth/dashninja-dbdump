@@ -12,6 +12,7 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 ## Automatic Dump Files
 | Date | Links | Size | SHA256 |
 |--|--|--|--|
+| Wed 06 Mar 2024 07:00:02 AM UTC | [Direct](https://oshi.at/CqNZ) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/CqNZ) | 248897412 | 37bb9abcd8c22f8fffcf3cd8e1dcfecdbefa4e6ee13716669f9852e6960eb602 | 
 | Tue 05 Mar 2024 07:00:01 AM UTC | [Direct](https://oshi.at/QCQN) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/QCQN) | 248958556 | 2d6eb16840961bb7118293201947489f6ac6b1ea9fb79f5e2864b929ac707dc7 | 
 | Mon 04 Mar 2024 07:00:01 AM UTC | [Direct](https://oshi.at/WpyQ) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/WpyQ) | 248887652 | 1c5f93bf1676494191f0f42bdd31630340ff3731d91aca837df61b016c5bc74b | 
 | Sun 03 Mar 2024 07:00:01 AM UTC | [Direct](https://oshi.at/oASS) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/oASS) | 248888896 | 9b18456614cddb581b34c0803eca562bb92d22066187b7046ae372b265ff95cd | 
@@ -25,4 +26,3 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 | Sat 24 Feb 2024 07:00:01 AM UTC | [Direct](https://oshi.at/Wafv) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/Wafv) | 248484764 | a68d5c64c37d377b839321e3ffb2bdf0b675aea8c6a03c4db13fb2b820a1b9a9 | 
 | Fri 23 Feb 2024 07:00:01 AM UTC | [Direct](https://oshi.at/LDrb) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/LDrb) | 248397476 | 53cfd65935288023f02260524a5bd2cb4953506961282aed60eb32afee22c44e | 
 | Thu 22 Feb 2024 07:00:01 AM UTC | [Direct](https://oshi.at/xEFD) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/xEFD) | 248365924 | 2607258dcb68c8947af192bb9d890c1d06c840a0f0b2130ace65765ccfb40a1e | 
-| Wed 21 Feb 2024 07:00:01 AM UTC | [Direct](https://oshi.at/SFtw) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/SFtw) | 248260904 | 0efaba8a35a892fc5aff4bdcb7b058b439dbb159c2e571bd54e7d40a9eabc80b | 

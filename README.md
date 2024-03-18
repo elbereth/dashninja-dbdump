@@ -12,6 +12,7 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 ## Automatic Dump Files
 | Date | Links | Size | SHA256 |
 |--|--|--|--|
+| Mon 18 Mar 2024 07:00:01 AM UTC | [Direct](https://oshi.at/Ydxw) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/Ydxw) | 249487732 | dadf48ffb98e4aa09c9568e3641a3c1b25f39ed6308074af0b27eb00182cbde5 | 
 | Sun 17 Mar 2024 07:00:01 AM UTC | [Direct](https://oshi.at/oSwH) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/oSwH) | 249439984 | 1421f5c065d4994180d558602b71909b33c6d1311e0399ecf83b2bc263f7f410 | 
 | Sat 16 Mar 2024 07:00:01 AM UTC | [Direct](https://oshi.at/Nctt) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/Nctt) | 249355356 | 69ac95d837b42924f4a54bedd1f7d240905d378bbb6ee8b5b647a3ef30b8bd64 | 
 | Fri 15 Mar 2024 07:00:01 AM UTC | [Direct](https://oshi.at/qnMK) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/qnMK) | 249419948 | cf15f6e92776fd2c5d49f4d7ee6e300472af34c094ead680d91d74015916ec3c | 
@@ -25,4 +26,3 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 | Thu 07 Mar 2024 07:00:01 AM UTC | [Direct](https://oshi.at/YmJh) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/YmJh) | 248906724 | 8f184001bd808b88bb70cdfd2475663bb5321afb21faec7952c939ad23507716 | 
 | Wed 06 Mar 2024 07:00:02 AM UTC | [Direct](https://oshi.at/CqNZ) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/CqNZ) | 248897412 | 37bb9abcd8c22f8fffcf3cd8e1dcfecdbefa4e6ee13716669f9852e6960eb602 | 
 | Tue 05 Mar 2024 07:00:01 AM UTC | [Direct](https://oshi.at/QCQN) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/QCQN) | 248958556 | 2d6eb16840961bb7118293201947489f6ac6b1ea9fb79f5e2864b929ac707dc7 | 
-| Mon 04 Mar 2024 07:00:01 AM UTC | [Direct](https://oshi.at/WpyQ) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/WpyQ) | 248887652 | 1c5f93bf1676494191f0f42bdd31630340ff3731d91aca837df61b016c5bc74b | 

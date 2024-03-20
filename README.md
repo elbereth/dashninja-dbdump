@@ -12,6 +12,7 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 ## Automatic Dump Files
 | Date | Links | Size | SHA256 |
 |--|--|--|--|
+| Wed 20 Mar 2024 07:00:01 AM UTC | [Direct](https://oshi.at/gapf) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/gapf) | 249498644 | 0479b5f80bcebb288feba815fc617d6f90c5252d2c650ab77796646939d70830 | 
 | Tue 19 Mar 2024 07:00:01 AM UTC | [Direct](https://oshi.at/AdpK) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/AdpK) | 249619640 | 8115eea1255776c0b3b9fedddd99cca91010d88507aba000a25cb943da61153d | 
 | Mon 18 Mar 2024 07:00:01 AM UTC | [Direct](https://oshi.at/Ydxw) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/Ydxw) | 249487732 | dadf48ffb98e4aa09c9568e3641a3c1b25f39ed6308074af0b27eb00182cbde5 | 
 | Sun 17 Mar 2024 07:00:01 AM UTC | [Direct](https://oshi.at/oSwH) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/oSwH) | 249439984 | 1421f5c065d4994180d558602b71909b33c6d1311e0399ecf83b2bc263f7f410 | 
@@ -25,4 +26,3 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 | Sat 09 Mar 2024 07:00:01 AM UTC | [Direct](<html>) [Onion]() | 249030096 | df0033a323c7f10810f2289deaf21727a7c2d2d00a86c04679aa10d919dcb12b | 
 | Fri 08 Mar 2024 07:00:01 AM UTC | [Direct](https://oshi.at/aZXV) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/aZXV) | 249012820 | d9084ba50c9860ab24a844af424c8c54c27dbed9e6b4810b1bf560ca60ab6e2d | 
 | Thu 07 Mar 2024 07:00:01 AM UTC | [Direct](https://oshi.at/YmJh) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/YmJh) | 248906724 | 8f184001bd808b88bb70cdfd2475663bb5321afb21faec7952c939ad23507716 | 
-| Wed 06 Mar 2024 07:00:02 AM UTC | [Direct](https://oshi.at/CqNZ) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/CqNZ) | 248897412 | 37bb9abcd8c22f8fffcf3cd8e1dcfecdbefa4e6ee13716669f9852e6960eb602 | 

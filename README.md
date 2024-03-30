@@ -12,6 +12,7 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 ## Automatic Dump Files
 | Date | Links | Size | SHA256 |
 |--|--|--|--|
+| Sat 30 Mar 2024 07:00:01 AM UTC | [Direct](https://oshi.at/vjUV) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/vjUV) | 250378224 | 4dda0ece92d5020b81eccd8abdb482d5bf57c45ef90d6f22c01ed2584bc19998 | 
 | Fri 29 Mar 2024 07:00:01 AM UTC | [Direct](https://oshi.at/jftD) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/jftD) | 250377488 | 85b852323c764b14a1e7fbfd6b86e6e53302deca252fb18ad9ffe890c655a6c4 | 
 | Thu 28 Mar 2024 07:00:01 AM UTC | [Direct](https://oshi.at/jyTE) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/jyTE) | 250179848 | f916b2bd9a020ed2ef7fda9c1237aa02ae72e21eba5d82e4e2009c84217bbae4 | 
 | Wed 27 Mar 2024 07:00:01 AM UTC | [Direct](https://oshi.at/ubwS) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/ubwS) | 250152264 | e80beeca10b71cf06d2b06a5ef6db19cf40d27d1fbf8b87323a09bb1992740df | 
@@ -25,4 +26,3 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 | Tue 19 Mar 2024 07:00:01 AM UTC | [Direct](https://oshi.at/AdpK) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/AdpK) | 249619640 | 8115eea1255776c0b3b9fedddd99cca91010d88507aba000a25cb943da61153d | 
 | Mon 18 Mar 2024 07:00:01 AM UTC | [Direct](https://oshi.at/Ydxw) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/Ydxw) | 249487732 | dadf48ffb98e4aa09c9568e3641a3c1b25f39ed6308074af0b27eb00182cbde5 | 
 | Sun 17 Mar 2024 07:00:01 AM UTC | [Direct](https://oshi.at/oSwH) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/oSwH) | 249439984 | 1421f5c065d4994180d558602b71909b33c6d1311e0399ecf83b2bc263f7f410 | 
-| Sat 16 Mar 2024 07:00:01 AM UTC | [Direct](https://oshi.at/Nctt) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/Nctt) | 249355356 | 69ac95d837b42924f4a54bedd1f7d240905d378bbb6ee8b5b647a3ef30b8bd64 | 

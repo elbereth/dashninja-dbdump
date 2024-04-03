@@ -12,6 +12,7 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 ## Automatic Dump Files
 | Date | Links | Size | SHA256 |
 |--|--|--|--|
+| Wed 03 Apr 2024 07:00:01 AM UTC | [Direct](https://oshi.at/FWEZ) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/FWEZ) | 250911152 | 93cf91fa5b8d4edbd5eca5ebb7548d4a782379a27381932798c4be3ee92c7779 | 
 | Tue 02 Apr 2024 07:00:01 AM UTC | [Direct](<html>) [Onion]() | 250343276 | 5bdd29e5e04d032cd1360d20e36b1d0c765ac40c59ed220449af67d4c2e08be3 | 
 | Mon 01 Apr 2024 07:00:01 AM UTC | [Direct](https://oshi.at/uUhr) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/uUhr) | 250723520 | 164e9481abdef432beb272b6e7234d37101758b153cd185c220aa458e4cea59b | 
 | Sun 31 Mar 2024 07:00:01 AM UTC | [Direct](https://oshi.at/MUhU) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/MUhU) | 250902132 | 4817ab9e9f02e3e997d21d32d2863bdb9f14e068b55dde3446787228320b51d0 | 
@@ -25,4 +26,3 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 | Sat 23 Mar 2024 07:00:01 AM UTC | [Direct](https://oshi.at/FfDA) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/FfDA) | 249931980 | fbe95c84824bbe73dc4165fbe425425720823f6b097db88fb30de93fcfa54fc9 | 
 | Fri 22 Mar 2024 07:00:01 AM UTC | [Direct](https://oshi.at/JpGH) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/JpGH) | 249829532 | 047e0c8590c5861b0c32639bfb5257ff89316c8104fc89fa6d9932c266fcb82a | 
 | Thu 21 Mar 2024 07:00:01 AM UTC | [Direct](https://oshi.at/SfZr) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/SfZr) | 249760988 | afc5ce93a637b165f0282396953043c059f06b2b15ede5ee22dec4b0b258f708 | 
-| Wed 20 Mar 2024 07:00:01 AM UTC | [Direct](https://oshi.at/gapf) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/gapf) | 249498644 | 0479b5f80bcebb288feba815fc617d6f90c5252d2c650ab77796646939d70830 | 

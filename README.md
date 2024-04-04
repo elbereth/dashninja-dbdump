@@ -12,6 +12,7 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 ## Automatic Dump Files
 | Date | Links | Size | SHA256 |
 |--|--|--|--|
+| Thu 04 Apr 2024 07:00:01 AM UTC | [Direct](https://oshi.at/vXBC) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/vXBC) | 250557048 | d327ea18f4be4414a1a3993461283c323d0fbf27f47c7312d24e7524348b57a5 | 
 | Wed 03 Apr 2024 07:00:01 AM UTC | [Direct](https://oshi.at/FWEZ) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/FWEZ) | 250911152 | 93cf91fa5b8d4edbd5eca5ebb7548d4a782379a27381932798c4be3ee92c7779 | 
 | Tue 02 Apr 2024 07:00:01 AM UTC | [Direct](<html>) [Onion]() | 250343276 | 5bdd29e5e04d032cd1360d20e36b1d0c765ac40c59ed220449af67d4c2e08be3 | 
 | Mon 01 Apr 2024 07:00:01 AM UTC | [Direct](https://oshi.at/uUhr) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/uUhr) | 250723520 | 164e9481abdef432beb272b6e7234d37101758b153cd185c220aa458e4cea59b | 
@@ -25,4 +26,3 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 | Sun 24 Mar 2024 07:00:01 AM UTC | [Direct](https://oshi.at/svAj) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/svAj) | 250053380 | 207507b92f11f30a10435f88f205d80d13c2438b0d833321bbff63036d698345 | 
 | Sat 23 Mar 2024 07:00:01 AM UTC | [Direct](https://oshi.at/FfDA) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/FfDA) | 249931980 | fbe95c84824bbe73dc4165fbe425425720823f6b097db88fb30de93fcfa54fc9 | 
 | Fri 22 Mar 2024 07:00:01 AM UTC | [Direct](https://oshi.at/JpGH) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/JpGH) | 249829532 | 047e0c8590c5861b0c32639bfb5257ff89316c8104fc89fa6d9932c266fcb82a | 
-| Thu 21 Mar 2024 07:00:01 AM UTC | [Direct](https://oshi.at/SfZr) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/SfZr) | 249760988 | afc5ce93a637b165f0282396953043c059f06b2b15ede5ee22dec4b0b258f708 | 

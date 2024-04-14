@@ -12,6 +12,7 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 ## Automatic Dump Files
 | Date | Links | Size | SHA256 |
 |--|--|--|--|
+| Sun 14 Apr 2024 07:00:01 AM UTC | [Direct]() [Onion]() | 250962624 | 6504d57e6080814bfbb79213122995e680e30d13e03e2b5ca336628674f1b61a | 
 | Sat 13 Apr 2024 07:00:01 AM UTC | [Direct]() [Onion]() | 250971564 | 3f3cc7efe0649fd4bb355f0832c1e0886c856f3c70d312dab2665f04e11eda16 | 
 | Fri 12 Apr 2024 07:00:01 AM UTC | [Direct](https://oshi.at/ijiy) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/ijiy) | 250951264 | cb33854c4dbf19b398b09c2e6f0e442eafd5b874434588fe1b775219cbdb1739 | 
 | Thu 11 Apr 2024 07:00:01 AM UTC | [Direct](https://oshi.at/eJMC) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/eJMC) | 251010564 | 30fe69f413b3754529d2f27671a3759188ac00d5ef94b099dc283e47d220eccd | 
@@ -25,4 +26,3 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 | Wed 03 Apr 2024 07:00:01 AM UTC | [Direct](https://oshi.at/FWEZ) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/FWEZ) | 250911152 | 93cf91fa5b8d4edbd5eca5ebb7548d4a782379a27381932798c4be3ee92c7779 | 
 | Tue 02 Apr 2024 07:00:01 AM UTC | [Direct](<html>) [Onion]() | 250343276 | 5bdd29e5e04d032cd1360d20e36b1d0c765ac40c59ed220449af67d4c2e08be3 | 
 | Mon 01 Apr 2024 07:00:01 AM UTC | [Direct](https://oshi.at/uUhr) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/uUhr) | 250723520 | 164e9481abdef432beb272b6e7234d37101758b153cd185c220aa458e4cea59b | 
-| Sun 31 Mar 2024 07:00:01 AM UTC | [Direct](https://oshi.at/MUhU) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/MUhU) | 250902132 | 4817ab9e9f02e3e997d21d32d2863bdb9f14e068b55dde3446787228320b51d0 | 

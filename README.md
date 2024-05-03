@@ -12,6 +12,7 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 ## Automatic Dump Files
 | Date | Links | Size | SHA256 |
 |--|--|--|--|
+| Fri 03 May 2024 07:00:01 AM UTC | [Direct](https://oshi.at/ztgz) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/ztgz) | 252381368 | 70386a7a73df65cf89fb4f976364565b73fd2b4ee90c657e5fcd7e4a2c1dde0b | 
 | Thu 02 May 2024 07:00:01 AM UTC | [Direct](https://oshi.at/qULY) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/qULY) | 252463264 | efa619d867a10661022df5e2706c5dadbc008b51d7b84216d11de8bfc43a8076 | 
 | Wed 01 May 2024 07:00:01 AM UTC | [Direct](https://oshi.at/WJCF) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/WJCF) | 252618508 | 1920bfca1bacac2f292da62b2d9aa8345475205186067556d2a713e3bb4df7d4 | 
 | Tue 30 Apr 2024 07:00:01 AM UTC | [Direct](https://oshi.at/ZESe) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/ZESe) | 252219572 | 2f26a11dcbfdcfd6bd039e702bfff771b09d73879a8a94904de237b77b7ab7e4 | 
@@ -25,4 +26,3 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 | Mon 22 Apr 2024 07:00:01 AM UTC | [Direct](https://oshi.at/NxEu) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/NxEu) | 251757488 | 8c6ba52a926ac42ea0f57c841e9683a8c3c6c3d5675d65be7f9266b28c4779a9 | 
 | Sun 21 Apr 2024 07:00:01 AM UTC | [Direct](https://oshi.at/cPDj) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/cPDj) | 251416920 | 4530c65a18e36df639bdd458d6022aed489736eb25970563f0f79878769382e2 | 
 | Sat 20 Apr 2024 07:00:01 AM UTC | [Direct](https://oshi.at/jdFw) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/jdFw) | 251439440 | aa50de9b1cfe756b75a7738ecd0973eb0b2ae80e65453a2a588ae1d89fb503ef | 
-| Fri 19 Apr 2024 07:00:01 AM UTC | [Direct](https://oshi.at/jEdLB) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/jEdLB) | 251274960 | 754e792bea7b847a1ac0ca675467e41a49211e3b25c2a502997506530debff59 | 

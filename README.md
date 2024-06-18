@@ -12,6 +12,7 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 ## Automatic Dump Files
 | Date | Links | Size | SHA256 |
 |--|--|--|--|
+| Tue 18 Jun 2024 07:00:01 AM UTC | [Direct](https://oshi.at/NktJ) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/NktJ) | 255080096 | 0ae5cb611c94b44a8eca6390ff77869bf78595c62a9e499a35f3d2947e8d8a3c | 
 | Mon 17 Jun 2024 07:00:02 AM UTC | [Direct](https://oshi.at/CwWw) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/CwWw) | 254852788 | 27ab837c07beb6944098743586fb129a19031947d359e57a52a1628bdd713409 | 
 | Sun 16 Jun 2024 07:00:02 AM UTC | [Direct](https://oshi.at/EBiv) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/EBiv) | 254813592 | 4d681d74ba431f03482a0bda124c86a880b29075fa3dd26398659577f69e3c02 | 
 | Sat 15 Jun 2024 07:00:01 AM UTC | [Direct](https://oshi.at/vxHK) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/vxHK) | 254641180 | 4635d4ae846e46671c5b392d4fcf4aeb2e2a8b7cf01bf6757519b8d28fdffe69 | 
@@ -25,4 +26,3 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 | Fri 07 Jun 2024 07:00:01 AM UTC | [Direct](https://oshi.at/AHKq) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/AHKq) | 254303344 | 2bbdcc0d37e3d1d2121c9b997324771b5a1c6f45db9df268520c9a66d4778f68 | 
 | Thu 06 Jun 2024 07:00:01 AM UTC | [Direct](https://oshi.at/xRZF) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/xRZF) | 254380988 | 25e60a36f12b7c8e3cb8a05ba3a8656eb6739d5c391853a7aa77e5653546cc29 | 
 | Wed 05 Jun 2024 07:00:01 AM UTC | [Direct](https://oshi.at/fQTn) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/fQTn) | 254419324 | 73e25c92d16bdedca49e3caafb4d445c9c4d4dcb486c24e194df1710bd82bfa4 | 
-| Tue 04 Jun 2024 07:00:01 AM UTC | [Direct](https://oshi.at/uNRf) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/uNRf) | 254026936 | 1062d27f211ac412b325d177b9f1653baacf77c4074a16f1146bc49b99ebe05a | 

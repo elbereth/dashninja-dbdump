@@ -12,6 +12,7 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 ## Automatic Dump Files
 | Date | Links | Size | SHA256 |
 |--|--|--|--|
+| Fri 21 Jun 2024 07:00:01 AM UTC | [Direct](https://oshi.at/iuxB) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/iuxB) | 255032936 | d8d42ab52514ce34986ecb4c36a57edb89b70d2198a524dae62ac9096f5127e3 | 
 | Thu 20 Jun 2024 07:00:01 AM UTC | [Direct](https://oshi.at/YfcY) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/YfcY) | 255035280 | 39ea83b14bf736c4660b289149d203a22f4dd5da8fc8b54a45e4ac296c5d3ea4 | 
 | Wed 19 Jun 2024 07:00:01 AM UTC | [Direct](https://oshi.at/ZUct) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/ZUct) | 254872744 | cbd0b090ea116d3d6d5bf79bc44c2469dc51ee88c263fdd024865b1214d7c603 | 
 | Tue 18 Jun 2024 07:00:01 AM UTC | [Direct](https://oshi.at/NktJ) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/NktJ) | 255080096 | 0ae5cb611c94b44a8eca6390ff77869bf78595c62a9e499a35f3d2947e8d8a3c | 
@@ -25,4 +26,3 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 | Mon 10 Jun 2024 07:00:01 AM UTC | [Direct](https://oshi.at/XjzK) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/XjzK) | 254372800 | 10192ecbeb0ed2e6de60ef0cef8216e1b31e80969fdb8936e06ab235c28891c1 | 
 | Sun 09 Jun 2024 07:00:01 AM UTC | [Direct](https://oshi.at/njgU) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/njgU) | 254394144 | 56d7d31e7e4ea0d52cd48c53fa8b544ecf4e83fff5ea096420f9f9864c017b7f | 
 | Sat 08 Jun 2024 07:00:01 AM UTC | [Direct](https://oshi.at/vsew) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/vsew) | 254618840 | 546e36d6137f1c1299e6054c43031387848df8498fec12dc7f196acec352270d | 
-| Fri 07 Jun 2024 07:00:01 AM UTC | [Direct](https://oshi.at/AHKq) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/AHKq) | 254303344 | 2bbdcc0d37e3d1d2121c9b997324771b5a1c6f45db9df268520c9a66d4778f68 | 

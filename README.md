@@ -12,6 +12,7 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 ## Automatic Dump Files
 | Date | Links | Size | SHA256 |
 |--|--|--|--|
+| Wed 03 Jul 2024 07:00:01 AM UTC | [Direct](<html>) [Onion]() | 255990044 | f5a4d8cbcee5205154f277c155556abf94f8dec19d2d98e92b87bbfd24c58576 | 
 | Tue 02 Jul 2024 07:00:01 AM UTC | [Direct](https://oshi.at/kfZr) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/kfZr) | 255802096 | a01a32bafbcdde9e443cca09cb7b2f026054c848d718c1414c687d233d6564ef | 
 | Mon 01 Jul 2024 07:00:01 AM UTC | [Direct](https://oshi.at/cihLQ) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/cihLQ) | 255732192 | c295ef137486334974d5dea4d911abd2265fa980fda3734404b10d796ad1950a | 
 | Sun 30 Jun 2024 07:00:01 AM UTC | [Direct](https://oshi.at/Smhf) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/Smhf) | 255788844 | 26beb818e1c5cbdb22853e8a2341e3a9b5f56f8033527dc02ca492dd4e939906 | 
@@ -25,4 +26,3 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 | Sat 22 Jun 2024 07:00:01 AM UTC | [Direct](https://oshi.at/BBRs) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/BBRs) | 255318260 | a4e566188d178e0138b497b10825c54edaecb48b4455a6cf57f414b1c6776868 | 
 | Fri 21 Jun 2024 07:00:01 AM UTC | [Direct](https://oshi.at/iuxB) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/iuxB) | 255032936 | d8d42ab52514ce34986ecb4c36a57edb89b70d2198a524dae62ac9096f5127e3 | 
 | Thu 20 Jun 2024 07:00:01 AM UTC | [Direct](https://oshi.at/YfcY) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/YfcY) | 255035280 | 39ea83b14bf736c4660b289149d203a22f4dd5da8fc8b54a45e4ac296c5d3ea4 | 
-| Wed 19 Jun 2024 07:00:01 AM UTC | [Direct](https://oshi.at/ZUct) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/ZUct) | 254872744 | cbd0b090ea116d3d6d5bf79bc44c2469dc51ee88c263fdd024865b1214d7c603 | 

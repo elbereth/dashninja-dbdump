@@ -12,6 +12,7 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 ## Automatic Dump Files
 | Date | Links | Size | SHA256 |
 |--|--|--|--|
+| Sun 07 Jul 2024 07:00:01 AM UTC | [Direct](https://oshi.at/PecL) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/PecL) | 256133776 | 04d1403733ea51ae2a8e89408cc950d073880f02d927a2ec7f9712db62236e65 | 
 | Sat 06 Jul 2024 07:00:01 AM UTC | [Direct](<html>) [Onion]() | 256041620 | af4ea9b391b1bb9b53e6a381b56b774d7fd1e1159a69aa44fd3da11aa9984453 | 
 | Fri 05 Jul 2024 07:00:01 AM UTC | [Direct](https://oshi.at/dAwR) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/dAwR) | 256220772 | 1fef1b420026fd8257eb042b5030d7765b3678b72422d5f789c35cdc74fd38fb | 
 | Thu 04 Jul 2024 07:00:01 AM UTC | [Direct](<html>) [Onion]() | 255891880 | 6878bdf9196213a0d788f30f92fddfc5a0a42a899630186d72c8a49f2cb19412 | 
@@ -25,4 +26,3 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 | Wed 26 Jun 2024 07:00:01 AM UTC | [Direct](https://oshi.at/GDvV) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/GDvV) | 255577728 | aedc39b9abab26ab946dcacfd141688bb0cd4653d22f51ce996bd7c9a454518f | 
 | Tue 25 Jun 2024 07:00:01 AM UTC | [Direct](https://oshi.at/SCRY) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/SCRY) | 255544428 | 69059313d3e38ff9503e483546188c6c8acb644cfc8e447e022cbda884cb2448 | 
 | Mon 24 Jun 2024 07:00:01 AM UTC | [Direct](https://oshi.at/MDws) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/MDws) | 255805748 | d9b11065521deae015d4deddffb6024bebee381df052863a197bb01ad46dcdf1 | 
-| Sun 23 Jun 2024 07:00:01 AM UTC | [Direct](https://oshi.at/JNHa) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/JNHa) | 255413124 | 81732990f9fda61734b0334a9c0521d06b6b8b237e2a918a411349be4ae4e0f2 | 

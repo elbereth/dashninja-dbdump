@@ -12,6 +12,7 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 ## Automatic Dump Files
 | Date | Links | Size | SHA256 |
 |--|--|--|--|
+| Mon 30 Sep 2024 07:00:01 AM UTC | [Direct](https://oshi.at/BwSr) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/BwSr) | 261329848 | 920568966f413b056960b7649d2745260ff1d788092e519d1c8f07897765fd7d | 
 | Sun 29 Sep 2024 07:00:01 AM UTC | [Direct](https://oshi.at/eHGJ) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/eHGJ) | 261533992 | a9b29391ca5e67469c32248c4ee75a5a2b81157512a07c60142de1f6f66fc21c | 
 | Sat 28 Sep 2024 07:00:01 AM UTC | [Direct](https://oshi.at/byju) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/byju) | 261234280 | 9c3aeb06d5b3424e6286d058e2acbce6ddd967c883f76c886133a78292b2743d | 
 | Fri 27 Sep 2024 07:00:01 AM UTC | [Direct](https://oshi.at/StpS) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/StpS) | 261252556 | e4aa4b5c11712dc0b43595738ce0d0b78e6693c40bae917a443c62d154c8c5b1 | 
@@ -25,4 +26,3 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 | Thu 19 Sep 2024 07:00:01 AM UTC | [Direct](https://oshi.at/TyqL) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/TyqL) | 260579572 | 8a07e7e455c7fa6a043f41bc2fbcbd28babba6aa3ec6d26a67698eff29b13da2 | 
 | Wed 18 Sep 2024 07:00:02 AM UTC | [Direct](https://oshi.at/MBAV) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/MBAV) | 260746592 | 0168afb875b3f7b6d05c771164eacd05eaa029437a3bae67f26fdc5f4d1512e5 | 
 | Tue 17 Sep 2024 07:00:01 AM UTC | [Direct](https://oshi.at/Lihi) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/Lihi) | 260456420 | e77b954b8510d2e3d30335cffe6301a5194bc9ec2d91589cebd4ba561667bf10 | 
-| Mon 16 Sep 2024 07:00:01 AM UTC | [Direct](https://oshi.at/LxqB) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/LxqB) | 260544004 | 56c5cc7fc80c7daccee67b7b95b5a3c528417bd1d69a05e4c5e18f14271e0602 | 

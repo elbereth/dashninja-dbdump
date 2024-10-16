@@ -12,6 +12,7 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 ## Automatic Dump Files
 | Date | Links | Size | SHA256 |
 |--|--|--|--|
+| Wed 16 Oct 2024 07:00:01 AM UTC | [Direct](https://oshi.at/JDbW) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/JDbW) | 262229812 | 8ae62e622ed6697c86fa02ff120f812b0e5092b42a0ef9ced44939cc095ed8bb | 
 | Tue 15 Oct 2024 07:00:01 AM UTC | [Direct](https://oshi.at/VQCv) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/VQCv) | 262088056 | 5746df2d768aa327cfa24ddc7cc0a1bfb2ff82bbbd42760270eb02380088a35e | 
 | Mon 14 Oct 2024 07:00:01 AM UTC | [Direct](https://oshi.at/UbZh) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/UbZh) | 261873404 | 476521ac79c6f974d0441d9fe5db3cb7c803dea565cd90b56a3023d571f24bb1 | 
 | Sun 13 Oct 2024 07:00:01 AM UTC | [Direct](https://oshi.at/faef) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/faef) | 261820412 | f4850d4e8234a0dea435aa2a9732afaeca897e83f21c074e7a90377fc3960240 | 
@@ -25,4 +26,3 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 | Sat 05 Oct 2024 07:00:01 AM UTC | [Direct](https://oshi.at/nhYC) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/nhYC) | 261645228 | 7604c026726b2e00cc06a2b8fac7e742cfbc96ad350b1a680849f0c07f63535e | 
 | Fri 04 Oct 2024 07:00:01 AM UTC | [Direct](</body></html>) [Onion](</body></html>) | 261580128 | eaa737b388769fb281a5ed79b24a1f3272a7c8aedf93f73b2662c9bf31430355 | 
 | Thu 03 Oct 2024 07:00:01 AM UTC | [Direct](https://oshi.at/SJxo) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/SJxo) | 261543500 | 867ead2d5693e8cf8c346ca4dd6d4c7bcd7b8e93f3c7f24cfe34144a43f4b6de | 
-| Wed 02 Oct 2024 07:00:01 AM UTC | [Direct](https://oshi.at/AvgM) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/AvgM) | 261412268 | 9e54ccc99246efdfc58d8feac7d52a1a5ccf400c1f284c938ab7568ea65a4f42 | 

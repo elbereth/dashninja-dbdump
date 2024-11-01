@@ -12,6 +12,7 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 ## Automatic Dump Files
 | Date | Links | Size | SHA256 |
 |--|--|--|--|
+| Fri 01 Nov 2024 07:00:01 AM UTC | [Direct](</body></html>) [Onion](</body></html>) | 262778496 | f2e524eceec0f03479466a1d361125a28b162acfec1ea9fd38fa2dcc62fc54bb | 
 | Thu 31 Oct 2024 07:00:01 AM UTC | [Direct](https://oshi.at/MiEJ) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/MiEJ) | 262857276 | 2e377b4ffc4a3d74c67c3826418058b6c1ed6f6f453e42d929a18aee61cc51d4 | 
 | Wed 30 Oct 2024 07:00:01 AM UTC | [Direct](https://oshi.at/hZhE) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/hZhE) | 262875184 | a6c43f158660181f6905fb84b6a2c1d241707fe4efa30b91bb20422fee2e01d6 | 
 | Tue 29 Oct 2024 07:00:01 AM UTC | [Direct](https://oshi.at/LTPW) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/LTPW) | 262929844 | fa782c9dd4ccd904d8d0e728594602ada77fc3c01be4eb1f3013caa0a69e0577 | 
@@ -25,4 +26,3 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 | Mon 21 Oct 2024 07:00:01 AM UTC | [Direct](https://oshi.at/rSMi) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/rSMi) | 262346716 | a4c5166c23fe34bb0fb452a3b4e527d06cfacf1a98179cbeed1d2ab28b73792e | 
 | Sun 20 Oct 2024 07:00:01 AM UTC | [Direct](https://oshi.at/ozWV) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/ozWV) | 262533304 | d08262d55bc91759c715552b2a2027daa7c87f56fd73b100e3369b99cc99d4a1 | 
 | Sat 19 Oct 2024 07:00:01 AM UTC | [Direct](https://oshi.at/hiEh) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/hiEh) | 262429488 | 086a62b3db2e8ce94c5bde779961d7e780fa611a5a4c988b983c75ed62aaf427 | 
-| Fri 18 Oct 2024 07:00:01 AM UTC | [Direct](https://oshi.at/KXvV) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/KXvV) | 262044772 | 0dd76c198f99f0e85e38c28b1b1b7d0cc9abc930354c1b900de75a302f0f3610 | 

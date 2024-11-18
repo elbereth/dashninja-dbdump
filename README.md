@@ -12,6 +12,7 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 ## Automatic Dump Files
 | Date | Links | Size | SHA256 |
 |--|--|--|--|
+| Mon 18 Nov 2024 07:00:01 AM UTC | [Direct](https://oshi.at/gBTV) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/gBTV) | 263683740 | cada87f2121067a014a8f3be3d9ea2c0a4b54087c1bf0a6037ad7d848b010a24 | 
 | Sun 17 Nov 2024 07:00:01 AM UTC | [Direct](https://oshi.at/PYmk) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/PYmk) | 263665900 | fcaa70a2632edab1ca711eac4f4bf24635fc13506b5ef6542ca8f5fe993670f4 | 
 | Sat 16 Nov 2024 07:00:01 AM UTC | [Direct](https://oshi.at/FPSc) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/FPSc) | 263589892 | 19b4f6174f359c3c276071df85d760527060b575f5dd09c90e7191dcc932cf62 | 
 | Fri 15 Nov 2024 07:00:01 AM UTC | [Direct](https://oshi.at/fWJp) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/fWJp) | 263554804 | e0dea7c75b0fb82dc336ba5484aa6c3a98e3d0f7aaccacf3842a37a6304243f9 | 
@@ -25,4 +26,3 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 | Thu 07 Nov 2024 07:00:01 AM UTC | [Direct](https://oshi.at/sFGs) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/sFGs) | 263096112 | 4f196d85c83f2ed9cce08991b39668d28133dcd0d983ce5be638d7385a47bdb8 | 
 | Wed 06 Nov 2024 07:00:01 AM UTC | [Direct](https://oshi.at/GaMAH) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/GaMAH) | 263667148 | 2202356aee8cc163c3d60f1b5c6978f47a481f77e710c629f6c392eeaf94fc8a | 
 | Tue 05 Nov 2024 07:00:01 AM UTC | [Direct](https://oshi.at/tNBK) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/tNBK) | 263032748 | c95b8017f34e13f6ecaebc2a258c3ead0ba1e08cf38e621bc2281176a813266b | 
-| Mon 04 Nov 2024 07:00:01 AM UTC | [Direct](https://oshi.at/jZPh) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/jZPh) | 262877960 | aa613dd6f378ab538d86006fb4546c40499cf257c0725ffe9cda4b67ba3b6fb3 | 

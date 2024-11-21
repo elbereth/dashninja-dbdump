@@ -12,6 +12,7 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 ## Automatic Dump Files
 | Date | Links | Size | SHA256 |
 |--|--|--|--|
+| Thu 21 Nov 2024 07:00:01 AM UTC | [Direct](https://oshi.at/wfsr) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/wfsr) | 264031264 | 869bacd8b5a481b95f91247ddd918ff4975d99b0acacc592fc0ee1b49aee7d12 | 
 | Wed 20 Nov 2024 07:00:01 AM UTC | [Direct](https://oshi.at/ZSDb) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/ZSDb) | 263907332 | 2a2434ebcea57b286eb09fdfa027c364dd284ea7ad2fb5ffbea3a79222d98533 | 
 | Tue 19 Nov 2024 07:00:01 AM UTC | [Direct](https://oshi.at/eVXTJ) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/eVXTJ) | 264118308 | c3194a50110f74e65a8a14f068e49482bd7d69fa3f809e0afb8cf9d863643f9e | 
 | Mon 18 Nov 2024 07:00:01 AM UTC | [Direct](https://oshi.at/gBTV) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/gBTV) | 263683740 | cada87f2121067a014a8f3be3d9ea2c0a4b54087c1bf0a6037ad7d848b010a24 | 
@@ -25,4 +26,3 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 | Sun 10 Nov 2024 07:00:01 AM UTC | [Direct](https://oshi.at/DfTz) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/DfTz) | 263457580 | 3fccccf3ed6e205be616c1c8604a9008845e529888846b32f00b2ab5f71ef6fd | 
 | Sat 09 Nov 2024 07:00:01 AM UTC | [Direct](https://oshi.at/carL) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/carL) | 263454852 | 50cb0086165ee01383ca20d073bbecdb72731937103c4400bc0e9e7440b7239b | 
 | Fri 08 Nov 2024 07:00:01 AM UTC | [Direct](https://oshi.at/dwFM) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/dwFM) | 263198716 | 56a87a5c345bbdaece70588f23eeea916aba5746e4c876bd2666a1b40fd3795a | 
-| Thu 07 Nov 2024 07:00:01 AM UTC | [Direct](https://oshi.at/sFGs) [Onion](http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/sFGs) | 263096112 | 4f196d85c83f2ed9cce08991b39668d28133dcd0d983ce5be638d7385a47bdb8 | 
